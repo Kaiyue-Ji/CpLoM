@@ -1,0 +1,1 @@
+In a family knowledge graph, the relation "aunt" represents a familial connection where one person is the sister of someone's parent, or the wife of someone's uncle, making them a female relative in the extended family.

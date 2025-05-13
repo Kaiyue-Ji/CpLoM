@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "contains" typically signifies that one entity or concept includes or holds within it another entity, such as a biological process containing certain molecular components or a tissue type containing specific cell types.

@@ -1,0 +1,1 @@
+In a family knowledge graph, the relation "brother" denotes a male sibling, indicating that two individuals share at least one biological or legal parent.

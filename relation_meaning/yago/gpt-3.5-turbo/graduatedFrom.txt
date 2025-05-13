@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "graduatedFrom" denotes the connection between an individual and the educational institution where they completed their academic degree or program.

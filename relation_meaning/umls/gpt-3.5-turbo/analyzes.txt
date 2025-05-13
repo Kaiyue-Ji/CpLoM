@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "analyzes" typically denotes a connection where one entity (such as a tool, method, or process) examines, investigates, or processes data or biological samples to extract information, identify patterns, or derive insights.

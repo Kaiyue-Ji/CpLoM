@@ -1,0 +1,75 @@
+In a knowledge graph, the relation "actedIn" represents the connection between an actor and a specific movie, TV show, or theatrical performance in which they performed.
+
+
+In a knowledge graph, a relation represents a semantic connection between two entities, defining how they are related or interact with each other, typically represented as an edge linking two nodes (entities).
+
+In a knowledge graph, the relation "dealsWith" typically represents a connection between two entities where one entity is involved with or manages a particular aspect or subject related to the other entity.
+
+In a knowledge graph, the relation "diedIn" typically represents the connection between an individual and the location or place where they passed away.
+
+In a knowledge graph, the relation "directed" typically represents a one-way connection or flow of information from one entity to another, indicating the direction of influence, control, or association between them.
+
+In a knowledge graph, the relation "edited" represents a connection between an entity (such as a document, article, or media) and a person or group who made modifications or updates to it.
+
+In a knowledge graph, the relation "exports" represents the transfer or movement of goods, services, or resources from one entity (such as a country, company, or region) to another, typically across borders or between markets.
+
+In a knowledge graph, the relation "graduatedFrom" denotes the connection between an individual and the educational institution where they completed their academic degree or program.
+
+In a knowledge graph, the relation "happenedIn" denotes the association between an event and the specific location (or place) where the event occurred.
+
+In a knowledge graph, the relation "hasAcademicAdvisor" represents a connection between a student and their assigned academic advisor, indicating that the student is being mentored or guided in their academic journey by the advisor.
+
+In a knowledge graph, the relation "hasCapital" typically represents the connection between a country or region and its capital city, indicating that the country or region is associated with or governs a specific capital.
+
+In a knowledge graph, the relation "hasChild" represents a familial connection where one entity (typically a parent) is directly related to another entity (typically a child) in a hierarchical or generational context.
+
+In a knowledge graph, the relation "hasCurrency" indicates that an entity (such as a country, region, or organization) possesses or is associated with a specific currency used for transactions and economic activities.
+
+In a knowledge graph, the relation "hasGender" represents the association between an entity (such as a person or character) and their gender identity or classification, typically expressed as male, female, or other gender identities.
+
+The relation **hasMusicalRole** in a knowledge graph typically denotes the association between a person or entity and a specific role they perform in a musical context, such as being a composer, performer, conductor, or any other participant in a musical production.
+
+In a knowledge graph, the relation "hasNeighbor" represents a connection between two entities, indicating that they are located next to or in close proximity to each other in a specific context, such as geographic, spatial, or logical relationships.
+
+In a knowledge graph, the relation "hasOfficialLanguage" represents a connection between a country, region, or entity and the language(s) that are legally recognized for official use within its jurisdiction.
+
+In a knowledge graph, the relation "hasWebsite" indicates that a particular entity, such as an organization, business, or individual, possesses a web address (URL) that hosts its online presence or information.
+
+In a knowledge graph, the relation "hasWonPrize" represents a connection between an entity, typically a person or organization, and a specific prize or award they have received, indicating that the entity has been recognized for achieving a certain level of excellence or accomplishment.
+
+In a knowledge graph, the relation "imports" represents a connection where one entity (typically a country, company, or system) brings goods, services, or data from another entity across a defined boundary or context.
+
+In a knowledge graph, the relation "influences" denotes a connection where one entity has a significant impact or effect on the state, behavior, or development of another entity.
+
+In a knowledge graph, the relation "isAffiliatedTo" typically signifies a connection between an entity and an organization, institution, or group, indicating that the entity is associated with or a part of the mentioned organization or group.
+
+The relation **isCitizenOf** in a knowledge graph represents the association between an individual (such as a person) and a country or state, indicating that the individual holds citizenship in that specific country or state.
+
+In a knowledge graph, the relation "isConnectedTo" represents a direct or indirect link or relationship between two entities, indicating they are associated or interact in some way within the graph's context.
+
+In a knowledge graph, the relation "isInterestedIn" represents a connection where one entity shows curiosity, preference, or engagement towards another entity or topic.
+
+In a knowledge graph, the relation "isKnownFor" indicates that an entity (such as a person, organization, or place) is widely recognized or associated with a specific achievement, characteristic, or notable activity.
+
+In a knowledge graph, the relation "isLeaderOf" signifies that an individual or entity holds a position of authority or leadership over a group, organization, or team.
+
+In a knowledge graph, the relation **isLocatedIn** signifies a spatial or geographical connection, indicating that an entity (such as a building, city, or organization) is situated within a specific location or region (such as a country, state, or area).
+
+In a knowledge graph, the relation **isMarriedTo** represents a connection between two entities, indicating that the individuals or entities involved are legally or socially recognized as being married to each other.
+
+In a knowledge graph, the relation "isPoliticianOf" represents the connection between an individual and a political entity, indicating that the person holds a political position or role within that entity, such as a political party, government, or office.
+
+In a knowledge graph, the relation "livesIn" typically represents the connection between an individual (such as a person or entity) and a specific location (such as a city, country, or address) where the individual resides or is situated.
+
+In a knowledge graph, the relation "owns" represents a relationship where one entity possesses or has legal control over another entity, typically indicating ownership or possession.
+
+The relation "participatedIn" in a knowledge graph typically signifies that an entity (such as a person, organization, or object) took part or was involved in a specific event, activity, or process.
+
+In a knowledge graph, the relation "playsFor" typically indicates a connection where a person (such as an athlete) is associated with or performs for a particular team, club, or organization in a specific sport or activity.
+
+In a knowledge graph, the relation "wasBornIn" indicates the connection between an individual and the location (such as a city or country) where they were born.
+
+In a knowledge graph, the relation "worksAt" denotes the association between an individual (such as an employee) and the organization or company where they are employed.
+
+In a knowledge graph, the relation "wroteMusicFor" signifies that an individual composed or created music specifically for a particular person, group, project, or event.
+

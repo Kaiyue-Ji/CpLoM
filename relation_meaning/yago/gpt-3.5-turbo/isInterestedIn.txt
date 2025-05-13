@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "isInterestedIn" represents a connection where one entity shows curiosity, preference, or engagement towards another entity or topic.

@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "imports" represents a connection where one entity (typically a country, company, or system) brings goods, services, or data from another entity across a defined boundary or context.

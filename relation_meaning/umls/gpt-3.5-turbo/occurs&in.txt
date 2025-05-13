@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "occurs_in" typically denotes the specific location, environment, or context where a biological event, process, or entity takes place, such as a disease occurring in a particular organ or a molecular interaction happening within a cell type.

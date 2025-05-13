@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "performs" typically signifies the action or activity carried out by an entity, such as a gene, protein, or organism, in relation to a specific biological function, process, or experiment.

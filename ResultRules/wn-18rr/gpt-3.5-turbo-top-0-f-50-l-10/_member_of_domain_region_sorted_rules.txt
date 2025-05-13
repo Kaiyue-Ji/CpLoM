@@ -1,0 +1,43 @@
+883	1.0	1.0	1.0	_member_of_domain_region <-- _member_of_domain_region
+59	0.06681766704416761	1.0	1.0	_member_of_domain_region <-- _member_of_domain_region, _instance_hypernym, _member_of_domain_region
+2	0.0022650056625141564	1.0	1.0	_member_of_domain_region <-- _member_of_domain_region, _similar_to, _similar_to
+2	0.0022650056625141564	1.0	1.0	_member_of_domain_region <-- _member_of_domain_region, _similar_to, inv__similar_to
+34	0.03850509626274066	0.9444444444444444	0.9444444444444444	_member_of_domain_region <-- _member_of_domain_region, inv__has_part, _member_of_domain_region
+12	0.013590033975084938	0.8571428571428571	0.8571428571428571	_member_of_domain_region <-- _member_of_domain_region, _member_meronym, inv__member_meronym
+28	0.031710079275198186	0.8484848484848485	0.8484848484848485	_member_of_domain_region <-- _member_of_domain_region, inv__hypernym, _hypernym
+3	0.0033975084937712344	0.75	0.75	_member_of_domain_region <-- _member_of_domain_region, inv__instance_hypernym
+18	0.020385050962627407	0.6923076923076923	0.6923076923076923	_member_of_domain_region <-- _member_of_domain_region, _has_part, inv__has_part
+33	0.03737259343148358	0.4852941176470588	0.4852941176470588	_member_of_domain_region <-- _member_of_domain_region, _derivationally_related_form, inv__derivationally_related_form
+49	0.05549263873159683	0.44545454545454544	0.44545454545454544	_member_of_domain_region <-- _member_of_domain_region, _derivationally_related_form, _derivationally_related_form
+4	0.004530011325028313	0.4444444444444444	0.4444444444444444	_member_of_domain_region <-- _member_of_domain_region, inv__synset_domain_topic_of, _synset_domain_topic_of
+830.0	0.9399773499433749	0.23599658800113732	0.4125248508946322	_member_of_domain_region <-- _has_part, inv__has_part, _member_of_domain_region
+33	0.03737259343148358	0.38823529411764707	0.38823529411764707	_member_of_domain_region <-- _member_of_domain_region, inv__derivationally_related_form, _derivationally_related_form
+20	0.022650056625141562	0.36363636363636365	0.36363636363636365	_member_of_domain_region <-- _member_of_domain_region, inv__derivationally_related_form, inv__derivationally_related_form
+12	0.013590033975084938	0.35294117647058826	0.35294117647058826	_member_of_domain_region <-- _member_of_domain_region, inv__member_meronym, _member_meronym
+2	0.0022650056625141564	0.023255813953488372	0.3333333333333333	_member_of_domain_region <-- _member_of_domain_usage, inv__hypernym
+3	0.0033975084937712344	0.2727272727272727	0.2727272727272727	_member_of_domain_region <-- _member_of_domain_region, _has_part, _member_of_domain_region
+13	0.014722536806342015	0.2708333333333333	0.2708333333333333	_member_of_domain_region <-- _member_of_domain_region, inv__hypernym
+865	0.9796149490373726	0.25021695111368236	0.25021695111368236	_member_of_domain_region <-- _member_of_domain_region, inv__member_of_domain_region, _member_of_domain_region
+786.0	0.8901472253680635	0.09369412325664561	0.2159934047815334	_member_of_domain_region <-- inv__has_part, _has_part, _member_of_domain_region
+7	0.007927519818799546	0.18421052631578946	0.18421052631578946	_member_of_domain_region <-- _member_of_domain_region, _has_part
+2	0.0022650056625141564	0.16666666666666666	0.16666666666666666	_member_of_domain_region <-- _member_of_domain_region, inv__member_meronym
+54	0.061155152887882216	0.15472779369627507	0.15472779369627507	_member_of_domain_region <-- _member_of_domain_region, inv__has_part, _has_part
+3	0.0033975084937712344	7.339269987278599e-05	0.14285714285714285	_member_of_domain_region <-- inv__derivationally_related_form, _derivationally_related_form
+373	0.42242355605889015	0.1425840978593272	0.1425840978593272	_member_of_domain_region <-- _member_of_domain_region, _hypernym, inv__hypernym
+19	0.021517553793884484	0.12751677852348994	0.12751677852348994	_member_of_domain_region <-- _member_of_domain_region, inv__member_of_domain_usage, _member_of_domain_usage
+5	0.0056625141562853904	0.125	0.125	_member_of_domain_region <-- _member_of_domain_region, inv__has_part
+6	0.006795016987542469	0.1111111111111111	0.1111111111111111	_member_of_domain_region <-- _member_of_domain_region, _derivationally_related_form
+315	0.3567383918459796	0.0348721355031551	0.10699728260869565	_member_of_domain_region <-- _instance_hypernym, inv__instance_hypernym, _member_of_domain_region
+641	0.7259343148357871	0.06455186304128903	0.10202132739137355	_member_of_domain_region <-- inv__member_meronym, _member_meronym, _member_of_domain_region
+2	0.0022650056625141564	0.0035842293906810036	0.1	_member_of_domain_region <-- _member_meronym, _derivationally_related_form, _derivationally_related_form
+3	0.0033975084937712344	0.09375	0.09375	_member_of_domain_region <-- _member_of_domain_region, inv__derivationally_related_form
+2	0.0022650056625141564	3.546350805021633e-05	0.05714285714285714	_member_of_domain_region <-- _derivationally_related_form, _derivationally_related_form
+1	0.0011325028312570782	0.023255813953488372	0.05	_member_of_domain_region <-- _has_part, _member_of_domain_region, inv__has_part
+2	0.0022650056625141564	0.05	0.05	_member_of_domain_region <-- _member_of_domain_region, _member_meronym
+6	0.006795016987542469	0.008119079837618403	0.043795620437956206	_member_of_domain_region <-- inv__has_part, _member_of_domain_region, _has_part
+132	0.14949037372593432	0.028871391076115485	0.028871391076115485	_member_of_domain_region <-- _member_of_domain_region, _instance_hypernym, inv__instance_hypernym
+2.0	0.0022650056625141564	0.025974025974025976	0.025974025974025976	_member_of_domain_region <-- _member_of_domain_region, _instance_hypernym, inv__hypernym
+12	0.013590033975084938	0.02414486921529175	0.02414486921529175	_member_of_domain_region <-- _member_of_domain_region, _hypernym
+69	0.07814269535673839	0.017293233082706767	0.017293233082706767	_member_of_domain_region <-- _member_of_domain_region, _synset_domain_topic_of, inv__synset_domain_topic_of
+2	0.0022650056625141564	0.015503875968992248	0.015503875968992248	_member_of_domain_region <-- _member_of_domain_region, _instance_hypernym
+1	0.0011325028312570782	0.002364066193853428	0.002364066193853428	_member_of_domain_region <-- _member_of_domain_region, _hypernym, _hypernym

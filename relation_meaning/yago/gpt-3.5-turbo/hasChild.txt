@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasChild" represents a familial connection where one entity (typically a parent) is directly related to another entity (typically a child) in a hierarchical or generational context.

@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "livesIn" typically represents the connection between an individual (such as a person or entity) and a specific location (such as a city, country, or address) where the individual resides or is situated.

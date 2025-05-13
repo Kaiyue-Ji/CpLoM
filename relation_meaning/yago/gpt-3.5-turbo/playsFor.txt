@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "playsFor" typically indicates a connection where a person (such as an athlete) is associated with or performs for a particular team, club, or organization in a specific sport or activity.

@@ -1,0 +1,1 @@
+The relation _synset_domain_topic_of in an English vocabulary knowledge graph links a synset (a set of synonymous words) to a specific domain or topic, indicating that the words in the synset are relevant to or associated with that particular field or subject area.

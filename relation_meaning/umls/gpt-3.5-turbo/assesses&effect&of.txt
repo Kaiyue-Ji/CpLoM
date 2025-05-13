@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "assesses&effect&of" refers to the evaluation or measurement of the impact or outcome of a specific intervention, treatment, or condition on a biological entity, such as a disease, biomarker, or physiological process.

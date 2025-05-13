@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "isPoliticianOf" represents the connection between an individual and a political entity, indicating that the person holds a political position or role within that entity, such as a political party, government, or office.

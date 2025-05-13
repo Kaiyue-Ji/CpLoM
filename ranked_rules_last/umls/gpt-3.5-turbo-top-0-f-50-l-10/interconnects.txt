@@ -1,0 +1,67 @@
+1	0.5	0.08333333333333333	1.0	interconnects <-- inv_disrupts, inv_produces, inv_contains
+1	0.5	1.0	1.0	interconnects <-- adjacent&to, inv_derivative&of, inv_location&of
+1	0.5	1.0	1.0	interconnects <-- interconnects, interconnects, inv_interconnects
+1	0.5	0.1111111111111111	1.0	interconnects <-- surrounds, inv_contains
+1	0.5	0.25	0.5	interconnects <-- surrounds, surrounds, inv_interconnects
+1	0.5	0.125	0.5	interconnects <-- contains, inv_surrounds, inv_contains
+1	0.5	0.125	0.5	interconnects <-- contains, inv_contains, inv_contains
+1	0.5	0.16666666666666666	0.3333333333333333	interconnects <-- surrounds, surrounds
+2	1.0	0.3333333333333333	0.3333333333333333	interconnects <-- connected&to, inv_connected&to, adjacent&to
+1	0.5	0.017241379310344827	0.3333333333333333	interconnects <-- inv_part&of, surrounds
+1	0.5	0.1	0.3333333333333333	interconnects <-- surrounds, surrounds, inv_surrounds
+1	0.5	0.029411764705882353	0.3333333333333333	interconnects <-- part&of, inv_location&of, adjacent&to
+1	0.5	0.006578947368421052	0.3333333333333333	interconnects <-- isa, inv_isa, inv_interconnects
+2	1.0	0.031746031746031744	0.25	interconnects <-- location&of, inv_location&of, surrounds
+1	0.5	0.02	0.25	interconnects <-- inv_disrupts, inv_produces, surrounds
+1	0.5	0.0625	0.25	interconnects <-- contains, inv_contains, inv_isa
+2	1.0	0.0625	0.25	interconnects <-- contains, inv_contains, surrounds
+1	0.5	0.017857142857142856	0.25	interconnects <-- inv_disrupts, disrupts, surrounds
+1	0.5	0.014285714285714285	0.2	interconnects <-- inv_disrupts, disrupts, inv_surrounds
+1	0.5	0.01	0.2	interconnects <-- produces, disrupts, inv_surrounds
+1	0.5	0.030303030303030304	0.16666666666666666	interconnects <-- conceptual&part&of, inv_conceptual&part&of, inv_location&of
+1	0.5	0.041666666666666664	0.16666666666666666	interconnects <-- conceptual&part&of, inv_conceptual&part&of
+1	0.5	0.16666666666666666	0.16666666666666666	interconnects <-- connected&to, inv_location&of
+2	1.0	0.020833333333333332	0.16666666666666666	interconnects <-- part&of, inv_part&of, inv_location&of
+2	1.0	0.018518518518518517	0.16666666666666666	interconnects <-- location&of, inv_measures, inv_location&of
+1	0.5	0.05263157894736842	0.16666666666666666	interconnects <-- conceptual&part&of, conceptual&part&of, inv_conceptual&part&of
+1	0.5	0.041666666666666664	0.16666666666666666	interconnects <-- contains, inv_produces, inv_surrounds
+2	1.0	0.03125	0.125	interconnects <-- contains, inv_contains
+2	1.0	0.011299435028248588	0.125	interconnects <-- location&of, inv_location&of, inv_location&of
+1	0.5	0.125	0.125	interconnects <-- contains, contains, inv_contains
+1	0.5	0.03125	0.125	interconnects <-- contains, inv_contains, inv_location&of
+2	1.0	0.020833333333333332	0.125	interconnects <-- location&of, inv_causes, inv_contains
+1	0.5	0.041666666666666664	0.125	interconnects <-- location&of, location&of, inv_contains
+1	0.5	0.0625	0.125	interconnects <-- inv_interconnects, contains, inv_contains
+1	0.5	0.125	0.125	interconnects <-- contains, produces, inv_contains
+1	0.5	0.03125	0.125	interconnects <-- isa, contains, inv_contains
+1	0.5	0.012345679012345678	0.09090909090909091	interconnects <-- part&of, part&of, inv_part&of
+2	1.0	0.010416666666666666	0.08333333333333333	interconnects <-- location&of, inv_result&of, inv_location&of
+1	0.5	0.0020325203252032522	0.08333333333333333	interconnects <-- result&of, inv_result&of, inv_location&of
+1	0.5	0.004166666666666667	0.08333333333333333	interconnects <-- produces, inv_produces, inv_location&of
+2	1.0	0.009259259259259259	0.08333333333333333	interconnects <-- location&of, associated&with, inv_location&of
+2	1.0	0.018518518518518517	0.08333333333333333	interconnects <-- location&of, inv_disrupts, inv_location&of
+1	0.5	0.0078125	0.07692307692307693	interconnects <-- location&of, inv_produces
+1	0.5	0.037037037037037035	0.07692307692307693	interconnects <-- inv_interconnects, contains, inv_produces
+1	0.5	0.07692307692307693	0.07692307692307693	interconnects <-- contains, contains, inv_produces
+1	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- contains, produces, disrupts
+1	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- contains, inv_disrupts, disrupts
+1	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- inv_interconnects, inv_disrupts, disrupts
+1	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- contains, surrounds, inv_produces
+2	1.0	0.010416666666666666	0.0625	interconnects <-- location&of, result&of, inv_location&of
+2	1.0	0.007782101167315175	0.06060606060606061	interconnects <-- location&of, inv_location&of
+1	0.5	0.05263157894736842	0.05263157894736842	interconnects <-- inv_interconnects, inv_developmental&form&of, part&of
+1	0.5	0.05263157894736842	0.05263157894736842	interconnects <-- contains, inv_disrupts, inv_produces
+2	1.0	0.010582010582010581	0.05	interconnects <-- location&of, location&of, inv_location&of
+1	0.5	0.008547008547008548	0.038461538461538464	interconnects <-- contains, causes, disrupts
+1	0.5	0.013157894736842105	0.037037037037037035	interconnects <-- adjacent&to, location&of
+1	0.5	0.009345794392523364	0.037037037037037035	interconnects <-- contains, inv_produces
+1	0.5	0.0005717552887364208	0.03571428571428571	interconnects <-- isa, inv_isa, disrupts
+1	0.5	0.00035211267605633805	0.017241379310344827	interconnects <-- isa, inv_isa, inv_produces
+1	0.5	0.006211180124223602	0.015625	interconnects <-- location&of, location&of, location&of
+1	0.5	0.0016806722689075631	0.013888888888888888	interconnects <-- location&of, inv_location&of, location&of
+1	0.5	0.0002552974214960429	0.012658227848101266	interconnects <-- isa, inv_isa, location&of
+2	1.0	0.002600780234070221	0.011627906976744186	interconnects <-- contains, isa, inv_isa
+2	1.0	0.0001342552191716453	0.008620689655172414	interconnects <-- issue&in, issue&in, inv_issue&in
+2	1.0	0.00013424620754463686	0.008620689655172414	interconnects <-- issue&in, inv_issue&in
+1	0.5	0.00012132977432661975	0.006711409395973154	interconnects <-- isa, isa, inv_isa
+1	0.5	0.00011994722322178242	0.006666666666666667	interconnects <-- isa, inv_isa

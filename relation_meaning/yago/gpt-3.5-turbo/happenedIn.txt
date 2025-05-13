@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "happenedIn" denotes the association between an event and the specific location (or place) where the event occurred.

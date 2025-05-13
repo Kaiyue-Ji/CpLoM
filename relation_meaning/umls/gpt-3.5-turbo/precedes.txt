@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "precedes" indicates that one entity or event occurs or exists before another entity or event in a temporal, causal, or sequential context.

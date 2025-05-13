@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "directed" typically represents a one-way connection or flow of information from one entity to another, indicating the direction of influence, control, or association between them.

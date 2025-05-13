@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "connected&to" typically indicates a direct or functional association between two entities, such as molecules, genes, diseases, or biological processes, where one entity is linked to or interacts with the other in a biological context.

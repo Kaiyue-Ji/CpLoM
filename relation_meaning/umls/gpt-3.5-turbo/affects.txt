@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "affects" denotes a causal or influential relationship where one entity (such as a gene, protein, drug, or condition) influences or alters the state, function, or behavior of another entity (e.g., a biological process, disease, or phenotype).

@@ -1,0 +1,1 @@
+In an English vocabulary knowledge graph, the relation "_also_see" indicates that the linked word or concept is related to or provides additional information about the primary word, often pointing to a synonym, closely related term, or concept that may offer further context or relevance.

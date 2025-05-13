@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "issue&in" typically represents a connection where a specific issue, condition, or problem is related to or occurs within a particular context, such as a disease manifesting in a specific organ or system of the body.

@@ -1,0 +1,362 @@
+0.0	0.0	0.0	0.0	diagnoses <-- interacts&with, inv_interacts&with, interacts&with
+24	0.5217391304347826	0.014510278113663845	0.16666666666666666	diagnoses <-- affects, inv_associated&with, affects
+5	0.10869565217391304	0.0196078431372549	0.3333333333333333	diagnoses <-- manifestation&of, result&of, manifestation&of
+5	0.10869565217391304	0.018867924528301886	0.2777777777777778	diagnoses <-- manifestation&of, isa, inv_complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_co&occurs&with, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_degree&of, inv_location&of, inv_manages
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, result&of, inv_co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_manages, assesses&effect&of, causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measures, inv_causes, inv_manifestation&of
+12	0.2608695652173913	0.010889292196007259	0.20689655172413793	diagnoses <-- causes, inv_occurs&in, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- analyzes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_method&of, inv_analyzes, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_process&of, inv_isa, manifestation&of
+12	0.2608695652173913	0.06666666666666667	0.13333333333333333	diagnoses <-- measures, inv_measures, measures
+0.0	0.0	0.0	0.0	diagnoses <-- issue&in, causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_method&of, inv_precedes
+0.0	0.0	0.0	0.0	diagnoses <-- co&occurs&with, inv_co&occurs&with, co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_contains, inv_associated&with, inv_manifestation&of
+7	0.15217391304347827	0.032407407407407406	0.4666666666666667	diagnoses <-- manifestation&of, manifestation&of, co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_manages, associated&with, result&of
+29	0.6304347826086957	0.016524216524216526	0.3717948717948718	diagnoses <-- issue&in, inv_method&of, complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_occurs&in, inv_evaluation&of, inv_assesses&effect&of
+12	0.2608695652173913	0.21428571428571427	0.5217391304347826	diagnoses <-- treats, inv_treats, treats
+0.0	0.0	0.0	0.0	diagnoses <-- manages, inv_manages, manages
+0.0	0.0	0.0	0.0	diagnoses <-- inv_performs, inv_assesses&effect&of, inv_evaluation&of
+19	0.41304347826086957	0.08962264150943396	0.4222222222222222	diagnoses <-- isa, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_result&of, inv_disrupts, inv_co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_part&of, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measures, result&of, inv_affects
+10	0.21739130434782608	0.058823529411764705	0.14705882352941177	diagnoses <-- treats, inv_affects, inv_isa
+8	0.17391304347826086	0.05673758865248227	1.0	diagnoses <-- causes, inv_isa, inv_co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_method&of, inv_affects
+12	0.2608695652173913	0.031578947368421054	0.6	diagnoses <-- causes, inv_causes, causes
+0.0	0.0	0.0	0.0	diagnoses <-- measurement&of, result&of, causes
+0.0	0.0	0.0	0.0	diagnoses <-- interconnects, inv_interconnects, interconnects
+20	0.43478260869565216	0.3448275862068966	0.3448275862068966	diagnoses <-- analyzes, treats, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- ingredient&of, inv_ingredient&of, ingredient&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_treats, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- disrupts, causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- contains, associated&with, manifestation&of
+6	0.13043478260869565	0.00980392156862745	0.125	diagnoses <-- affects, inv_location&of
+0.0	0.0	0.0	0.0	diagnoses <-- adjacent&to, inv_isa, co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_evaluation&of, inv_causes
+0.0	0.0	0.0	0.0	diagnoses <-- interconnects, associated&with, manifestation&of
+3	0.06521739130434782	0.013157894736842105	0.1875	diagnoses <-- manifestation&of, inv_associated&with, inv_location&of
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, inv_affects, location&of
+0.0	0.0	0.0	0.0	diagnoses <-- performs, result&of, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_result&of, inv_indicates
+0.0	0.0	0.0	0.0	diagnoses <-- treats, inv_causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_interacts&with, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_process&of, inv_assesses&effect&of
+1	0.021739130434782608	0.00625	0.1	diagnoses <-- inv_location&of, contains, inv_disrupts
+0.0	0.0	0.0	0.0	diagnoses <-- conceptual&part&of, associated&with, manifestation&of
+30	0.6521739130434783	0.01156515034695451	0.14705882352941177	diagnoses <-- affects, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_produces, inv_measures
+0.0	0.0	0.0	0.0	diagnoses <-- measurement&of, inv_measurement&of, measurement&of
+0.0	0.0	0.0	0.0	diagnoses <-- connected&to, inv_isa, degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- prevents, causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- evaluation&of, causes, inv_causes, location&of
+0.0	0.0	0.0	0.0	diagnoses <-- exhibits, inv_exhibits, exhibits
+6	0.13043478260869565	0.015384615384615385	0.4	diagnoses <-- inv_assesses&effect&of, assesses&effect&of, inv_process&of
+12	0.2608695652173913	0.03508771929824561	0.6666666666666666	diagnoses <-- causes, inv_result&of, degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, measurement&of, complicates
+8	0.17391304347826086	0.016701461377870562	0.27586206896551724	diagnoses <-- manifestation&of, isa, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- conceptually&related&to, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- conceptually&related&to, inv_conceptually&related&to, conceptually&related&to
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_process&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_causes, inv_affects
+12	0.2608695652173913	0.04395604395604396	0.42857142857142855	diagnoses <-- complicates, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- analyzes, inv_analyzes, analyzes
+6	0.13043478260869565	1.0	1.0	diagnoses <-- precedes, prevents
+0.0	0.0	0.0	0.0	diagnoses <-- inv_disrupts, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_isa, inv_measures, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_associated&with, inv_connected&to
+20	0.43478260869565216	0.03838771593090211	0.5555555555555556	diagnoses <-- inv_result&of, inv_diagnoses, complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_produces, inv_associated&with, inv_manifestation&of
+6	0.13043478260869565	0.17647058823529413	0.17647058823529413	diagnoses <-- assesses&effect&of, associated&with, affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measurement&of, associated&with, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, inv_associated&with, isa
+0.0	0.0	0.0	0.0	diagnoses <-- practices, inv_practices, practices
+0.0	0.0	0.0	0.0	diagnoses <-- degree&of, causes, manifestation&of
+18	0.391304347826087	0.04591836734693878	1.0	diagnoses <-- inv_result&of, inv_co&occurs&with, co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_complicates, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measures, inv_degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- indicates, inv_indicates, indicates
+6	0.13043478260869565	0.030303030303030304	0.3333333333333333	diagnoses <-- inv_occurs&in, inv_complicates, complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_process&of, inv_measures, inv_result&of
+3	0.06521739130434782	0.047619047619047616	0.42857142857142855	diagnoses <-- produces, conceptual&part&of, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- adjacent&to, causes, manifestation&of
+2	0.043478260869565216	0.03508771929824561	0.5	diagnoses <-- inv_result&of, inv_location&of, inv_produces
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_disrupts, inv_manages
+0.0	0.0	0.0	0.0	diagnoses <-- property&of, inv_property&of, property&of
+0.0	0.0	0.0	0.0	diagnoses <-- measurement&of, causes, manifestation&of
+6	0.13043478260869565	0.014742014742014743	0.16216216216216217	diagnoses <-- inv_occurs&in, inv_result&of, affects
+0.0	0.0	0.0	0.0	diagnoses <-- part&of, inv_part&of, part&of
+1	0.021739130434782608	0.011235955056179775	0.16666666666666666	diagnoses <-- manifestation&of, co&occurs&with, inv_isa
+20	0.43478260869565216	0.06269592476489028	0.9090909090909091	diagnoses <-- inv_result&of, inv_prevents, treats
+0.0	0.0	0.0	0.0	diagnoses <-- occurs&in, manifestation&of, associated&with
+11	0.2391304347826087	0.9166666666666666	0.9166666666666666	diagnoses <-- diagnoses, inv_precedes, inv_isa
+4	0.08695652173913043	0.13333333333333333	0.3333333333333333	diagnoses <-- treats, degree&of, isa
+0.0	0.0	0.0	0.0	diagnoses <-- degree&of, inv_degree&of, degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_uses, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- produces, associated&with, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- degree&of, result&of, affects
+0.0	0.0	0.0	0.0	diagnoses <-- connected&to, inv_connected&to, connected&to
+0.0	0.0	0.0	0.0	diagnoses <-- inv_manages, inv_process&of, process&of
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, associated&with, inv_occurs&in
+5	0.10869565217391304	0.04672897196261682	0.3333333333333333	diagnoses <-- co&occurs&with, associated&with, manifestation&of
+6	0.13043478260869565	0.1	0.46153846153846156	diagnoses <-- uses, affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measurement&of, inv_assesses&effect&of, inv_indicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_issue&in, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- assesses&effect&of, inv_affects, inv_causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_treats, inv_method&of, inv_result&of
+12	0.2608695652173913	0.01948051948051948	0.42857142857142855	diagnoses <-- inv_measures, measures, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_precedes, inv_produces
+12	0.2608695652173913	1.0	1.0	diagnoses <-- analyzes, prevents
+0.0	0.0	0.0	0.0	diagnoses <-- produces, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_result&of, inv_causes, inv_manifestation&of
+12	0.2608695652173913	0.1348314606741573	0.1348314606741573	diagnoses <-- assesses&effect&of, prevents, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_carries&out, inv_location&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_conceptual&part&of, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- treats, inv_assesses&effect&of, complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_connected&to, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_disrupts, inv_location&of, manifestation&of
+14	0.30434782608695654	0.14583333333333334	0.9333333333333333	diagnoses <-- associated&with, isa, inv_precedes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_method&of, inv_assesses&effect&of, inv_assesses&effect&of
+6	0.13043478260869565	0.4	0.4	diagnoses <-- interacts&with, associated&with, manifestation&of
+4	0.08695652173913043	0.018433179723502304	0.4444444444444444	diagnoses <-- inv_assesses&effect&of, inv_result&of
+12	0.2608695652173913	0.00920951650038373	0.13333333333333333	diagnoses <-- inv_result&of, inv_complicates, inv_affects
+20	0.43478260869565216	0.091324200913242	1.0	diagnoses <-- affects, co&occurs&with, inv_occurs&in
+10	0.21739130434782608	0.3448275862068966	0.3448275862068966	diagnoses <-- assesses&effect&of, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_measures, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	diagnoses <-- assesses&effect&of, inv_measurement&of, inv_isa
+0.0	0.0	0.0	0.0	diagnoses <-- manifestation&of, inv_part&of, inv_process&of
+5	0.10869565217391304	1.0	1.0	diagnoses <-- assesses&effect&of, manifestation&of, inv_occurs&in
+5	0.10869565217391304	0.03759398496240601	0.7142857142857143	diagnoses <-- inv_analyzes, diagnoses, associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_prevents, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measurement&of, inv_evaluation&of, inv_causes
+0.0	0.0	0.0	0.0	diagnoses <-- interacts&with, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- connected&to, associated&with, manifestation&of
+12	0.2608695652173913	1.0	1.0	diagnoses <-- assesses&effect&of, treats, degree&of
+28	0.6086956521739131	0.043478260869565216	0.42424242424242425	diagnoses <-- associated&with, inv_associated&with, associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- result&of, inv_result&of, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- surrounds, inv_surrounds, surrounds
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, location&of, degree&of
+10	0.21739130434782608	0.5	1.0	diagnoses <-- method&of, analyzes, causes
+12	0.2608695652173913	0.12631578947368421	0.3157894736842105	diagnoses <-- prevents, inv_affects, inv_produces
+7	0.15217391304347827	0.15555555555555556	0.4666666666666667	diagnoses <-- method&of, associated&with, manifestation&of
+20	0.43478260869565216	0.03838771593090211	0.7692307692307693	diagnoses <-- inv_result&of, inv_affects, associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_affects, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- developmental&form&of, inv_developmental&form&of, developmental&form&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_uses, inv_assesses&effect&of, inv_associated&with
+6	0.13043478260869565	0.010169491525423728	0.125	diagnoses <-- affects, inv_precedes, inv_location&of
+0.0	0.0	0.0	0.0	diagnoses <-- manifestation&of, inv_causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- carries&out, associated&with, manifestation&of
+12	0.2608695652173913	0.03636363636363636	0.6	diagnoses <-- interacts&with, inv_interacts&with, causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_measures, inv_degree&of
+4	0.08695652173913043	0.01762114537444934	0.2	diagnoses <-- inv_occurs&in, inv_manifestation&of, inv_associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- practices, causes, manifestation&of
+12	0.2608695652173913	0.022556390977443608	0.42857142857142855	diagnoses <-- causes, affects, manifestation&of
+14	0.30434782608695654	0.23333333333333334	0.4666666666666667	diagnoses <-- measures, causes, manifestation&of
+12	0.2608695652173913	0.021238938053097345	0.4	diagnoses <-- causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_complicates, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_location&of, inv_process&of, inv_affects
+5	0.10869565217391304	0.02564102564102564	0.38461538461538464	diagnoses <-- inv_assesses&effect&of, inv_method&of, affects
+20	0.43478260869565216	0.12345679012345678	0.5555555555555556	diagnoses <-- method&of, inv_issue&in, indicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_process&of, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_affects
+26	0.5652173913043478	0.026530612244897958	0.65	diagnoses <-- isa, inv_isa, causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measurement&of, inv_causes, inv_manifestation&of
+5	0.10869565217391304	0.05555555555555555	0.5555555555555556	diagnoses <-- inv_occurs&in, complicates, co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_evaluation&of, inv_associated&with, inv_result&of
+32	0.6956521739130435	0.018150879183210438	0.22857142857142856	diagnoses <-- affects, inv_co&occurs&with, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- method&of, inv_method&of, method&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_location&of, causes, result&of
+10	0.21739130434782608	0.04484304932735426	0.45454545454545453	diagnoses <-- complicates, manifestation&of, inv_co&occurs&with
+3	0.06521739130434782	0.03409090909090909	0.11538461538461539	diagnoses <-- evaluation&of, inv_affects, isa
+6	0.13043478260869565	0.6666666666666666	0.6666666666666666	diagnoses <-- practices, inv_issue&in, inv_degree&of
+5	0.10869565217391304	0.04950495049504951	0.7142857142857143	diagnoses <-- manifestation&of, co&occurs&with, inv_degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- performs, inv_performs, performs
+0.0	0.0	0.0	0.0	diagnoses <-- inv_evaluation&of, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_indicates, inv_occurs&in
+0.0	0.0	0.0	0.0	diagnoses <-- uses, inv_uses, uses
+0.0	0.0	0.0	0.0	diagnoses <-- inv_isa, inv_evaluation&of, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_treats, associated&with, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_carries&out, inv_associated&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_treats, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- produces, inv_produces, produces
+35	0.7608695652173914	0.9722222222222222	0.9722222222222222	diagnoses <-- diagnoses, inv_occurs&in, inv_degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- manifestation&of, affects, inv_causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, result&of, inv_precedes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_measurement&of, inv_causes
+0.0	0.0	0.0	0.0	diagnoses <-- disrupts, inv_disrupts, disrupts
+0.0	0.0	0.0	0.0	diagnoses <-- contains, inv_contains, contains
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measures, inv_diagnoses
+0.0	0.0	0.0	0.0	diagnoses <-- inv_treats, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_developmental&form&of, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_derivative&of, inv_diagnoses
+0.0	0.0	0.0	0.0	diagnoses <-- inv_treats, inv_occurs&in
+0.0	0.0	0.0	0.0	diagnoses <-- inv_causes, inv_assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, causes, inv_precedes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_manages, inv_assesses&effect&of, inv_causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_associated&with, inv_degree&of, inv_location&of
+6	0.13043478260869565	0.05172413793103448	0.20689655172413793	diagnoses <-- inv_uses, measures, result&of
+12	0.2608695652173913	0.06451612903225806	0.6	diagnoses <-- associated&with, location&of
+6	0.13043478260869565	0.02702702702702703	0.16216216216216217	diagnoses <-- performs, inv_isa, assesses&effect&of
+0.0	0.0	0.0	0.0	diagnoses <-- co&occurs&with, inv_complicates, location&of
+0.0	0.0	0.0	0.0	diagnoses <-- associated&with, interacts&with, location&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_uses, inv_assesses&effect&of
+14	0.30434782608695654	0.021052631578947368	0.2692307692307692	diagnoses <-- affects, result&of, occurs&in
+28	0.6086956521739131	0.0611353711790393	0.5185185185185185	diagnoses <-- associated&with, result&of, complicates
+7	0.15217391304347827	0.042682926829268296	1.0	diagnoses <-- inv_result&of, inv_isa, inv_degree&of
+8	0.17391304347826086	0.14814814814814814	0.4444444444444444	diagnoses <-- evaluation&of, inv_prevents, complicates
+29	0.6304347826086957	0.4027777777777778	0.4027777777777778	diagnoses <-- diagnoses, inv_indicates, affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_uses, uses, isa
+0.0	0.0	0.0	0.0	diagnoses <-- developmental&form&of, causes, manifestation&of
+12	0.2608695652173913	0.06060606060606061	0.3333333333333333	diagnoses <-- disrupts, inv_process&of, inv_complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_location&of, inv_manifestation&of, inv_associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- degree&of, inv_result&of, manifestation&of
+5	0.10869565217391304	0.07936507936507936	0.3125	diagnoses <-- evaluation&of, inv_evaluation&of, evaluation&of
+5	0.10869565217391304	0.2777777777777778	0.8333333333333334	diagnoses <-- evaluation&of, co&occurs&with, degree&of
+12	0.2608695652173913	0.34285714285714286	0.8571428571428571	diagnoses <-- prevents, inv_prevents, prevents
+0.0	0.0	0.0	0.0	diagnoses <-- process&of, causes, manifestation&of
+12	0.2608695652173913	0.24	0.6	diagnoses <-- treats, inv_prevents, causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_interacts&with, inv_treats, location&of
+28	0.6086956521739131	0.02247191011235955	0.25925925925925924	diagnoses <-- associated&with, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_result&of, inv_measures, inv_property&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_causes
+8	0.17391304347826086	0.018648018648018648	0.2222222222222222	diagnoses <-- affects, manifestation&of, isa
+12	0.2608695652173913	0.053811659192825115	0.46153846153846156	diagnoses <-- complicates, co&occurs&with, inv_co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, manifestation&of, associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_degree&of, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- precedes, inv_precedes, precedes
+20	0.43478260869565216	0.38461538461538464	0.38461538461538464	diagnoses <-- analyzes, disrupts, location&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_isa, inv_result&of, inv_disrupts
+5	0.10869565217391304	0.1282051282051282	0.38461538461538464	diagnoses <-- evaluation&of, inv_causes, inv_process&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_method&of, inv_associated&with, inv_manifestation&of
+3	0.06521739130434782	0.075	0.3	diagnoses <-- inv_method&of, associated&with, isa
+26	0.5652173913043478	0.040880503144654086	0.4642857142857143	diagnoses <-- affects, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- derivative&of, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- surrounds, causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_location&of, inv_causes
+13	0.2826086956521739	0.08666666666666667	0.43333333333333335	diagnoses <-- uses, causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_measures, inv_assesses&effect&of, inv_isa
+0.0	0.0	0.0	0.0	diagnoses <-- inv_treats, inv_associated&with, inv_process&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_causes, inv_affects, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- result&of, causes, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- carries&out, inv_carries&out, carries&out
+22	0.4782608695652174	0.18487394957983194	0.18487394957983194	diagnoses <-- diagnoses, inv_associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_produces, inv_location&of, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- consists&of, inv_consists&of, consists&of
+12	0.2608695652173913	0.2	1.0	diagnoses <-- inv_uses, associated&with, degree&of
+2	0.043478260869565216	0.00881057268722467	0.11764705882352941	diagnoses <-- manifestation&of, isa, inv_associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_result&of, inv_property&of, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_exhibits, inv_manages, associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_process&of, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_evaluation&of, associated&with, associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_carries&out, inv_analyzes, inv_occurs&in
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- interacts&with, inv_assesses&effect&of, location&of
+0.0	0.0	0.0	0.0	diagnoses <-- adjacent&to, inv_adjacent&to, adjacent&to
+0.0	0.0	0.0	0.0	diagnoses <-- inv_complicates, inv_occurs&in, inv_associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_result&of, inv_assesses&effect&of, inv_co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_indicates, inv_measures
+0.0	0.0	0.0	0.0	diagnoses <-- inv_causes, inv_manifestation&of
+24	0.5217391304347826	0.06741573033707865	0.8571428571428571	diagnoses <-- affects, inv_process&of, inv_degree&of
+14	0.30434782608695654	0.25	0.5	diagnoses <-- measures, affects, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_degree&of, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, co&occurs&with, inv_co&occurs&with
+0.0	0.0	0.0	0.0	diagnoses <-- conceptual&part&of, inv_conceptual&part&of, conceptual&part&of
+6	0.13043478260869565	0.037037037037037035	0.2222222222222222	diagnoses <-- performs, inv_affects, result&of
+4	0.08695652173913043	0.008048289738430584	0.11428571428571428	diagnoses <-- inv_result&of, inv_occurs&in, inv_associated&with
+0.0	0.0	0.0	0.0	diagnoses <-- derivative&of, inv_derivative&of, derivative&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_analyzes, inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_co&occurs&with, inv_treats, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- disrupts, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- issue&in, inv_issue&in, issue&in
+0.0	0.0	0.0	0.0	diagnoses <-- assesses&effect&of, inv_measures, inv_process&of
+20	0.43478260869565216	0.5	1.0	diagnoses <-- measures, inv_result&of, complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, inv_occurs&in
+14	0.30434782608695654	0.4666666666666667	0.4666666666666667	diagnoses <-- analyzes, causes, manifestation&of
+32	0.6956521739130435	0.029411764705882353	0.3368421052631579	diagnoses <-- affects, inv_associated&with, inv_result&of
+9	0.1956521739130435	0.09375	0.09375	diagnoses <-- diagnoses, result&of, inv_location&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_location&of, inv_process&of
+12	0.2608695652173913	0.031746031746031744	0.3333333333333333	diagnoses <-- complicates, inv_complicates, complicates
+0.0	0.0	0.0	0.0	diagnoses <-- inv_isa, inv_assesses&effect&of, inv_affects
+8	0.17391304347826086	0.09090909090909091	0.27586206896551724	diagnoses <-- evaluation&of, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_interacts&with, inv_affects, associated&with
+6	0.13043478260869565	0.030612244897959183	0.8571428571428571	diagnoses <-- inv_measures, assesses&effect&of, inv_degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- produces, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_interacts&with, inv_associated&with, inv_manifestation&of
+46	1.0	0.26436781609195403	0.26436781609195403	diagnoses <-- diagnoses, inv_result&of, result&of
+6	0.13043478260869565	0.17142857142857143	0.17142857142857143	diagnoses <-- practices, inv_method&of, assesses&effect&of
+12	0.2608695652173913	0.16216216216216217	0.16216216216216217	diagnoses <-- assesses&effect&of, inv_assesses&effect&of, assesses&effect&of
+16	0.34782608695652173	0.22857142857142856	0.8	diagnoses <-- uses, inv_ingredient&of, causes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_precedes, isa
+0.0	0.0	0.0	0.0	diagnoses <-- inv_causes, inv_result&of, inv_process&of
+17	0.3695652173913043	0.025449101796407185	0.17708333333333334	diagnoses <-- associated&with, process&of
+24	0.5217391304347826	0.05333333333333334	0.6	diagnoses <-- affects, co&occurs&with, location&of
+15	0.32608695652173914	0.055350553505535055	0.39473684210526316	diagnoses <-- associated&with, inv_causes, inv_process&of
+32	0.6956521739130435	0.028933092224231464	0.38095238095238093	diagnoses <-- affects, inv_result&of, inv_complicates
+7	0.15217391304347827	0.5	0.5	diagnoses <-- assesses&effect&of, associated&with, manifestation&of
+19	0.41304347826086957	0.049479166666666664	0.4523809523809524	diagnoses <-- associated&with, inv_affects, manifestation&of
+3	0.06521739130434782	0.08823529411764706	0.375	diagnoses <-- inv_method&of, affects, inv_isa
+0.0	0.0	0.0	0.0	diagnoses <-- inv_carries&out, inv_developmental&form&of, result&of
+8	0.17391304347826086	0.09090909090909091	0.27586206896551724	diagnoses <-- evaluation&of, inv_location&of, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_isa, inv_treats, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_isa
+26	0.5652173913043478	0.038011695906432746	0.4642857142857143	diagnoses <-- affects, associated&with, manifestation&of
+2	0.043478260869565216	0.014925373134328358	0.2222222222222222	diagnoses <-- manifestation&of, associated&with, isa
+6	0.13043478260869565	0.12	0.6	diagnoses <-- performs, method&of, diagnoses
+5	0.10869565217391304	0.11904761904761904	0.35714285714285715	diagnoses <-- manifestation&of, part&of, inv_process&of
+0.0	0.0	0.0	0.0	diagnoses <-- occurs&in, inv_occurs&in, occurs&in
+0.0	0.0	0.0	0.0	diagnoses <-- connected&to, result&of, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- inv_diagnoses, location&of, inv_occurs&in
+0.0	0.0	0.0	0.0	diagnoses <-- inv_evaluation&of, inv_associated&with
+12	0.2608695652173913	0.01282051282051282	0.11320754716981132	diagnoses <-- complicates, inv_affects, inv_affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_evaluation&of, assesses&effect&of, result&of
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, result&of, affects
+0.0	0.0	0.0	0.0	diagnoses <-- inv_produces, inv_assesses&effect&of, inv_measures
+0.0	0.0	0.0	0.0	diagnoses <-- location&of, manifestation&of, inv_occurs&in
+11	0.2391304347826087	0.16666666666666666	0.6111111111111112	diagnoses <-- inv_uses, inv_result&of
+12	0.2608695652173913	0.3333333333333333	0.6666666666666666	diagnoses <-- measures, degree&of
+0.0	0.0	0.0	0.0	diagnoses <-- part&of, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	diagnoses <-- co&occurs&with, result&of, occurs&in
+12	0.2608695652173913	0.029556650246305417	0.42857142857142855	diagnoses <-- inv_result&of, result&of, precedes
+0.0	0.0	0.0	0.0	diagnoses <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_location&of
+0.0	0.0	0.0	0.0	diagnoses <-- process&of, inv_process&of, process&of
+24.0	0.5217391304347826	0.0784313725490196	1.0	diagnoses <-- affects, inv_disrupts, prevents
+12.0	0.2608695652173913	0.18181818181818182	1.0	diagnoses <-- disrupts, inv_affects, prevents
+6.0	0.13043478260869565	1.0	1.0	diagnoses <-- analyzes, treats, inv_isa
+20.0	0.43478260869565216	1.0	1.0	diagnoses <-- analyzes, causes
+10.0	0.21739130434782608	0.35714285714285715	1.0	diagnoses <-- prevents
+12.0	0.2608695652173913	0.4	1.0	diagnoses <-- prevents, inv_treats, diagnoses
+12.0	0.2608695652173913	0.05263157894736842	1.0	diagnoses <-- causes, inv_treats, diagnoses
+12.0	0.2608695652173913	0.1111111111111111	1.0	diagnoses <-- complicates, complicates, precedes
+20.0	0.43478260869565216	0.5	1.0	diagnoses <-- measures, precedes, complicates
+24.0	0.5217391304347826	0.08888888888888889	1.0	diagnoses <-- affects, complicates, precedes
+6.0	0.13043478260869565	0.2	1.0	diagnoses <-- isa, performs, prevents
+30.0	0.6521739130434783	1.0	1.0	diagnoses <-- diagnoses, inv_isa, inv_precedes
+12.0	0.2608695652173913	0.05263157894736842	1.0	diagnoses <-- causes, complicates, inv_precedes
+12.0	0.2608695652173913	0.4	1.0	diagnoses <-- treats, inv_precedes, precedes
+10.0	0.21739130434782608	0.3333333333333333	1.0	diagnoses <-- affects, uses, causes
+12.0	0.2608695652173913	0.05128205128205128	1.0	diagnoses <-- inv_measures, analyzes, diagnoses
+35.0	0.7608695652173914	0.9722222222222222	0.9722222222222222	diagnoses <-- diagnoses, inv_treats, diagnoses
+20.0	0.43478260869565216	0.45454545454545453	0.9090909090909091	diagnoses <-- measures, inv_complicates, treats
+20.0	0.43478260869565216	0.12121212121212122	0.9090909090909091	diagnoses <-- inv_performs, uses, treats
+32.0	0.6956521739130435	0.07126948775055679	0.8	diagnoses <-- affects, isa, complicates
+8.0	0.17391304347826086	0.08	0.8	diagnoses <-- inv_treats, diagnoses, complicates
+46.0	1.0	0.7666666666666667	0.7666666666666667	diagnoses <-- diagnoses, produces, causes
+46.0	1.0	0.7666666666666667	0.7666666666666667	diagnoses <-- diagnoses, complicates, complicates
+16.0	0.34782608695652173	0.18181818181818182	0.7272727272727273	diagnoses <-- uses, treats
+46.0	1.0	0.696969696969697	0.696969696969697	diagnoses <-- diagnoses, inv_causes, treats
+12.0	0.2608695652173913	0.26666666666666666	0.6666666666666666	diagnoses <-- prevents, inv_causes, indicates
+32.0	0.6956521739130435	0.059369202226345084	0.6666666666666666	diagnoses <-- affects, inv_diagnoses, treats
+12.0	0.2608695652173913	0.030303030303030304	0.6666666666666666	diagnoses <-- inv_measures, measures, indicates
+12.0	0.2608695652173913	0.07407407407407407	0.6666666666666666	diagnoses <-- complicates, inv_affects, indicates
+26.0	0.5652173913043478	0.026530612244897958	0.65	diagnoses <-- isa, inv_isa, causes

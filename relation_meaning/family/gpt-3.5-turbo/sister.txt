@@ -1,0 +1,1 @@
+In a family knowledge graph, the relation "sister" represents a female sibling who shares at least one biological or adoptive parent with another individual.

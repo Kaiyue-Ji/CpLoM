@@ -1,0 +1,1 @@
+The relation _member_of_domain_region in an English vocabulary knowledge graph refers to the association between a specific entity (such as a word or concept) and the broader domain or region it belongs to, indicating that the entity is part of that specific context or area of knowledge.

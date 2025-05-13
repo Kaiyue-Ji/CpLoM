@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eddfca0b-69f8-4796-8351-2c2f4f21a7d8" name="511-72g">
+        <fileTransfer rootFolder="/home/stu1/jky/ChatRule/0225" accessType="SFTP" host="10.26.10.193" port="22" sshConfigId="108ca2c3-f26a-41e7-a569-77d8930af5e9" sshConfig="stu1@10.26.10.193:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

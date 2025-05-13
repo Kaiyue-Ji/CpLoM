@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "evaluation&of" typically refers to the process of assessing or examining a specific biological or medical entity, such as a treatment, intervention, or condition, in relation to another entity (e.g., a disease or patient population) to determine its effectiveness or impact.

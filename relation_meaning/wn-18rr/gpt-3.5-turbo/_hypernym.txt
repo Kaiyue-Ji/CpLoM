@@ -1,0 +1,1 @@
+In an English vocabulary knowledge graph, the relation *hypernym* denotes a word that is a broader category or a more general term under which more specific words (hyponyms) fall.

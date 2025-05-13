@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "measures" typically represents the connection between a specific entity (such as a biological variable, treatment, or intervention) and the quantitative or qualitative assessment (e.g., measurement or evaluation) of that entity's effect, value, or status.

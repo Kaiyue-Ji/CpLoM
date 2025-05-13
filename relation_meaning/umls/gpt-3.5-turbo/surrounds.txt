@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "surrounds" typically refers to a spatial or anatomical relationship where one entity (e.g., tissue, organ, or structure) is physically located around or encircles another entity, often implying a protective or encompassing interaction.

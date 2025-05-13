@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "developmental&form&of" typically signifies that one biological entity or process (such as a gene, protein, or structure) is a specific manifestation or stage in the development of another organism, tissue, or anatomical structure.

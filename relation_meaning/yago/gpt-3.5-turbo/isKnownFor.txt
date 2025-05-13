@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "isKnownFor" indicates that an entity (such as a person, organization, or place) is widely recognized or associated with a specific achievement, characteristic, or notable activity.

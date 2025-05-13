@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "manifestation&of" refers to the occurrence or expression of a disease, condition, or phenotype as a result of or associated with a specific underlying cause, such as a genetic mutation, infection, or environmental factor.

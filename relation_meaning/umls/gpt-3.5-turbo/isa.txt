@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "isa" denotes a hierarchical connection where one entity is a specific type or subclass of another, indicating that the first entity is a more specific instance of the second.

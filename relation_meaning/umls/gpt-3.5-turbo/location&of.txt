@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "location&of" typically indicates the anatomical or biological location where a specific entity, such as a gene, protein, or disease, is found or expressed within an organism.

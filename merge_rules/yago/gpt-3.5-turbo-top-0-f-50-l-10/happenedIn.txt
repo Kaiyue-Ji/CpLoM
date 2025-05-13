@@ -1,0 +1,179 @@
+0.0	0.0	0.0	0.0	happenedIn <-- isCitizenOf
+0.0	0.0	0.0	0.0	happenedIn <-- actedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isPoliticianOf
+0.0	0.0	0.0	0.0	happenedIn <-- isPoliticianOf, happenedIn
+3461	0.7519009341733652	0.014593400291783675	0.014593400291783675	happenedIn <-- happenedIn, inv_isLocatedIn, isLocatedIn
+219	0.04757766673908321	0.06816059757236227	0.07256461232604373	happenedIn <-- inv_participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- worksAt, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isKnownFor
+683	0.14838149033239192	0.0016141077269203863	0.0016141077269203863	happenedIn <-- happenedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- exports
+0.0	0.0	0.0	0.0	happenedIn <-- hasWonPrize
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, participatedIn, inv_dealsWith
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasOfficialLanguage
+0.0	0.0	0.0	0.0	happenedIn <-- dealsWith
+3446	0.7486421898761677	0.004625168108620315	0.004625168108620315	happenedIn <-- happenedIn, isLocatedIn, inv_isLocatedIn
+2328	0.5057571149250489	0.034725536992840096	0.034725536992840096	happenedIn <-- happenedIn, inv_happenedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isLocatedIn, participatedIn
+1982	0.4305887464696937	0.004868809892871443	0.005329103032910303	happenedIn <-- inv_participatedIn, isLocatedIn, inv_isLocatedIn
+469	0.10189007169237453	0.005824856862525926	0.6690442225392297	happenedIn <-- isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasNeighbor, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- hasAcademicAdvisor
+0.0	0.0	0.0	0.0	happenedIn <-- isInterestedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_created
+0.0	0.0	0.0	0.0	happenedIn <-- actedIn, happenedIn
+437	0.09493808385835324	0.04799560680944536	0.05345565749235474	happenedIn <-- inv_participatedIn, inv_isLocatedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, isLocatedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- influences, happenedIn
+1524	0.33108842059526394	0.03398599527228937	0.03611887946153482	happenedIn <-- inv_participatedIn, inv_happenedIn, inv_participatedIn
+208	0.04518792092113839	0.05	0.055245683930942896	happenedIn <-- inv_participatedIn, inv_isLocatedIn, inv_participatedIn
+3962	0.860742993699761	0.02947697343947623	0.02947697343947623	happenedIn <-- happenedIn, participatedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasGender
+0.0	0.0	0.0	0.0	happenedIn <-- inv_graduatedFrom
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isKnownFor
+0.0	0.0	0.0	0.0	happenedIn <-- hasOfficialLanguage, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasCapital
+1930	0.41929176623940906	0.017339430583880617	0.018604023481555026	happenedIn <-- inv_participatedIn, participatedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isPoliticianOf
+0.0	0.0	0.0	0.0	happenedIn <-- happenedIn, inv_isLocatedIn, inv_happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasCurrency
+0.0	0.0	0.0	0.0	happenedIn <-- participatedIn, participatedIn, inv_happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_dealsWith, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isKnownFor, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- wasBornIn
+0.0	0.0	0.0	0.0	happenedIn <-- graduatedFrom, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- happenedIn, inv_participatedIn, isLocatedIn
+1108	0.24071257875298718	0.026789816001353998	0.028728479568554243	happenedIn <-- inv_participatedIn, participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- hasCapital, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- diedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_actedIn
+0.0	0.0	0.0	0.0	happenedIn <-- hasWebsite
+775	0.16836845535520312	0.06585096439799473	0.06585096439799473	happenedIn <-- happenedIn, dealsWith, dealsWith
+424	0.0921138388007821	0.0007686074609306314	0.0007686074609306314	happenedIn <-- happenedIn, inv_isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isCitizenOf, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- happenedIn, participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- influences
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, inv_participatedIn, happenedIn
+252	0.05474690419291766	0.03288100208768267	0.0369826827120634	happenedIn <-- inv_participatedIn, dealsWith, dealsWith
+506	0.10992830762546166	0.013868333059255606	0.013868333059255606	happenedIn <-- happenedIn, inv_dealsWith, inv_dealsWith
+0.0	0.0	0.0	0.0	happenedIn <-- hasCapital
+3207	0.6967195307408212	0.03432112241949466	0.03624261190909399	happenedIn <-- inv_participatedIn, inv_happenedIn, happenedIn
+688	0.14946773843145775	0.12283520799857169	0.12283520799857169	happenedIn <-- happenedIn, isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_actedIn, happenedIn
+1103	0.23962633065392136	0.0030354233631279997	0.0034841554634590113	happenedIn <-- inv_participatedIn, inv_isLocatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_influences
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isMarriedTo
+0.0	0.0	0.0	0.0	happenedIn <-- owns, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_worksAt
+0.0	0.0	0.0	0.0	happenedIn <-- playsFor
+0.0	0.0	0.0	0.0	happenedIn <-- inv_wasBornIn
+0.0	0.0	0.0	0.0	happenedIn <-- participatedIn, happenedIn
+2797	0.6076471866174235	0.1404116465863454	0.1404116465863454	happenedIn <-- happenedIn, inv_isLocatedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- hasOfficialLanguage
+0.0	0.0	0.0	0.0	happenedIn <-- inv_owns
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isConnectedTo
+3	0.000651748859439496	0.010948905109489052	0.010948905109489052	happenedIn <-- happenedIn, inv_participatedIn, inv_dealsWith
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isAffiliatedTo
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isCitizenOf
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasWebsite, happenedIn
+1335	0.29002824245057574	0.045361875637105	0.045361875637105	happenedIn <-- happenedIn, inv_dealsWith, dealsWith
+0.0	0.0	0.0	0.0	happenedIn <-- inv_edited
+553	0.12013903975668043	0.024731663685152058	0.027287081811901707	happenedIn <-- inv_participatedIn, inv_dealsWith, dealsWith
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasMusicalRole
+0.0	0.0	0.0	0.0	happenedIn <-- hasWebsite, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_exports
+11	0.0023897458179448186	0.0008694964824915027	0.0009757828439634525	happenedIn <-- inv_participatedIn, inv_isLocatedIn, hasCapital
+1051	0.22832935042363675	0.04748565490444133	0.04748565490444133	happenedIn <-- happenedIn, inv_isLocatedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isInterestedIn
+4591	0.997393004562242	0.0358725123260484	0.0358725123260484	happenedIn <-- happenedIn, inv_happenedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- diedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isPoliticianOf, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_diedIn
+4141	0.8996306756463176	0.023894152539438912	0.025419567112322444	happenedIn <-- inv_participatedIn, participatedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- edited
+0.0	0.0	0.0	0.0	happenedIn <-- directed
+809	0.17575494242885076	0.2614738202973497	0.28306508047585727	happenedIn <-- inv_participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- happenedIn, inv_participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- wroteMusicFor, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isMarriedTo
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasOfficialLanguage, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasWebsite
+0.0	0.0	0.0	0.0	happenedIn <-- inv_dealsWith
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasNeighbor
+0.0	0.0	0.0	0.0	happenedIn <-- isConnectedTo
+2742	0.5956984575276993	0.023558522566177797	0.023558522566177797	happenedIn <-- happenedIn, participatedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isLocatedIn, happenedIn
+86	0.01868346730393222	9.268419906841603e-05	0.00010681571184598664	happenedIn <-- inv_participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_worksAt, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- worksAt
+0.0	0.0	0.0	0.0	happenedIn <-- isAffiliatedTo
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasAcademicAdvisor
+0.0	0.0	0.0	0.0	happenedIn <-- inv_influences, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, inv_participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isLocatedIn, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- dealsWith, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_participatedIn, happenedIn, happenedIn
+3	0.000651748859439496	5.168760014472528e-05	5.168760014472528e-05	happenedIn <-- happenedIn, participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- happenedIn, inv_participatedIn, happenedIn
+755	0.16402346295893983	0.15376782077393075	0.15376782077393075	happenedIn <-- happenedIn, isLocatedIn, isLocatedIn
+116	0.025200955898327177	0.005376094915882653	0.005376094915882653	happenedIn <-- happenedIn, inv_isLocatedIn, hasCapital
+0.0	0.0	0.0	0.0	happenedIn <-- inv_playsFor
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasWonPrize
+0.0	0.0	0.0	0.0	happenedIn <-- inv_livesIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_wroteMusicFor
+4	0.0008689984792526613	0.0044994375703037125	0.0044994375703037125	happenedIn <-- happenedIn, inv_participatedIn, participatedIn
+1160	0.25200955898327176	0.03990779922248598	0.03990779922248598	happenedIn <-- happenedIn, participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- hasNeighbor, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_hasChild
+827	0.17966543558548773	0.07932092844811049	0.07932092844811049	happenedIn <-- happenedIn, inv_isLocatedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isAffiliatedTo, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- isCitizenOf, happenedIn
+0.0	0.0	0.0	0.0	happenedIn <-- hasChild
+0.0	0.0	0.0	0.0	happenedIn <-- owns
+0.0	0.0	0.0	0.0	happenedIn <-- participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	happenedIn <-- inv_directed
+0.0	0.0	0.0	0.0	happenedIn <-- hasGender
+0.0	0.0	0.0	0.0	happenedIn <-- inv_isLeaderOf
+0.0	0.0	0.0	0.0	happenedIn <-- inv_imports
+388	0.08429285248750815	9.78315683308119e-05	0.019946535060662143	happenedIn <-- isLocatedIn, participatedIn, inv_participatedIn
+469.0	0.10189007169237453	0.005824856862525926	0.6690442225392297	happenedIn <-- isLocatedIn
+469.0	0.10189007169237453	0.005824856862525926	0.6690442225392297	happenedIn <-- isLocatedIn
+809.0	0.17575494242885076	0.2614738202973497	0.28306508047585727	happenedIn <-- inv_participatedIn
+809.0	0.17575494242885076	0.2614738202973497	0.28306508047585727	happenedIn <-- inv_participatedIn
+2797.0	0.6076471866174235	0.1404116465863454	0.1404116465863454	happenedIn <-- happenedIn, inv_isLocatedIn, happenedIn
+2797.0	0.6076471866174235	0.1404116465863454	0.1404116465863454	happenedIn <-- happenedIn, inv_isLocatedIn, happenedIn
+827.0	0.17966543558548773	0.07932092844811049	0.07932092844811049	happenedIn <-- happenedIn, inv_isLocatedIn, inv_participatedIn
+219.0	0.04757766673908321	0.06816059757236227	0.07256461232604373	happenedIn <-- inv_participatedIn, isLocatedIn
+775.0	0.16836845535520312	0.06585096439799473	0.06585096439799473	happenedIn <-- happenedIn, dealsWith, dealsWith
+775.0	0.16836845535520312	0.06585096439799473	0.06585096439799473	happenedIn <-- happenedIn, dealsWith, dealsWith
+252.0	0.05474690419291766	0.03288100208768267	0.0369826827120634	happenedIn <-- inv_participatedIn, dealsWith, dealsWith
+3207.0	0.6967195307408212	0.03432112241949466	0.03624261190909399	happenedIn <-- inv_participatedIn, inv_happenedIn, happenedIn
+1524.0	0.33108842059526394	0.03398599527228937	0.03611887946153482	happenedIn <-- inv_participatedIn, inv_happenedIn, inv_participatedIn
+4591.0	0.997393004562242	0.0358725123260484	0.0358725123260484	happenedIn <-- happenedIn, inv_happenedIn, happenedIn
+4591.0	0.997393004562242	0.0358725123260484	0.0358725123260484	happenedIn <-- happenedIn, inv_happenedIn, happenedIn
+2328.0	0.5057571149250489	0.034725536992840096	0.034725536992840096	happenedIn <-- happenedIn, inv_happenedIn, inv_participatedIn
+2328.0	0.5057571149250489	0.034725536992840096	0.034725536992840096	happenedIn <-- happenedIn, inv_happenedIn, inv_participatedIn
+3962.0	0.860742993699761	0.02947697343947623	0.02947697343947623	happenedIn <-- happenedIn, participatedIn, happenedIn
+3962.0	0.860742993699761	0.02947697343947623	0.02947697343947623	happenedIn <-- happenedIn, participatedIn, happenedIn
+1108.0	0.24071257875298718	0.026789816001353998	0.028728479568554243	happenedIn <-- inv_participatedIn, participatedIn, isLocatedIn
+4141.0	0.8996306756463176	0.023894152539438912	0.025419567112322444	happenedIn <-- inv_participatedIn, participatedIn, happenedIn
+2742.0	0.5956984575276993	0.023558522566177797	0.023558522566177797	happenedIn <-- happenedIn, participatedIn, inv_participatedIn
+2742.0	0.5956984575276993	0.023558522566177797	0.023558522566177797	happenedIn <-- happenedIn, participatedIn, inv_participatedIn
+388.0	0.08429285248750815	9.78315683308119e-05	0.019946535060662143	happenedIn <-- isLocatedIn, participatedIn, inv_participatedIn
+388.0	0.08429285248750815	9.78315683308119e-05	0.019946535060662143	happenedIn <-- isLocatedIn, participatedIn, inv_participatedIn
+1930.0	0.41929176623940906	0.017339430583880617	0.018604023481555026	happenedIn <-- inv_participatedIn, participatedIn, inv_participatedIn
+3461.0	0.7519009341733652	0.014593400291783675	0.014593400291783675	happenedIn <-- happenedIn, inv_isLocatedIn, isLocatedIn
+3461.0	0.7519009341733652	0.014593400291783675	0.014593400291783675	happenedIn <-- happenedIn, inv_isLocatedIn, isLocatedIn
+116.0	0.025200955898327177	0.005376094915882653	0.005376094915882653	happenedIn <-- happenedIn, inv_isLocatedIn, hasCapital
+116.0	0.025200955898327177	0.005376094915882653	0.005376094915882653	happenedIn <-- happenedIn, inv_isLocatedIn, hasCapital
+1982.0	0.4305887464696937	0.004868809892871443	0.005329103032910303	happenedIn <-- inv_participatedIn, isLocatedIn, inv_isLocatedIn
+3446.0	0.7486421898761677	0.004625168108620315	0.004625168108620315	happenedIn <-- happenedIn, isLocatedIn, inv_isLocatedIn
+1103.0	0.23962633065392136	0.0030354233631279997	0.0034841554634590113	happenedIn <-- inv_participatedIn, inv_isLocatedIn, isLocatedIn
+683.0	0.14838149033239192	0.0016141077269203863	0.0016141077269203863	happenedIn <-- happenedIn, inv_isLocatedIn
+683.0	0.14838149033239192	0.0016141077269203863	0.0016141077269203863	happenedIn <-- happenedIn, inv_isLocatedIn
+424.0	0.0921138388007821	0.0007686074609306314	0.0007686074609306314	happenedIn <-- happenedIn, inv_isLocatedIn, inv_isLocatedIn
+424.0	0.0921138388007821	0.0007686074609306314	0.0007686074609306314	happenedIn <-- happenedIn, inv_isLocatedIn, inv_isLocatedIn

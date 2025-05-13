@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "carries_out" typically indicates that a particular entity (such as a gene, protein, or enzyme) performs or facilitates a specific biological process, function, or activity.

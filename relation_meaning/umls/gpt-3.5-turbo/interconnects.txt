@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "interconnects" typically refers to a link that represents a functional, molecular, or biological connection between two entities, such as genes, proteins, pathways, or diseases, indicating their mutual interaction or involvement in a shared biological process.

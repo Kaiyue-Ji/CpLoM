@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "degree_of" typically indicates the extent or level of a particular characteristic, condition, or property associated with an entity, such as the severity of a disease or the concentration of a biomolecule in a sample.

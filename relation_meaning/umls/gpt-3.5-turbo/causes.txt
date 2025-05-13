@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "causes" signifies a direct link between an entity, such as a biological factor, condition, or event, and its resultant effect, typically indicating that one entity triggers or contributes to the onset or progression of another.

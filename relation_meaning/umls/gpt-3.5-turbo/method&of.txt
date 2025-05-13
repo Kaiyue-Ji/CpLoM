@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "method&of" typically refers to the connection between a specific research or experimental method and the biological process, condition, or phenomenon it is used to study or investigate.

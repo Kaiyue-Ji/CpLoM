@@ -1,0 +1,1226 @@
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_sister(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_niece(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_wife(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & nephew(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_wife(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_son(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & sister(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & mother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_husband(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_brother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & sister(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_husband(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_wife(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_brother(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & wife(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & nephew(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_sister(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_husband(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_sister(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & nephew(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_son(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & father(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_sister(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & aunt(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_sister(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & brother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & son(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_son(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_nephew(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & brother(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_mother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_husband(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_niece(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_wife(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_husband(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & son(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_son(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & husband(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_mother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & uncle(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & wife(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_son(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_niece(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_father(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_daughter(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & niece(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & brother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & sister(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & daughter(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- son(X, Z_1) & father(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & sister(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_brother(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_sister(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & daughter(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & husband(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_niece(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_niece(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & mother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_aunt(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_father(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_niece(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_father(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & wife(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_son(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & mother(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_sister(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & daughter(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & sister(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_wife(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & son(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & mother(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & father(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & wife(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & inv_niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & sister(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & sister(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & husband(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & son(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & mother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & brother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_niece(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_daughter(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & niece(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_niece(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_husband(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_niece(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_mother(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & wife(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_brother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & sister(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_uncle(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_brother(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & daughter(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- nephew(X, Z_1) & sister(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_sister(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & aunt(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_brother(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_niece(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & son(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & mother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & daughter(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & wife(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & wife(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & son(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_niece(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & father(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_daughter(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & mother(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & father(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & uncle(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & brother(Z_1, Z_2) & niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & brother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_daughter(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_husband(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & sister(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_mother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & sister(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & husband(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & brother(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_son(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & daughter(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: **Correct**
+Rule: husband(X,Y) <-- uncle(X, Z_1) & son(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_mother(X, Z_1) & wife(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_husband(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_son(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_son(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & wife(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_wife(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_mother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_wife(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_daughter(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_daughter(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & sister(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_niece(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_son(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & wife(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & wife(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & brother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_son(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & brother(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_sister(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_sister(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_brother(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_husband(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_father(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_sister(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_wife(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_husband(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_mother(X, Z_1) & aunt(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_sister(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & son(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & aunt(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & wife(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & father(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_niece(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & husband(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & sister(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & wife(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & niece(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_son(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_brother(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_daughter(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & sister(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & sister(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & husband(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & brother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_aunt(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_wife(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_nephew(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & uncle(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & nephew(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_daughter(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_father(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_husband(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_mother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_daughter(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & wife(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & mother(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_mother(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_husband(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_husband(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_mother(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_son(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_aunt(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & husband(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & father(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_sister(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & mother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_daughter(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & wife(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & nephew(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & son(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & brother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & brother(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & aunt(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & father(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_nephew(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & mother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_wife(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_husband(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & husband(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & niece(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_aunt(Z_1, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & brother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & daughter(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & father(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & husband(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & mother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & sister(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong.
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & uncle(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & father(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & brother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & brother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & daughter(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & brother(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & husband(Z_1, Z_2) & niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_son(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_wife(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_husband(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & sister(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & aunt(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & wife(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & mother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & sister(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_daughter(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & sister(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_niece(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & nephew(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_nephew(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & uncle(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_husband(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & brother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & sister(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_brother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_brother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_niece(Z_1, Z_2) & mother(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- brother(X, Z_1) & son(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & wife(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & wife(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_wife(X, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_niece(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & son(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & mother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_brother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & mother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_father(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_husband(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & sister(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & niece(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_son(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_husband(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & husband(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & son(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & aunt(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_wife(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_daughter(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & wife(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & mother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_aunt(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & sister(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & mother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_brother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & mother(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & niece(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & wife(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & aunt(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_aunt(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_mother(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & husband(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & niece(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & brother(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_father(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_son(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_son(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_sister(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_son(X, Z_1) & inv_brother(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & inv_husband(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- brother(X, Z_1) & niece(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_wife(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & wife(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & son(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & wife(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & niece(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_nephew(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & sister(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & uncle(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & niece(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- brother(X, Z_1) & nephew(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & uncle(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_brother(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & father(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & niece(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & niece(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & aunt(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- father(X, Z_1) & son(Z_1, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_son(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_father(X, Z_1) & inv_nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_son(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & mother(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_niece(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & niece(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_nephew(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_son(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_wife(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- father(X, Z_1) & brother(Z_1, Z_2) & daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & sister(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_aunt(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & niece(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & niece(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & sister(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & inv_daughter(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_wife(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_sister(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & mother(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_uncle(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_daughter(Z_1, Z_2) & sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_mother(X, Z_1) & wife(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_brother(Z_1, Z_2) & father(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & father(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_son(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & inv_niece(Z_1, Z_2) & niece(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & sister(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & husband(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_daughter(X, Z_1) & inv_sister(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_niece(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Wrong
+Rule: husband(X,Y) <-- nephew(X, Z_1) & wife(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_son(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & aunt(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & sister(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & inv_mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & daughter(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_father(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & inv_nephew(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & uncle(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & brother(Z_1, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- brother(X, Z_1) & mother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_brother(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_aunt(X, Z_1) & inv_nephew(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_nephew(X, Z_1) & inv_uncle(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & mother(Z_1, Z_2) & nephew(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_sister(X, Z_1) & aunt(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & father(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct.
+Rule: husband(X,Y) <-- inv_brother(X, Z_1) & inv_aunt(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & aunt(Z_1, Z_2) & brother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & uncle(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & husband(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- uncle(X, Z_1) & inv_husband(Z_1, Z_2) & inv_aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & inv_nephew(Z_1, Z_2) & son(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- brother(X, Z_1) & daughter(Z_1, Z_2) & aunt(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- nephew(X, Z_1) & husband(Z_1, Z_2) & inv_sister(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- son(X, Z_1) & inv_nephew(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & brother(Z_1, Z_2) & uncle(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_uncle(X, Z_1) & brother(Z_1, Z_2) & inv_niece(Z_2, Y)
+answer: Correct
+Rule: husband(X,Y) <-- inv_niece(X, Z_1) & inv_mother(Z_1, Z_2) & mother(Z_2, Y)
+answer: Correct

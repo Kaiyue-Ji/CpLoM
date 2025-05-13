@@ -1,0 +1,1 @@
+In an English vocabulary knowledge graph, the relation _similar_to represents a connection between two words or concepts that share comparable meanings, characteristics, or associations.

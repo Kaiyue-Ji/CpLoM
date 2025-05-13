@@ -1,0 +1,1 @@
+In a knowledge graph, the relation **isLocatedIn** signifies a spatial or geographical connection, indicating that an entity (such as a building, city, or organization) is situated within a specific location or region (such as a country, state, or area).

@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "exhibits" typically refers to a biological entity or subject demonstrating or manifesting a particular characteristic, symptom, phenotype, or molecular behavior, often in relation to a disease or condition.

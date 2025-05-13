@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasCapital" typically represents the connection between a country or region and its capital city, indicating that the country or region is associated with or governs a specific capital.

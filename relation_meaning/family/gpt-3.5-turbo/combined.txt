@@ -1,0 +1,25 @@
+In a family knowledge graph, the relation "aunt" represents a familial connection where one person is the sister of someone's parent, or the wife of someone's uncle, making them a female relative in the extended family.
+
+In a family knowledge graph, the relation "brother" denotes a male sibling, indicating that two individuals share at least one biological or legal parent.
+
+
+In a family knowledge graph, the relation "daughter" represents a familial connection where an individual is a female offspring of a particular parent.
+
+In a family knowledge graph, the relation "father" represents a familial connection where an individual (the father) is the male parent of a child, typically indicating a biological or legal relationship.
+
+In a family knowledge graph, the relation "husband" refers to a male individual who is married to another person, typically in the context of a spousal relationship within a family structure.
+
+In a family knowledge graph, the relation "mother" represents a connection between a person and their biological or adoptive female parent, indicating that the person is the offspring of that individual.
+
+In a family knowledge graph, the relation "nephew" refers to the male child of one's sibling, signifying a direct familial connection through a sibling’s offspring.
+
+In a family knowledge graph, the relation "niece" refers to the daughter of one's sibling, representing a familial connection where an individual is the niece of another person.
+
+In a family knowledge graph, the relation "sister" represents a female sibling who shares at least one biological or adoptive parent with another individual.
+
+In a family knowledge graph, the relation "son" refers to a male child in relation to his parents, typically denoting a biological or legal offspring of a mother and father.
+
+In a family knowledge graph, the relation "uncle" refers to a male relative who is the brother of one's parent or the husband of one's aunt.
+
+In a family knowledge graph, the relation "wife" represents a woman who is legally or socially married to her spouse, forming a partnership within the family structure.
+

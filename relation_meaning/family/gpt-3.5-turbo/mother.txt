@@ -1,0 +1,1 @@
+In a family knowledge graph, the relation "mother" represents a connection between a person and their biological or adoptive female parent, indicating that the person is the offspring of that individual.

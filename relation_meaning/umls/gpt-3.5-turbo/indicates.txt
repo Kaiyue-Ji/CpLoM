@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "indicates" typically signifies a connection where one entity (such as a biomarker, gene, or condition) is a sign, symptom, or predictor of another entity (such as a disease, outcome, or clinical manifestation).

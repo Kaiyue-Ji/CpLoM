@@ -1,0 +1,212 @@
+0.0	0.0	0.0	0.0	owns <-- hasMusicalRole, inv_hasMusicalRole
+0.0	0.0	0.0	0.0	owns <-- owns, hasNeighbor, owns
+0.0	0.0	0.0	0.0	owns <-- owns, hasNeighbor
+0.0	0.0	0.0	0.0	owns <-- owns, hasChild
+0.0	0.0	0.0	0.0	owns <-- actedIn, inv_actedIn
+6	0.0093603744149766	0.006066734074823054	0.006066734074823054	owns <-- owns, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- isCitizenOf, inv_isCitizenOf
+0.0	0.0	0.0	0.0	owns <-- isKnownFor, owns
+0.0	0.0	0.0	0.0	owns <-- owns, actedIn
+0.0	0.0	0.0	0.0	owns <-- isAffiliatedTo, owns
+0.0	0.0	0.0	0.0	owns <-- owns, isKnownFor, owns
+0.0	0.0	0.0	0.0	owns <-- hasWebsite, owns
+0.0	0.0	0.0	0.0	owns <-- hasCapital, inv_hasCapital
+0.0	0.0	0.0	0.0	owns <-- owns, worksAt
+0.0	0.0	0.0	0.0	owns <-- inv_hasCurrency, owns
+0.0	0.0	0.0	0.0	owns <-- hasOfficialLanguage, owns
+0.0	0.0	0.0	0.0	owns <-- inv_hasOfficialLanguage, owns
+0.0	0.0	0.0	0.0	owns <-- owns, isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- owns, isLeaderOf
+54	0.0842433697347894	0.016148325358851676	0.08307692307692308	owns <-- dealsWith, inv_dealsWith, owns
+9	0.014040561622464899	0.16981132075471697	0.16981132075471697	owns <-- owns, inv_livesIn, livesIn
+0.0	0.0	0.0	0.0	owns <-- influences, owns
+79	0.12324492979719189	0.05598866052445074	0.05598866052445074	owns <-- owns, inv_isLocatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- owns, hasWonPrize
+5	0.0078003120124804995	2.0686117133069653e-05	0.000124962511246626	owns <-- inv_diedIn, isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- hasWonPrize, inv_hasWonPrize
+0.0	0.0	0.0	0.0	owns <-- owns, isMarriedTo
+0.0	0.0	0.0	0.0	owns <-- influences, inv_influences
+36	0.056162246489859596	2.743628494411e-05	0.0032650099764193726	owns <-- isLocatedIn, inv_isLocatedIn, inv_isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- inv_isConnectedTo, owns
+2	0.0031201248049922	0.125	1.0	owns <-- inv_isMarriedTo, owns
+8	0.0124804992199688	0.00026123301985370953	0.0027903732124171608	owns <-- inv_isLocatedIn, isLocatedIn, inv_isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- inv_hasWonPrize, owns
+159	0.24804992199687986	0.012600047547349235	0.1495766698024459	owns <-- inv_isLocatedIn, isLocatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- owns, wroteMusicFor
+0.0	0.0	0.0	0.0	owns <-- isPoliticianOf, inv_isPoliticianOf
+0.0	0.0	0.0	0.0	owns <-- inv_wroteMusicFor, owns
+0.0	0.0	0.0	0.0	owns <-- owns, exports
+0.0	0.0	0.0	0.0	owns <-- isLeaderOf, owns
+0.0	0.0	0.0	0.0	owns <-- exports, owns
+0.0	0.0	0.0	0.0	owns <-- owns, directed
+0.0	0.0	0.0	0.0	owns <-- participatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- inv_hasGender, owns
+34	0.0530421216848674	0.0006320524975368542	0.0026182042199291546	owns <-- inv_isLocatedIn
+133	0.20748829953198128	0.006214372488552472	0.006214372488552472	owns <-- owns, isConnectedTo, inv_isConnectedTo
+32	0.0499219968798752	0.055944055944055944	0.29357798165137616	owns <-- dealsWith, inv_hasNeighbor, owns
+0.0	0.0	0.0	0.0	owns <-- hasCapital, owns
+33	0.0514820592823713	0.029049295774647887	0.14473684210526316	owns <-- dealsWith, hasNeighbor, owns
+0.0	0.0	0.0	0.0	owns <-- graduatedFrom, owns
+0.0	0.0	0.0	0.0	owns <-- participatedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	owns <-- owns, livesIn
+9	0.014040561622464899	0.007506255212677231	0.007506255212677231	owns <-- owns, isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- graduatedFrom, inv_graduatedFrom
+0.0	0.0	0.0	0.0	owns <-- playsFor, owns
+0.0	0.0	0.0	0.0	owns <-- inv_exports, owns
+0.0	0.0	0.0	0.0	owns <-- inv_isCitizenOf, owns
+0.0	0.0	0.0	0.0	owns <-- isLocatedIn, isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- isInterestedIn, inv_isInterestedIn
+0.0	0.0	0.0	0.0	owns <-- owns, influences
+0.0	0.0	0.0	0.0	owns <-- hasWebsite, inv_hasWebsite
+0.0	0.0	0.0	0.0	owns <-- inv_isInterestedIn, owns
+0.0	0.0	0.0	0.0	owns <-- inv_hasMusicalRole, owns
+7	0.0109204368174727	7.616643454038997e-06	0.0006986027944111777	owns <-- inv_isAffiliatedTo, isAffiliatedTo
+0.0	0.0	0.0	0.0	owns <-- isPoliticianOf, owns
+0.0	0.0	0.0	0.0	owns <-- hasChild, inv_hasChild
+0.0	0.0	0.0	0.0	owns <-- inv_actedIn, owns
+119	0.1856474258970359	2.1754880666344318e-06	0.00016498721695680385	owns <-- isLocatedIn, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- inv_diedIn, owns
+0.0	0.0	0.0	0.0	owns <-- owns, isAffiliatedTo, inv_isAffiliatedTo
+0.0	0.0	0.0	0.0	owns <-- owns, dealsWith
+0.0	0.0	0.0	0.0	owns <-- livesIn, inv_livesIn
+0.0	0.0	0.0	0.0	owns <-- isKnownFor, inv_isKnownFor
+0.0	0.0	0.0	0.0	owns <-- dealsWith, inv_dealsWith
+7	0.0109204368174727	0.10144927536231885	0.10144927536231885	owns <-- owns, owns
+0.0	0.0	0.0	0.0	owns <-- inv_isPoliticianOf, owns
+0.0	0.0	0.0	0.0	owns <-- diedIn, inv_diedIn
+0.0	0.0	0.0	0.0	owns <-- owns, influences
+0.0	0.0	0.0	0.0	owns <-- hasOfficialLanguage, inv_hasOfficialLanguage
+21	0.0327613104524181	0.12352941176470589	0.23595505617977527	owns <-- inv_dealsWith, owns
+0.0	0.0	0.0	0.0	owns <-- directed, inv_directed
+0.0	0.0	0.0	0.0	owns <-- owns, hasMusicalRole
+123	0.1918876755070203	0.0057294577976523195	0.0057294577976523195	owns <-- owns, inv_isConnectedTo, inv_isConnectedTo
+3	0.0046801872074883	8.179513046323308e-05	0.011152416356877323	owns <-- isLocatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- directed, owns
+4	0.0062402496099844	0.002795248078266946	0.002795248078266946	owns <-- owns, isConnectedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- owns, edited
+61	0.09516380655226209	0.02715939447907391	0.02715939447907391	owns <-- owns, inv_isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- isConnectedTo, inv_isConnectedTo
+5	0.0078003120124804995	7.156454406228978e-05	0.0006201165819174004	owns <-- inv_isLocatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- isAffiliatedTo, inv_isAffiliatedTo
+406	0.6333853354134166	0.0007110457275959299	0.06907111262334127	owns <-- isLocatedIn, inv_isLocatedIn, owns
+28	0.0436817472698908	0.04745762711864407	0.12903225806451613	owns <-- exports, inv_imports, owns
+0.0	0.0	0.0	0.0	owns <-- actedIn, owns
+141	0.21996879875195008	0.005063927596609683	0.005063927596609683	owns <-- owns, isConnectedTo, isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- owns, isPoliticianOf
+0.0	0.0	0.0	0.0	owns <-- owns, hasCapital
+0.0	0.0	0.0	0.0	owns <-- livesIn, owns
+0.0	0.0	0.0	0.0	owns <-- inv_imports, owns
+1	0.0015600624024961	6.869787977733643e-07	0.001890359168241966	owns <-- isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- diedIn, owns
+22	0.0343213728549142	0.7333333333333333	0.7333333333333333	owns <-- owns, inv_isLocatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- edited, inv_edited
+47	0.07332293291731669	0.001376522961574508	0.11491442542787286	owns <-- isLocatedIn, isLocatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- wroteMusicFor, inv_wroteMusicFor
+17	0.0265210608424337	0.008664627930682976	0.008664627930682976	owns <-- owns, isLocatedIn, isLocatedIn
+4	0.0062402496099844	0.002530044275774826	0.05970149253731343	owns <-- inv_owns, owns
+0.0	0.0	0.0	0.0	owns <-- isLeaderOf, inv_isLeaderOf
+0.0	0.0	0.0	0.0	owns <-- inv_playsFor, owns
+0.0	0.0	0.0	0.0	owns <-- isCitizenOf, owns
+37	0.057722308892355696	2.8870094717318857e-05	0.0034117104656523744	owns <-- isLocatedIn, inv_isLocatedIn, isConnectedTo
+28	0.0436817472698908	0.03167420814479638	0.1407035175879397	owns <-- imports, inv_exports, owns
+0.0	0.0	0.0	0.0	owns <-- hasWonPrize, owns
+0.0	0.0	0.0	0.0	owns <-- inv_isLeaderOf, owns
+0.0	0.0	0.0	0.0	owns <-- worksAt, inv_worksAt
+159	0.24804992199687986	0.004782098709735631	0.004782098709735631	owns <-- owns, inv_isConnectedTo, isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- isMarriedTo, inv_isMarriedTo
+0.0	0.0	0.0	0.0	owns <-- owns, isKnownFor
+18	0.028081123244929798	0.10588235294117647	0.28125	owns <-- hasNeighbor, owns
+43	0.06708268330733229	0.06505295007564296	0.225130890052356	owns <-- exports, inv_exports, owns
+0.0	0.0	0.0	0.0	owns <-- hasMusicalRole, owns
+0.0	0.0	0.0	0.0	owns <-- hasGender, owns
+0.0	0.0	0.0	0.0	owns <-- hasAcademicAdvisor, owns
+0.0	0.0	0.0	0.0	owns <-- hasCurrency, owns
+60	0.093603744149766	3.884286584735841e-06	8.090134889515725e-05	owns <-- inv_isLocatedIn, isLocatedIn, inv_isLocatedIn
+21	0.0327613104524181	0.02453271028037383	0.11052631578947368	owns <-- dealsWith, owns
+0.0	0.0	0.0	0.0	owns <-- inv_worksAt, owns
+0.0	0.0	0.0	0.0	owns <-- inv_isKnownFor, owns
+0.0	0.0	0.0	0.0	owns <-- inv_hasCapital, owns
+3	0.0046801872074883	6.10984275301368e-06	7.402655085624044e-05	owns <-- inv_wasBornIn, isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- imports, inv_exports
+0.0	0.0	0.0	0.0	owns <-- inv_directed, owns
+0.0	0.0	0.0	0.0	owns <-- inv_graduatedFrom, owns
+0.0	0.0	0.0	0.0	owns <-- isPoliticianOf, isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- isInterestedIn, owns
+49	0.07644305772230889	0.033816425120772944	0.153125	owns <-- imports, inv_imports, owns
+0.0	0.0	0.0	0.0	owns <-- worksAt, owns
+0.0	0.0	0.0	0.0	owns <-- influences, owns
+0.0	0.0	0.0	0.0	owns <-- inv_participatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- inv_livesIn, owns
+0.0	0.0	0.0	0.0	owns <-- hasNeighbor, inv_hasNeighbor
+111	0.1731669266770671	1.7641784799342339e-06	0.00025844125001746223	owns <-- isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- exports, inv_exports
+2	0.0031201248049922	0.09090909090909091	1.0	owns <-- isMarriedTo, owns
+0.0	0.0	0.0	0.0	owns <-- owns, imports
+0.0	0.0	0.0	0.0	owns <-- owns, isConnectedTo, isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- isConnectedTo, owns
+0.0	0.0	0.0	0.0	owns <-- exports, inv_imports
+0.0	0.0	0.0	0.0	owns <-- wroteMusicFor, owns
+1	0.0015600624024961	0.0014064697609001407	0.005917159763313609	owns <-- inv_isLocatedIn, owns
+0.0	0.0	0.0	0.0	owns <-- edited, owns
+65	0.10140405616224649	0.01979293544457978	0.01979293544457978	owns <-- owns, isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- playsFor, owns
+32	0.0499219968798752	1.3608352466535148e-06	0.0001900598688586905	owns <-- isLocatedIn, inv_isLocatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- owns, isCitizenOf
+12	0.0187207488299532	0.2857142857142857	0.8	owns <-- hasChild, owns
+0.0	0.0	0.0	0.0	owns <-- owns, isAffiliatedTo
+0.0	0.0	0.0	0.0	owns <-- inv_hasAcademicAdvisor, owns
+0.0	0.0	0.0	0.0	owns <-- owns, graduatedFrom
+0.0	0.0	0.0	0.0	owns <-- owns, diedIn
+35	0.054602184087363496	0.018479408658922915	0.09308510638297872	owns <-- dealsWith, dealsWith, owns
+0.0	0.0	0.0	0.0	owns <-- owns, participatedIn
+0.0	0.0	0.0	0.0	owns <-- inv_isAffiliatedTo, owns
+439	0.6848673946957878	0.0009194737845247744	0.0009194737845247744	owns <-- owns, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	owns <-- inv_edited, owns
+0.0	0.0	0.0	0.0	owns <-- imports, inv_imports
+0.0	0.0	0.0	0.0	owns <-- imports, owns
+0.0	0.0	0.0	0.0	owns <-- inv_influences, owns
+11	0.0171606864274571	0.23404255319148937	1.0	owns <-- inv_hasChild, owns
+0.0	0.0	0.0	0.0	owns <-- inv_hasWebsite, owns
+112	0.1747269890795632	2.7798410789675164e-06	0.00027262614436041174	owns <-- isLocatedIn, inv_isLocatedIn, inv_isLocatedIn
+14	0.0218408736349454	0.1206896551724138	0.32558139534883723	owns <-- inv_hasNeighbor, owns
+0.0	0.0	0.0	0.0	owns <-- owns, hasWebsite
+95	0.1482059282371295	0.005855883622018122	0.005855883622018122	owns <-- owns, inv_isAffiliatedTo, isAffiliatedTo
+23	0.0358814352574103	3.1564963439538e-05	0.00011511741976816352	owns <-- inv_livesIn, livesIn, inv_isLocatedIn
+8	0.0124804992199688	0.0002488335925349922	0.0027962250961202375	owns <-- inv_isLocatedIn, isLocatedIn, isConnectedTo
+0.0	0.0	0.0	0.0	owns <-- isAffiliatedTo, inv_owns
+0.0	0.0	0.0	0.0	owns <-- hasCurrency, inv_hasCurrency
+32.0	0.0499219968798752	0.055944055944055944	0.29357798165137616	owns <-- dealsWith, inv_hasNeighbor, owns
+43.0	0.06708268330733229	0.06505295007564296	0.225130890052356	owns <-- exports, inv_exports, owns
+49.0	0.07644305772230889	0.033816425120772944	0.153125	owns <-- imports, inv_imports, owns
+159.0	0.24804992199687986	0.012600047547349235	0.1495766698024459	owns <-- inv_isLocatedIn, isLocatedIn, owns
+33.0	0.0514820592823713	0.029049295774647887	0.14473684210526316	owns <-- dealsWith, hasNeighbor, owns
+28.0	0.0436817472698908	0.03167420814479638	0.1407035175879397	owns <-- imports, inv_exports, owns
+28.0	0.0436817472698908	0.04745762711864407	0.12903225806451613	owns <-- exports, inv_imports, owns
+21.0	0.0327613104524181	0.02453271028037383	0.11052631578947368	owns <-- dealsWith, owns
+35.0	0.054602184087363496	0.018479408658922915	0.09308510638297872	owns <-- dealsWith, dealsWith, owns
+54.0	0.0842433697347894	0.016148325358851676	0.08307692307692308	owns <-- dealsWith, inv_dealsWith, owns
+406.0	0.6333853354134166	0.0007110457275959299	0.06907111262334127	owns <-- isLocatedIn, inv_isLocatedIn, owns
+61.0	0.09516380655226209	0.02715939447907391	0.02715939447907391	owns <-- owns, inv_isConnectedTo
+65.0	0.10140405616224649	0.01979293544457978	0.01979293544457978	owns <-- owns, isConnectedTo
+133.0	0.20748829953198128	0.006214372488552472	0.006214372488552472	owns <-- owns, isConnectedTo, inv_isConnectedTo
+95.0	0.1482059282371295	0.005855883622018122	0.005855883622018122	owns <-- owns, inv_isAffiliatedTo, isAffiliatedTo
+123.0	0.1918876755070203	0.0057294577976523195	0.0057294577976523195	owns <-- owns, inv_isConnectedTo, inv_isConnectedTo
+141.0	0.21996879875195008	0.005063927596609683	0.005063927596609683	owns <-- owns, isConnectedTo, isConnectedTo
+159.0	0.24804992199687986	0.004782098709735631	0.004782098709735631	owns <-- owns, inv_isConnectedTo, isConnectedTo
+37.0	0.057722308892355696	2.8870094717318857e-05	0.0034117104656523744	owns <-- isLocatedIn, inv_isLocatedIn, isConnectedTo
+36.0	0.056162246489859596	2.743628494411e-05	0.0032650099764193726	owns <-- isLocatedIn, inv_isLocatedIn, inv_isConnectedTo
+8.0	0.0124804992199688	0.0002488335925349922	0.0027962250961202375	owns <-- inv_isLocatedIn, isLocatedIn, isConnectedTo
+4.0	0.0062402496099844	0.002795248078266946	0.002795248078266946	owns <-- owns, isConnectedTo, inv_isLocatedIn
+8.0	0.0124804992199688	0.00026123301985370953	0.0027903732124171608	owns <-- inv_isLocatedIn, isLocatedIn, inv_isConnectedTo
+34.0	0.0530421216848674	0.0006320524975368542	0.0026182042199291546	owns <-- inv_isLocatedIn
+439.0	0.6848673946957878	0.0009194737845247744	0.0009194737845247744	owns <-- owns, isLocatedIn, inv_isLocatedIn
+7.0	0.0109204368174727	7.616643454038997e-06	0.0006986027944111777	owns <-- inv_isAffiliatedTo, isAffiliatedTo
+5.0	0.0078003120124804995	7.156454406228978e-05	0.0006201165819174004	owns <-- inv_isLocatedIn, isLocatedIn
+112.0	0.1747269890795632	2.7798410789675164e-06	0.00027262614436041174	owns <-- isLocatedIn, inv_isLocatedIn, inv_isLocatedIn
+111.0	0.1731669266770671	1.7641784799342339e-06	0.00025844125001746223	owns <-- isLocatedIn, inv_isLocatedIn
+32.0	0.0499219968798752	1.3608352466535148e-06	0.0001900598688586905	owns <-- isLocatedIn, inv_isLocatedIn, isLocatedIn
+119.0	0.1856474258970359	2.1754880666344318e-06	0.00016498721695680385	owns <-- isLocatedIn, isLocatedIn, inv_isLocatedIn
+5.0	0.0078003120124804995	2.0686117133069653e-05	0.000124962511246626	owns <-- inv_diedIn, isPoliticianOf, inv_isLocatedIn
+23.0	0.0358814352574103	3.1564963439538e-05	0.00011511741976816352	owns <-- inv_livesIn, livesIn, inv_isLocatedIn
+60.0	0.093603744149766	3.884286584735841e-06	8.090134889515725e-05	owns <-- inv_isLocatedIn, isLocatedIn, inv_isLocatedIn
+3.0	0.0046801872074883	6.10984275301368e-06	7.402655085624044e-05	owns <-- inv_wasBornIn, isPoliticianOf, inv_isLocatedIn

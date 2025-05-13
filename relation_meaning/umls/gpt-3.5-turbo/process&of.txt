@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "process&of" typically indicates that one biological process is a part or subset of another, signifying a hierarchical or functional relationship where the first process is a component or step within the larger process.

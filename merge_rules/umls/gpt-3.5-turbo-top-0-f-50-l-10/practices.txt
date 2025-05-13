@@ -1,0 +1,459 @@
+1	0.5	0.3333333333333333	0.3333333333333333	practices <-- practices, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_treats, inv_assesses&effect&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_degree&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- location&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- interacts&with, manifestation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- adjacent&to, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_interacts&with, inv_affects, issue&in
+0.0	0.0	0.0	0.0	practices <-- performs, inv_isa
+0.0	0.0	0.0	0.0	practices <-- evaluation&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_manages, issue&in
+0.0	0.0	0.0	0.0	practices <-- measures, inv_measures
+0.0	0.0	0.0	0.0	practices <-- inv_developmental&form&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_contains, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- part&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_uses, inv_property&of, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- performs, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_complicates, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	practices <-- inv_method&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- measurement&of, isa
+0.0	0.0	0.0	0.0	practices <-- associated&with, issue&in
+2	1.0	0.044444444444444446	1.0	practices <-- inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- causes, isa
+0.0	0.0	0.0	0.0	practices <-- inv_derivative&of, inv_assesses&effect&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_causes, inv_isa
+1	0.5	0.011111111111111112	0.3333333333333333	practices <-- produces, issue&in, isa
+2	1.0	0.007575757575757576	1.0	practices <-- isa, inv_isa, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_performs, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_exhibits, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- property&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_interacts&with, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, affects, issue&in
+1	0.5	0.05555555555555555	0.3333333333333333	practices <-- diagnoses, issue&in, isa
+1	0.5	0.002551020408163265	0.3333333333333333	practices <-- issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_conceptual&part&of, issue&in
+1	0.5	0.03333333333333333	0.3333333333333333	practices <-- uses, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- produces, isa
+0.0	0.0	0.0	0.0	practices <-- inv_disrupts, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- developmental&form&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_performs, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_treats, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_contains, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_measurement&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_developmental&form&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- method&of, issue&in
+2	1.0	0.5	1.0	practices <-- manages, issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- indicates, issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_conceptual&part&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- result&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_result&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- affects, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- derivative&of, associated&with
+2	1.0	0.06896551724137931	1.0	practices <-- exhibits, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_causes, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- adjacent&to, associated&with
+0.0	0.0	0.0	0.0	practices <-- manages, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- interconnects, issue&in
+0.0	0.0	0.0	0.0	practices <-- evaluation&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_result&of, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_causes, inv_result&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_conceptual&part&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_uses, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_occurs&in, inv_uses, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_interconnects, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- degree&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- part&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- manages, inv_disrupts, issue&in
+0.0	0.0	0.0	0.0	practices <-- conceptually&related&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- process&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_associated&with, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_exhibits, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_measures, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- manifestation&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- exhibits, isa
+0.0	0.0	0.0	0.0	practices <-- connected&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_precedes, inv_isa
+0.0	0.0	0.0	0.0	practices <-- result&of, issue&in, isa
+2	1.0	0.1	1.0	practices <-- uses, issue&in
+0.0	0.0	0.0	0.0	practices <-- co&occurs&with, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- disrupts, issue&in
+0.0	0.0	0.0	0.0	practices <-- diagnoses, inv_measurement&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- conceptual&part&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_measures, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_result&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- indicates, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- interconnects, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_interconnects, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_complicates, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_produces, inv_uses, method&of
+0.0	0.0	0.0	0.0	practices <-- consists&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- isa, location&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_analyzes, issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_disrupts, issue&in
+0.0	0.0	0.0	0.0	practices <-- evaluation&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_method&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_isa, inv_isa
+1	0.5	0.007751937984496124	0.3333333333333333	practices <-- inv_affects, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- uses, isa
+0.0	0.0	0.0	0.0	practices <-- inv_disrupts, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, inv_evaluation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- conceptually&related&to, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_prevents, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_performs, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- co&occurs&with, isa
+0.0	0.0	0.0	0.0	practices <-- inv_prevents, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- isa, produces, isa
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, inv_isa
+1	0.5	0.3333333333333333	0.3333333333333333	practices <-- practices, isa
+0.0	0.0	0.0	0.0	practices <-- precedes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_isa, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_associated&with, inv_property&of
+0.0	0.0	0.0	0.0	practices <-- complicates, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_part&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- derivative&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- disrupts, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_part&of, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- degree&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_result&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_assesses&effect&of, inv_manages, issue&in
+0.0	0.0	0.0	0.0	practices <-- analyzes, isa
+0.0	0.0	0.0	0.0	practices <-- derivative&of, issue&in, isa
+1	0.5	0.05555555555555555	0.3333333333333333	practices <-- performs, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_degree&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- affects, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_evaluation&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- prevents, issue&in
+0.0	0.0	0.0	0.0	practices <-- assesses&effect&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- ingredient&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_conceptually&related&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_manifestation&of, inv_isa
+2	1.0	0.06666666666666667	1.0	practices <-- exhibits, associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- location&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- connected&to, inv_connected&to
+2	1.0	0.16666666666666666	1.0	practices <-- treats, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- connected&to, isa
+0.0	0.0	0.0	0.0	practices <-- exhibits, inv_conceptually&related&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_adjacent&to, inv_isa
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_precedes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_isa, inv_produces, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_assesses&effect&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- assesses&effect&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_affects, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_process&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_measures, issue&in
+0.0	0.0	0.0	0.0	practices <-- surrounds, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, inv_diagnoses
+0.0	0.0	0.0	0.0	practices <-- inv_degree&of, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- affects, isa, issue&in
+0.0	0.0	0.0	0.0	practices <-- surrounds, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_consists&of, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_part&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_interacts&with
+0.0	0.0	0.0	0.0	practices <-- result&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_ingredient&of, inv_associated&with
+2	1.0	0.16666666666666666	1.0	practices <-- treats, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_connected&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_assesses&effect&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_adjacent&to, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_complicates, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- conceptual&part&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_occurs&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_associated&with, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- property&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_interacts&with, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_produces, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_precedes, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_disrupts, inv_issue&in
+2	1.0	0.09090909090909091	1.0	practices <-- inv_occurs&in, inv_measures, issue&in
+0.0	0.0	0.0	0.0	practices <-- measurement&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_produces, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_uses, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_derivative&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_manifestation&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- ingredient&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- complicates, isa
+0.0	0.0	0.0	0.0	practices <-- measurement&of, issue&in, isa
+1	0.5	0.00045372050816696913	0.008620689655172414	practices <-- inv_property&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_uses, inv_causes, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_consists&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- process&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_interconnects
+0.0	0.0	0.0	0.0	practices <-- associated&with, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_interacts&with, inv_associated&with, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- performs, inv_affects, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_derivative&of
+2	1.0	0.16666666666666666	1.0	practices <-- performs, associated&with, issue&in
+2	1.0	0.09090909090909091	1.0	practices <-- inv_occurs&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_affects, inv_causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- connected&to, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_manages, location&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- location&of, isa, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_uses, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_manages, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_complicates, issue&in
+2	1.0	0.1	1.0	practices <-- inv_occurs&in, manifestation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- prevents, isa
+0.0	0.0	0.0	0.0	practices <-- inv_method&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_co&occurs&with, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_treats, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_adjacent&to, inv_issue&in, associated&with
+1	0.5	0.05555555555555555	0.3333333333333333	practices <-- treats, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_carries&out, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_property&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_carries&out, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- adjacent&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- property&of, isa
+0.0	0.0	0.0	0.0	practices <-- property&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- performs, inv_degree&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_interacts&with, inv_interacts&with
+0.0	0.0	0.0	0.0	practices <-- consists&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_part&of, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- exhibits, inv_property&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- method&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_surrounds, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_evaluation&of, inv_manages, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_disrupts, inv_issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- performs, inv_connected&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- analyzes, issue&in
+0.0	0.0	0.0	0.0	practices <-- evaluation&of, inv_evaluation&of
+0.0	0.0	0.0	0.0	practices <-- consists&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_manifestation&of, issue&in
+1	0.5	0.030303030303030304	0.3333333333333333	practices <-- inv_occurs&in, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- surrounds, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_complicates, inv_issue&in, associated&with
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_location&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- ingredient&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- derivative&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	practices <-- inv_causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- complicates, issue&in, isa
+2	1.0	0.023255813953488372	1.0	practices <-- inv_affects, issue&in
+0.0	0.0	0.0	0.0	practices <-- part&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_evaluation&of, inv_evaluation&of
+0.0	0.0	0.0	0.0	practices <-- interconnects, isa
+1	0.5	0.16666666666666666	0.3333333333333333	practices <-- manages, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- precedes, isa
+0.0	0.0	0.0	0.0	practices <-- performs, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_treats, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- occurs&in, isa
+0.0	0.0	0.0	0.0	practices <-- result&of, isa
+0.0	0.0	0.0	0.0	practices <-- carries&out, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_ingredient&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_analyzes, inv_carries&out, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_exhibits, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_result&of, issue&in
+2	1.0	0.00816326530612245	1.0	practices <-- issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- measures, isa
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, issue&in
+0.0	0.0	0.0	0.0	practices <-- performs, inv_causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- developmental&form&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_consists&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_manages, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- interconnects, issue&in, isa
+1	0.5	0.014492753623188406	0.3333333333333333	practices <-- inv_associated&with, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_ingredient&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_treats, issue&in
+0.0	0.0	0.0	0.0	practices <-- ingredient&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_manifestation&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- associated&with, isa
+2	1.0	0.023255813953488372	1.0	practices <-- inv_affects, issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_uses, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- developmental&form&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_carries&out, inv_evaluation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, issue&in, isa
+2	1.0	0.041666666666666664	1.0	practices <-- interacts&with, inv_produces, issue&in
+0.0	0.0	0.0	0.0	practices <-- evaluation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_degree&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_performs, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, associated&with
+2	1.0	0.0002426595486532395	0.029411764705882353	practices <-- isa, isa, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_exhibits, issue&in
+2	1.0	0.13333333333333333	1.0	practices <-- interacts&with, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_treats, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_measurement&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- conceptual&part&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_contains, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- precedes, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- contains, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_isa, issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_location&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_process&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- contains, associated&with
+0.0	0.0	0.0	0.0	practices <-- produces, inv_result&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_prevents, inv_isa
+0.0	0.0	0.0	0.0	practices <-- location&of, issue&in
+2	1.0	0.03333333333333333	1.0	practices <-- produces, issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- occurs&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- indicates, isa
+0.0	0.0	0.0	0.0	practices <-- measurement&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_assesses&effect&of, issue&in, inv_issue&in
+2	1.0	0.5	1.0	practices <-- manages, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_developmental&form&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- isa, affects, isa
+0.0	0.0	0.0	0.0	practices <-- analyzes, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_associated&with, inv_issue&in, isa
+1	0.5	6.712310377231843e-05	0.008620689655172414	practices <-- issue&in, inv_issue&in
+2	1.0	0.007936507936507936	1.0	practices <-- isa, isa, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_precedes, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_occurs&in, inv_isa
+0.0	0.0	0.0	0.0	practices <-- isa, issue&in, inv_isa
+0.0	0.0	0.0	0.0	practices <-- method&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_conceptual&part&of, issue&in, inv_issue&in
+2	1.0	0.1	1.0	practices <-- inv_occurs&in, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- adjacent&to, isa
+2	1.0	0.09090909090909091	1.0	practices <-- inv_occurs&in, inv_process&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_property&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- treats, isa
+1	0.5	0.043478260869565216	1.0	practices <-- isa, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- carries&out, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_produces, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_disrupts, inv_isa
+2	1.0	0.1	1.0	practices <-- uses, causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_interacts&with, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_manages, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_result&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_issue&in, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_co&occurs&with, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_process&of, issue&in, isa
+2	1.0	0.015151515151515152	0.09090909090909091	practices <-- performs, associated&with
+0.0	0.0	0.0	0.0	practices <-- associated&with, causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_measures, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- occurs&in, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_carries&out, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_result&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_process&of, inv_issue&in, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_method&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_produces, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- disrupts, isa
+0.0	0.0	0.0	0.0	practices <-- manages, inv_evaluation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_analyzes, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_disrupts, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_connected&to, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- contains, isa
+0.0	0.0	0.0	0.0	practices <-- carries&out, isa
+2	1.0	0.05263157894736842	1.0	practices <-- inv_property&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- diagnoses, isa
+0.0	0.0	0.0	0.0	practices <-- inv_consists&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- method&of, isa
+0.0	0.0	0.0	0.0	practices <-- analyzes, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_causes, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_produces, inv_isa
+2	1.0	0.06666666666666667	1.0	practices <-- exhibits, inv_evaluation&of, issue&in
+2	1.0	0.00023989444644356483	0.029411764705882353	practices <-- isa, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, inv_assesses&effect&of, issue&in
+2	1.0	0.03333333333333333	1.0	practices <-- produces, affects, issue&in
+2	1.0	1.0	1.0	practices <-- practices, issue&in
+0.0	0.0	0.0	0.0	practices <-- measures, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_analyzes, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_exhibits, issue&in, inv_issue&in
+2	1.0	0.03333333333333333	1.0	practices <-- produces, issue&in
+0.0	0.0	0.0	0.0	practices <-- manifestation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- measures, issue&in
+0.0	0.0	0.0	0.0	practices <-- complicates, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_affects, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_connected&to, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- manifestation&of, isa, issue&in
+0.0	0.0	0.0	0.0	practices <-- process&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_co&occurs&with, inv_issue&in, associated&with
+0.0	0.0	0.0	0.0	practices <-- conceptual&part&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- causes, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_isa, inv_affects, inv_isa
+2	1.0	0.022727272727272728	1.0	practices <-- interacts&with, inv_interacts&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- diagnoses, inv_diagnoses
+0.0	0.0	0.0	0.0	practices <-- inv_measurement&of, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_developmental&form&of, inv_isa
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_indicates, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_indicates, inv_isa
+1	0.5	6.712310377231843e-05	0.008620689655172414	practices <-- issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_conceptual&part&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_carries&out, issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_uses, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_process&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_measurement&of, inv_isa
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_assesses&effect&of, issue&in
+1	0.5	0.00020048115477145148	0.008620689655172414	practices <-- inv_affects, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_associated&with, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_method&of, inv_analyzes, issue&in
+2	1.0	0.022988505747126436	1.0	practices <-- interacts&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_occurs&in, location&of
+0.0	0.0	0.0	0.0	practices <-- inv_part&of, inv_associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_indicates, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_performs, inv_isa
+0.0	0.0	0.0	0.0	practices <-- affects, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_associated&with, inv_location&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- degree&of, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- part&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_contains, inv_isa
+0.0	0.0	0.0	0.0	practices <-- process&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- manages, inv_method&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_evaluation&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_exhibits, inv_isa
+0.0	0.0	0.0	0.0	practices <-- associated&with, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- performs, isa
+1	0.5	0.022222222222222223	0.3333333333333333	practices <-- exhibits, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_co&occurs&with, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_conceptually&related&to, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_connected&to, inv_connected&to
+0.0	0.0	0.0	0.0	practices <-- location&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_analyzes, inv_isa
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_co&occurs&with, inv_associated&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- conceptually&related&to, isa
+0.0	0.0	0.0	0.0	practices <-- inv_interconnects, inv_isa
+0.0	0.0	0.0	0.0	practices <-- inv_part&of, inv_isa
+2	1.0	0.06666666666666667	1.0	practices <-- exhibits, inv_exhibits, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_associated&with, inv_isa
+2	1.0	0.2	1.0	practices <-- produces, inv_ingredient&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- interacts&with, isa
+0.0	0.0	0.0	0.0	practices <-- inv_connected&to, inv_isa
+0.0	0.0	0.0	0.0	practices <-- developmental&form&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_ingredient&of, inv_isa
+0.0	0.0	0.0	0.0	practices <-- isa, inv_property&of, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- performs, inv_performs, issue&in
+0.0	0.0	0.0	0.0	practices <-- surrounds, isa
+0.0	0.0	0.0	0.0	practices <-- inv_adjacent&to, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_complicates, issue&in, inv_issue&in
+2	1.0	0.08333333333333333	0.5	practices <-- diagnoses, inv_associated&with, method&of
+0.0	0.0	0.0	0.0	practices <-- manages, isa
+0.0	0.0	0.0	0.0	practices <-- inv_prevents, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_diagnoses, inv_isa
+0.0	0.0	0.0	0.0	practices <-- co&occurs&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_process&of, inv_uses, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_co&occurs&with, issue&in
+0.0	0.0	0.0	0.0	practices <-- prevents, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- interacts&with, inv_associated&with, result&of
+0.0	0.0	0.0	0.0	practices <-- inv_affects, inv_property&of
+1	0.5	0.007575757575757576	0.3333333333333333	practices <-- interacts&with, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- inv_causes, inv_issue&in
+0.0	0.0	0.0	0.0	practices <-- uses, produces, issue&in
+0.0	0.0	0.0	0.0	practices <-- inv_degree&of, issue&in
+0.0	0.0	0.0	0.0	practices <-- manifestation&of, isa
+0.0	0.0	0.0	0.0	practices <-- inv_location&of, inv_associated&with, method&of
+0.0	0.0	0.0	0.0	practices <-- contains, issue&in
+0.0	0.0	0.0	0.0	practices <-- conceptually&related&to, issue&in, isa
+0.0	0.0	0.0	0.0	practices <-- assesses&effect&of, isa
+2	1.0	0.008849557522123894	0.09090909090909091	practices <-- inv_associated&with, inv_process&of, associated&with
+0.0	0.0	0.0	0.0	practices <-- inv_indicates, inv_issue&in
+1.0	0.5	0.3333333333333333	0.3333333333333333	practices <-- practices, isa
+1.0	0.5	0.00030395136778115504	0.034482758620689655	practices <-- isa, inv_isa, isa
+2.0	1.0	0.0002426595486532395	0.029411764705882353	practices <-- isa, isa, inv_isa
+2.0	1.0	0.000474158368895211	0.029411764705882353	practices <-- inv_affects, isa, inv_isa
+2.0	1.0	0.014705882352941176	0.029411764705882353	practices <-- manages, isa, inv_isa
+2.0	1.0	0.003134796238244514	0.029411764705882353	practices <-- treats, isa, inv_isa
+2.0	1.0	0.00023989444644356483	0.029411764705882353	practices <-- isa, inv_isa
+2.0	1.0	0.029411764705882353	0.029411764705882353	practices <-- practices, isa, inv_isa
+2.0	1.0	0.00022224691632403602	0.024390243902439025	practices <-- isa, inv_isa, inv_isa
+2.0	1.0	0.002336448598130841	0.023255813953488372	practices <-- uses, isa, inv_isa
+2.0	1.0	0.0007757951900698216	0.023255813953488372	practices <-- produces, isa, inv_isa

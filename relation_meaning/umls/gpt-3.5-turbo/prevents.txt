@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "prevents" indicates that one entity (such as a drug, treatment, or intervention) inhibits or reduces the occurrence, progression, or impact of another entity (such as a disease, condition, or pathological process).

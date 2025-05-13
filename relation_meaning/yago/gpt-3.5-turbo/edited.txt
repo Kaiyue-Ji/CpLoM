@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "edited" represents a connection between an entity (such as a document, article, or media) and a person or group who made modifications or updates to it.

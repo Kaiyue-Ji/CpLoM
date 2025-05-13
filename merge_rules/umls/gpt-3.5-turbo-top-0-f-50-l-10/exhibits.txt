@@ -1,0 +1,417 @@
+0.0	0.0	0.0	0.0	exhibits <-- affects, result&of
+0.0	0.0	0.0	0.0	exhibits <-- contains, contains, contains
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_assesses&effect&of, result&of
+2	0.05	0.002805049088359046	0.058823529411764705	exhibits <-- associated&with, degree&of, affects
+0.0	0.0	0.0	0.0	exhibits <-- location&of, inv_location&of
+0.0	0.0	0.0	0.0	exhibits <-- conceptual&part&of, inv_conceptual&part&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_co&occurs&with, inv_associated&with, inv_manages
+0.0	0.0	0.0	0.0	exhibits <-- evaluation&of, evaluation&of, evaluation&of
+3	0.075	0.016666666666666666	1.0	exhibits <-- inv_isa, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- produces, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_analyzes, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- issue&in, issue&in, issue&in
+0.0	0.0	0.0	0.0	exhibits <-- inv_uses, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_consists&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_prevents, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- produces, inv_produces
+0.0	0.0	0.0	0.0	exhibits <-- analyzes, inv_analyzes
+0.0	0.0	0.0	0.0	exhibits <-- inv_interacts&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- precedes, inv_precedes
+0.0	0.0	0.0	0.0	exhibits <-- manages, manages, manages
+0.0	0.0	0.0	0.0	exhibits <-- result&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- precedes, precedes, precedes
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_disrupts, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- causes, manifestation&of
+20	0.5	0.034129692832764506	0.13513513513513514	exhibits <-- inv_affects, inv_manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_uses
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_associated&with, inv_associated&with
+3	0.075	0.017241379310344827	0.10344827586206896	exhibits <-- diagnoses, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_isa, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- causes, inv_causes
+2	0.05	0.0015527950310559005	0.058823529411764705	exhibits <-- causes, affects
+0.0	0.0	0.0	0.0	exhibits <-- uses, affects
+0.0	0.0	0.0	0.0	exhibits <-- part&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- derivative&of, derivative&of, derivative&of
+0.0	0.0	0.0	0.0	exhibits <-- practices, practices, practices
+0.0	0.0	0.0	0.0	exhibits <-- occurs&in, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_produces, inv_uses
+0.0	0.0	0.0	0.0	exhibits <-- evaluation&of, inv_evaluation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_carries&out, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_issue&in, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_ingredient&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- produces, result&of
+0.0	0.0	0.0	0.0	exhibits <-- disrupts, process&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- associated&with, interacts&with, result&of
+0.0	0.0	0.0	0.0	exhibits <-- affects, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- causes, inv_produces, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_isa, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- disrupts, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- exhibits, exhibits, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_property&of, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- interacts&with, result&of
+0.0	0.0	0.0	0.0	exhibits <-- uses, co&occurs&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_diagnoses, inv_associated&with, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_connected&to, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- part&of, inv_part&of
+0.0	0.0	0.0	0.0	exhibits <-- performs, inv_performs, result&of
+8	0.2	0.03636363636363636	0.06722689075630252	exhibits <-- inv_part&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_disrupts, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_adjacent&to, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- interacts&with, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_complicates
+0.0	0.0	0.0	0.0	exhibits <-- indicates, indicates, indicates
+39	0.975	0.002617801047120419	0.02280701754385965	exhibits <-- issue&in, inv_issue&in
+1	0.025	1.0	1.0	exhibits <-- treats, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- surrounds, inv_surrounds
+0.0	0.0	0.0	0.0	exhibits <-- inv_treats, inv_manages
+0.0	0.0	0.0	0.0	exhibits <-- exhibits, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- consists&of, inv_consists&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_uses, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- assesses&effect&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- process&of, process&of, process&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_measures, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- assesses&effect&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- part&of, part&of, part&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_contains, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- complicates, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- occurs&in, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_treats, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- consists&of, consists&of, consists&of
+3	0.075	0.017241379310344827	0.10344827586206896	exhibits <-- diagnoses, result&of
+0.0	0.0	0.0	0.0	exhibits <-- manages, result&of
+0.0	0.0	0.0	0.0	exhibits <-- analyzes, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_degree&of
+0.0	0.0	0.0	0.0	exhibits <-- performs, inv_process&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- exhibits, result&of
+0.0	0.0	0.0	0.0	exhibits <-- affects, affects, affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_carries&out, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_manages
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- surrounds, surrounds, surrounds
+0.0	0.0	0.0	0.0	exhibits <-- inv_result&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- prevents, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_process&of, inv_process&of, inv_process&of
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- result&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- connected&to, exhibits
+8	0.2	0.01353637901861252	0.04790419161676647	exhibits <-- inv_affects, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- property&of, property&of, property&of
+0.0	0.0	0.0	0.0	exhibits <-- diagnoses, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- degree&of, degree&of, degree&of
+0.0	0.0	0.0	0.0	exhibits <-- consists&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- manifestation&of, result&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- manifestation&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_complicates, inv_complicates, inv_complicates
+0.0	0.0	0.0	0.0	exhibits <-- inv_carries&out, inv_analyzes, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- associated&with, associated&with, associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_part&of, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- method&of, inv_process&of, affects
+0.0	0.0	0.0	0.0	exhibits <-- part&of, isa
+0.0	0.0	0.0	0.0	exhibits <-- derivative&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- causes, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- interacts&with, interacts&with, interacts&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_co&occurs&with, inv_manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- manages, inv_manages
+0.0	0.0	0.0	0.0	exhibits <-- practices, inv_practices
+0.0	0.0	0.0	0.0	exhibits <-- disrupts, disrupts, disrupts
+0.0	0.0	0.0	0.0	exhibits <-- inv_produces, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- manifestation&of, inv_manifestation&of
+7	0.175	0.005967604433077579	0.0231023102310231	exhibits <-- inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_indicates, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_result&of, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_ingredient&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- exhibits, inv_isa
+4	0.1	0.0547945205479452	1.0	exhibits <-- inv_associated&with, inv_process&of
+0.0	0.0	0.0	0.0	exhibits <-- isa, affects, affects
+0.0	0.0	0.0	0.0	exhibits <-- treats, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_interconnects, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_exhibits, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_occurs&in, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_adjacent&to
+0.0	0.0	0.0	0.0	exhibits <-- evaluation&of, result&of
+3	0.075	0.0027223230490018148	0.10344827586206896	exhibits <-- causes, associated&with, result&of
+0.0	0.0	0.0	0.0	exhibits <-- result&of, result&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- degree&of, inv_degree&of
+5	0.125	0.0075528700906344415	0.026881720430107527	exhibits <-- inv_associated&with, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- occurs&in, inv_occurs&in
+0.0	0.0	0.0	0.0	exhibits <-- uses, uses, uses
+0.0	0.0	0.0	0.0	exhibits <-- prevents, prevents, prevents
+0.0	0.0	0.0	0.0	exhibits <-- inv_co&occurs&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- affects, associated&with
+15	0.375	0.1388888888888889	0.1388888888888889	exhibits <-- performs, affects
+0.0	0.0	0.0	0.0	exhibits <-- degree&of, inv_result&of
+2	0.05	0.004149377593360996	0.02857142857142857	exhibits <-- inv_isa, inv_process&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- produces, produces, produces
+0.0	0.0	0.0	0.0	exhibits <-- connected&to, connected&to, connected&to
+0.0	0.0	0.0	0.0	exhibits <-- inv_manifestation&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- disrupts, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_indicates, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- carries&out, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_analyzes, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- method&of, result&of
+8	0.2	0.006762468300929839	0.024691358024691357	exhibits <-- inv_process&of, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- isa, affects, isa
+0.0	0.0	0.0	0.0	exhibits <-- inv_performs, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_diagnoses, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- inv_complicates, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- process&of, result&of, causes
+0.0	0.0	0.0	0.0	exhibits <-- inv_interacts&with, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_process&of, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- uses, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- complicates, inv_complicates
+0.0	0.0	0.0	0.0	exhibits <-- inv_process&of, inv_manages, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- indicates, inv_indicates
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- isa, produces
+0.0	0.0	0.0	0.0	exhibits <-- issue&in, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- measures, measures, measures
+0.0	0.0	0.0	0.0	exhibits <-- indicates, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_diagnoses, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- carries&out, inv_carries&out
+0.0	0.0	0.0	0.0	exhibits <-- conceptual&part&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- treats, treats, treats
+0.0	0.0	0.0	0.0	exhibits <-- measurement&of, inv_measurement&of
+3	0.075	0.0049261083743842365	0.10344827586206896	exhibits <-- associated&with, affects, result&of
+0.0	0.0	0.0	0.0	exhibits <-- performs, result&of
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, inv_process&of, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- connected&to, inv_connected&to
+0.0	0.0	0.0	0.0	exhibits <-- inv_exhibits, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_carries&out, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- diagnoses, inv_diagnoses
+3	0.075	0.017241379310344827	0.10344827586206896	exhibits <-- diagnoses, result&of
+0.0	0.0	0.0	0.0	exhibits <-- location&of, affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_measures, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_process&of, inv_disrupts
+0.0	0.0	0.0	0.0	exhibits <-- interconnects, result&of
+33	0.825	0.5892857142857143	0.868421052631579	exhibits <-- interacts&with, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- performs, performs, performs
+0.0	0.0	0.0	0.0	exhibits <-- property&of, inv_property&of
+0.0	0.0	0.0	0.0	exhibits <-- result&of, complicates, result&of
+0.0	0.0	0.0	0.0	exhibits <-- interacts&with, result&of, affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_diagnoses, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_part&of, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_manages, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- process&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- uses, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_manages, result&of
+0.0	0.0	0.0	0.0	exhibits <-- process&of, inv_process&of
+0.0	0.0	0.0	0.0	exhibits <-- analyzes, inv_process&of, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- developmental&form&of, developmental&form&of, developmental&form&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_produces
+0.0	0.0	0.0	0.0	exhibits <-- ingredient&of, inv_ingredient&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_interacts&with, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- degree&of, affects, result&of
+0.0	0.0	0.0	0.0	exhibits <-- measures, inv_assesses&effect&of, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_assesses&effect&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_conceptual&part&of, inv_process&of, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_indicates, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_produces, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- practices, performs
+0.0	0.0	0.0	0.0	exhibits <-- inv_occurs&in, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- derivative&of, inv_derivative&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_evaluation&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- occurs&in, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- complicates, result&of
+0.0	0.0	0.0	0.0	exhibits <-- complicates, associated&with, result&of
+25	0.625	0.05747126436781609	0.09578544061302682	exhibits <-- inv_interacts&with, inv_affects, result&of
+0.0	0.0	0.0	0.0	exhibits <-- uses, inv_uses
+0.0	0.0	0.0	0.0	exhibits <-- inv_property&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_part&of, inv_disrupts, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_performs, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_disrupts, inv_affects, inv_result&of
+34	0.85	0.8717948717948718	0.8717948717948718	exhibits <-- isa, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_method&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_co&occurs&with, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- connected&to, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_measurement&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_complicates, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- adjacent&to, result&of
+0.0	0.0	0.0	0.0	exhibits <-- method&of, method&of, method&of
+0.0	0.0	0.0	0.0	exhibits <-- produces, conceptual&part&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_connected&to, inv_result&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_part&of, inv_connected&to, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, inv_co&occurs&with
+0.0	0.0	0.0	0.0	exhibits <-- uses, produces, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_precedes, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_manages
+0.0	0.0	0.0	0.0	exhibits <-- conceptual&part&of, inv_connected&to, result&of
+1	0.025	0.5	0.5	exhibits <-- inv_treats, inv_property&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_developmental&form&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- analyzes, analyzes, analyzes
+0.0	0.0	0.0	0.0	exhibits <-- practices, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_exhibits, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- inv_treats, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- manifestation&of, causes, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_adjacent&to
+0.0	0.0	0.0	0.0	exhibits <-- assesses&effect&of, assesses&effect&of, assesses&effect&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_result&of, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- degree&of, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- measurement&of, inv_assesses&effect&of, inv_causes
+0.0	0.0	0.0	0.0	exhibits <-- inv_result&of, inv_result&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_evaluation&of, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- isa, isa, result&of
+3	0.075	0.0027223230490018148	0.10344827586206896	exhibits <-- causes, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_interacts&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- contains, inv_property&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_occurs&in, inv_occurs&in, inv_occurs&in
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_associated&with, inv_manifestation&of
+7	0.175	0.008187134502923977	0.01545253863134658	exhibits <-- inv_part&of, inv_result&of, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- affects, associated&with, result&of
+0.0	0.0	0.0	0.0	exhibits <-- location&of, location&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- interacts&with, inv_interacts&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_evaluation&of, inv_measurement&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_carries&out, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- prevents, inv_prevents
+2	0.05	0.007194244604316547	0.05	exhibits <-- inv_isa, inv_affects, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- manages, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- part&of, inv_associated&with, affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_affects
+3	0.075	0.003708281829419036	0.10344827586206896	exhibits <-- associated&with, manifestation&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_assesses&effect&of, inv_performs
+3	0.075	0.0049261083743842365	0.10344827586206896	exhibits <-- associated&with, co&occurs&with, result&of
+0.0	0.0	0.0	0.0	exhibits <-- assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	exhibits <-- interconnects, inv_interconnects
+0.0	0.0	0.0	0.0	exhibits <-- diagnoses, diagnoses, diagnoses
+3	0.075	0.006896551724137931	0.10344827586206896	exhibits <-- associated&with, location&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- location&of, location&of, location&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_interacts&with, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- interacts&with, inv_result&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- conceptual&part&of, inv_isa, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- complicates, complicates, complicates
+0.0	0.0	0.0	0.0	exhibits <-- inv_connected&to, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- conceptual&part&of, conceptual&part&of, conceptual&part&of
+0.0	0.0	0.0	0.0	exhibits <-- measurement&of, measurement&of, measurement&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_indicates, inv_isa, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- result&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_assesses&effect&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- isa, isa, isa
+0.0	0.0	0.0	0.0	exhibits <-- inv_conceptually&related&to, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- conceptually&related&to, result&of
+0.0	0.0	0.0	0.0	exhibits <-- co&occurs&with, co&occurs&with, co&occurs&with
+0.0	0.0	0.0	0.0	exhibits <-- result&of, exhibits
+0.0	0.0	0.0	0.0	exhibits <-- location&of, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- uses, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_manifestation&of, inv_manifestation&of, inv_manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_performs
+0.0	0.0	0.0	0.0	exhibits <-- location&of, adjacent&to, location&of
+0.0	0.0	0.0	0.0	exhibits <-- occurs&in, occurs&in, occurs&in
+0.0	0.0	0.0	0.0	exhibits <-- carries&out, carries&out, carries&out
+0.0	0.0	0.0	0.0	exhibits <-- performs, inv_performs
+0.0	0.0	0.0	0.0	exhibits <-- treats, inv_treats, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- inv_degree&of, inv_assesses&effect&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- manifestation&of, manifestation&of, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- isa, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- property&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- interconnects, affects
+0.0	0.0	0.0	0.0	exhibits <-- developmental&form&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_isa
+0.0	0.0	0.0	0.0	exhibits <-- inv_conceptual&part&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- method&of, inv_method&of
+0.0	0.0	0.0	0.0	exhibits <-- disrupts, inv_disrupts
+0.0	0.0	0.0	0.0	exhibits <-- inv_part&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- interconnects, interconnects, interconnects
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_complicates, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_derivative&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_location&of, inv_location&of, inv_location&of
+0.0	0.0	0.0	0.0	exhibits <-- indicates, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- surrounds, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_produces, inv_produces, inv_produces
+0.0	0.0	0.0	0.0	exhibits <-- measures, result&of
+0.0	0.0	0.0	0.0	exhibits <-- issue&in, inv_issue&in, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_performs, inv_carries&out
+0.0	0.0	0.0	0.0	exhibits <-- degree&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- ingredient&of, ingredient&of, ingredient&of
+0.0	0.0	0.0	0.0	exhibits <-- evaluation&of, exhibits
+7	0.175	0.007142857142857143	0.023026315789473683	exhibits <-- inv_process&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- indicates, result&of
+0.0	0.0	0.0	0.0	exhibits <-- produces, affects, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_degree&of, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_carries&out, inv_measures, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	exhibits <-- adjacent&to, adjacent&to, adjacent&to
+0.0	0.0	0.0	0.0	exhibits <-- inv_degree&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_adjacent&to, inv_associated&with, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_co&occurs&with, inv_associated&with, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_degree&of, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- occurs&in, associated&with, affects
+0.0	0.0	0.0	0.0	exhibits <-- part&of, inv_process&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_isa, inv_result&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_uses, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_disrupts, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- conceptually&related&to, conceptually&related&to, conceptually&related&to
+0.0	0.0	0.0	0.0	exhibits <-- inv_property&of, inv_associated&with, inv_manages
+0.0	0.0	0.0	0.0	exhibits <-- produces, co&occurs&with, manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_uses, inv_uses, inv_uses
+0.0	0.0	0.0	0.0	exhibits <-- inv_result&of, inv_causes
+0.0	0.0	0.0	0.0	exhibits <-- measures, inv_measures
+0.0	0.0	0.0	0.0	exhibits <-- precedes, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_degree&of, inv_degree&of, inv_degree&of
+0.0	0.0	0.0	0.0	exhibits <-- ingredient&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- exhibits, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_part&of, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- developmental&form&of, inv_developmental&form&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_derivative&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_interacts&with, inv_interacts&with, inv_interacts&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_property&of, inv_associated&with, inv_result&of
+1	0.025	0.0018587360594795538	0.05	exhibits <-- associated&with, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- measurement&of, result&of
+0.0	0.0	0.0	0.0	exhibits <-- contains, result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_indicates, inv_exhibits
+8	0.2	0.01384083044982699	0.047619047619047616	exhibits <-- inv_process&of, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- inv_associated&with, inv_interacts&with, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- diagnoses, inv_diagnoses, inv_manifestation&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_uses, inv_co&occurs&with
+0.0	0.0	0.0	0.0	exhibits <-- causes, causes, causes
+21	0.525	0.010824742268041237	0.04439746300211417	exhibits <-- inv_affects, inv_affects, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_complicates
+0.0	0.0	0.0	0.0	exhibits <-- inv_interacts&with, inv_manages, inv_result&of
+0.0	0.0	0.0	0.0	exhibits <-- inv_connected&to, inv_connected&to, inv_connected&to
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_affects
+0.0	0.0	0.0	0.0	exhibits <-- treats, inv_treats
+0.0	0.0	0.0	0.0	exhibits <-- inv_causes, inv_exhibits
+0.0	0.0	0.0	0.0	exhibits <-- inv_assesses&effect&of, inv_treats, inv_associated&with
+0.0	0.0	0.0	0.0	exhibits <-- conceptually&related&to, inv_conceptually&related&to
+0.0	0.0	0.0	0.0	exhibits <-- adjacent&to, inv_adjacent&to
+0.0	0.0	0.0	0.0	exhibits <-- contains, inv_contains
+3	0.075	0.0027223230490018148	0.10344827586206896	exhibits <-- causes, affects, result&of
+6.0	0.15	1.0	1.0	exhibits <-- performs, affects, exhibits
+9.0	0.225	0.42857142857142855	1.0	exhibits <-- inv_isa, exhibits
+3.0	0.075	1.0	1.0	exhibits <-- treats, isa, exhibits
+11.0	0.275	0.7333333333333333	0.9166666666666666	exhibits <-- inv_affects, inv_produces, exhibits
+5.0	0.125	0.1388888888888889	0.8333333333333334	exhibits <-- inv_produces, affects, exhibits
+15.0	0.375	0.5	0.8333333333333334	exhibits <-- produces, inv_produces, exhibits
+34.0	0.85	0.6538461538461539	0.6538461538461539	exhibits <-- isa, exhibits, affects
+3.0	0.075	0.21428571428571427	0.21428571428571427	exhibits <-- treats, performs
+3.0	0.075	0.21428571428571427	0.21428571428571427	exhibits <-- manages, manages, performs
+1.0	0.025	0.2	0.2	exhibits <-- treats, performs, isa
+3.0	0.075	0.2	0.2	exhibits <-- treats, isa, performs
+23.0	0.575	0.051111111111111114	0.19166666666666668	exhibits <-- inv_affects, produces, performs
+15.0	0.375	0.1	0.16666666666666666	exhibits <-- produces, inv_uses, performs
+12.0	0.3	0.16	0.16	exhibits <-- isa, performs
+15.0	0.375	0.1388888888888889	0.1388888888888889	exhibits <-- performs, affects
+9.0	0.225	0.13636363636363635	0.13636363636363635	exhibits <-- performs, inv_isa
+7.0	0.175	0.12727272727272726	0.12727272727272726	exhibits <-- isa, performs, inv_isa
+4.0	0.1	0.12121212121212122	0.12121212121212122	exhibits <-- performs, isa
+3.0	0.075	0.1	0.1	exhibits <-- isa, performs, isa
+40.0	1.0	0.09975062344139651	0.09975062344139651	exhibits <-- exhibits, isa, inv_isa
+15.0	0.375	0.09259259259259259	0.09259259259259259	exhibits <-- performs, isa, inv_isa
+13.0	0.325	0.08666666666666667	0.08666666666666667	exhibits <-- exhibits, inv_affects, isa
+3.0	0.075	0.013513513513513514	0.08108108108108109	exhibits <-- diagnoses, affects, affects
+25.0	0.625	0.018436578171091445	0.07507507507507508	exhibits <-- inv_affects, inv_precedes, affects
+40.0	1.0	0.07407407407407407	0.07407407407407407	exhibits <-- exhibits, inv_affects, affects
+13.0	0.325	0.07027027027027027	0.07027027027027027	exhibits <-- performs, complicates, affects
+5.0	0.125	0.01141552511415525	0.06756756756756757	exhibits <-- inv_produces, inv_precedes, affects
+15.0	0.375	0.06756756756756757	0.06756756756756757	exhibits <-- performs, affects, affects
+5.0	0.125	0.007541478129713424	0.06756756756756757	exhibits <-- inv_produces, affects, affects
+25.0	0.625	0.019857029388403495	0.06702412868632708	exhibits <-- isa, inv_affects, affects

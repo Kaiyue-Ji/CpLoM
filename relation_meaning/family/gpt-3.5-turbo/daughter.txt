@@ -1,0 +1,1 @@
+In a family knowledge graph, the relation "daughter" represents a familial connection where an individual is a female offspring of a particular parent.

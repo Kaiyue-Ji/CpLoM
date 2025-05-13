@@ -1,0 +1,1 @@
+In a knowledge graph, a relation represents a semantic connection between two entities, defining how they are related or interact with each other, typically represented as an edge linking two nodes (entities).

@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "consists_of" denotes that one entity is composed of or made up of multiple constituent parts, which can be other entities or components within the biological or medical domain.

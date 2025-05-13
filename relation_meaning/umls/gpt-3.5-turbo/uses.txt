@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "uses" typically refers to the association where one entity (such as a drug, medical device, or treatment) is employed or applied to achieve a specific outcome or effect on another entity (such as a disease, condition, or biological process).

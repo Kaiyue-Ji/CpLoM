@@ -1,0 +1,426 @@
+36	0.15126050420168066	0.03665987780040733	0.1651376146788991	produces <-- associated&with, inv_process&of, inv_causes
+49	0.20588235294117646	0.6805555555555556	0.6805555555555556	produces <-- inv_causes, inv_process&of, produces
+4	0.01680672268907563	0.08888888888888889	0.36363636363636365	produces <-- inv_isa, affects, inv_indicates
+48	0.20168067226890757	0.5393258426966292	0.9056603773584906	produces <-- inv_complicates, produces
+0.0	0.0	0.0	0.0	produces <-- indicates, indicates, produces
+0.0	0.0	0.0	0.0	produces <-- conceptually&related&to, inv_derivative&of, produces
+0.0	0.0	0.0	0.0	produces <-- indicates, produces
+0.0	0.0	0.0	0.0	produces <-- causes, inv_causes, inv_produces
+108	0.453781512605042	0.6033519553072626	0.6467065868263473	produces <-- process&of, produces
+33	0.13865546218487396	0.2619047619047619	0.36666666666666664	produces <-- inv_associated&with, process&of, inv_complicates
+0.0	0.0	0.0	0.0	produces <-- inv_ingredient&of, produces
+33	0.13865546218487396	0.264	0.3473684210526316	produces <-- inv_associated&with, inv_result&of, inv_disrupts
+12	0.05042016806722689	0.4444444444444444	0.4444444444444444	produces <-- inv_manages, produces
+0.0	0.0	0.0	0.0	produces <-- inv_treats, inv_uses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_exhibits, produces
+24	0.10084033613445378	0.75	0.75	produces <-- inv_interacts&with, inv_interacts&with, produces
+0.0	0.0	0.0	0.0	produces <-- property&of, produces
+39	0.1638655462184874	0.2671232876712329	0.5492957746478874	produces <-- location&of, produces
+0.0	0.0	0.0	0.0	produces <-- connected&to, inv_disrupts, produces
+8	0.03361344537815126	0.8888888888888888	0.8888888888888888	produces <-- carries&out, produces
+0.0	0.0	0.0	0.0	produces <-- exhibits, inv_exhibits, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_precedes, inv_disrupts, produces
+23	0.09663865546218488	0.36507936507936506	0.36507936507936506	produces <-- produces, produces
+3	0.012605042016806723	0.015789473684210527	0.02631578947368421	produces <-- inv_complicates, inv_affects, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_method&of, produces
+0.0	0.0	0.0	0.0	produces <-- method&of, method&of, produces
+0.0	0.0	0.0	0.0	produces <-- issue&in, inv_occurs&in, produces
+0.0	0.0	0.0	0.0	produces <-- conceptually&related&to, produces
+0.0	0.0	0.0	0.0	produces <-- practices, inv_practices, inv_produces
+49	0.20588235294117646	0.1331521739130435	0.20588235294117646	produces <-- isa, location&of, inv_affects
+49	0.20588235294117646	0.30246913580246915	0.9074074074074074	produces <-- complicates, complicates, produces
+0.0	0.0	0.0	0.0	produces <-- uses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_uses, inv_uses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_conceptually&related&to, inv_disrupts, produces
+0.0	0.0	0.0	0.0	produces <-- co&occurs&with, inv_co&occurs&with, inv_produces
+0.0	0.0	0.0	0.0	produces <-- practices, produces
+40	0.16806722689075632	0.2857142857142857	0.5	produces <-- inv_complicates, inv_associated&with, produces
+4	0.01680672268907563	0.06666666666666667	0.06666666666666667	produces <-- isa, co&occurs&with, inv_location&of
+0.0	0.0	0.0	0.0	produces <-- measurement&of, produces
+0.0	0.0	0.0	0.0	produces <-- consists&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_adjacent&to, inv_location&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_degree&of, inv_location&of, inv_affects
+35	0.14705882352941177	0.4166666666666667	0.8333333333333334	produces <-- location&of, affects, location&of
+0.0	0.0	0.0	0.0	produces <-- inv_occurs&in, inv_disrupts, produces
+109	0.4579831932773109	0.22708333333333333	0.6488095238095238	produces <-- result&of, result&of, produces
+70	0.29411764705882354	0.24475524475524477	0.2692307692307692	produces <-- inv_evaluation&of, result&of, analyzes
+88	0.3697478991596639	0.051643192488262914	0.11989100817438691	produces <-- inv_process&of, inv_result&of, inv_affects
+0.0	0.0	0.0	0.0	produces <-- inv_measurement&of, produces
+8	0.03361344537815126	0.36363636363636365	0.7272727272727273	produces <-- inv_adjacent&to, produces
+0.0	0.0	0.0	0.0	produces <-- ingredient&of, inv_ingredient&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- part&of, inv_manages, produces
+33	0.13865546218487396	0.3333333333333333	0.6	produces <-- inv_diagnoses, uses, interacts&with
+0.0	0.0	0.0	0.0	produces <-- inv_measures, inv_ingredient&of, inv_derivative&of
+28	0.11764705882352941	0.8484848484848485	0.8484848484848485	produces <-- part&of, inv_connected&to, produces
+13	0.0546218487394958	0.14772727272727273	0.5	produces <-- inv_measures, measures, inv_consists&of
+0.0	0.0	0.0	0.0	produces <-- inv_conceptual&part&of, produces
+29	0.12184873949579832	0.1518324607329843	0.2	produces <-- isa, inv_causes, inv_interacts&with
+54	0.226890756302521	0.38848920863309355	0.43548387096774194	produces <-- inv_occurs&in, inv_associated&with, produces
+85	0.35714285714285715	0.08149568552253116	0.1693227091633466	produces <-- inv_result&of, inv_degree&of, inv_causes
+0.0	0.0	0.0	0.0	produces <-- inv_isa, inv_associated&with, inv_measurement&of
+0.0	0.0	0.0	0.0	produces <-- connected&to, inv_location&of, inv_causes
+7	0.029411764705882353	0.2916666666666667	0.5	produces <-- inv_associated&with, inv_location&of, connected&to
+0.0	0.0	0.0	0.0	produces <-- isa, inv_isa, inv_produces
+8	0.03361344537815126	0.3333333333333333	0.6666666666666666	produces <-- connected&to, produces
+120	0.5042016806722689	0.1941747572815534	0.6451612903225806	produces <-- affects, produces
+0.0	0.0	0.0	0.0	produces <-- inv_property&of, produces
+6	0.025210084033613446	0.11764705882352941	1.0	produces <-- treats, produces
+0.0	0.0	0.0	0.0	produces <-- inv_assesses&effect&of, produces
+97	0.40756302521008403	0.7698412698412699	0.8290598290598291	produces <-- inv_manifestation&of, inv_manifestation&of, produces
+0.0	0.0	0.0	0.0	produces <-- causes, inv_analyzes, produces
+0.0	0.0	0.0	0.0	produces <-- result&of, inv_result&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_process&of, inv_uses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_assesses&effect&of, inv_process&of, produces
+11	0.046218487394957986	1.0	1.0	produces <-- interconnects, inv_connected&to, produces
+0.0	0.0	0.0	0.0	produces <-- interconnects, inv_interconnects, inv_produces
+4	0.01680672268907563	0.005908419497784343	0.019230769230769232	produces <-- affects, affects, inv_location&of
+0.0	0.0	0.0	0.0	produces <-- process&of, inv_connected&to, produces
+62	0.2605042016806723	0.15346534653465346	0.15346534653465346	produces <-- co&occurs&with, inv_isa, inv_affects
+0.0	0.0	0.0	0.0	produces <-- diagnoses, diagnoses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_assesses&effect&of, result&of, produces
+49	0.20588235294117646	0.5212765957446809	0.8448275862068966	produces <-- part&of, produces
+36	0.15126050420168066	0.05950413223140496	0.19047619047619047	produces <-- inv_isa, inv_result&of, inv_causes
+0.0	0.0	0.0	0.0	produces <-- carries&out, carries&out, produces
+0.0	0.0	0.0	0.0	produces <-- causes, produces
+4	0.01680672268907563	0.006033182503770739	0.019230769230769232	produces <-- affects, result&of, inv_exhibits
+3	0.012605042016806723	0.02727272727272727	0.04285714285714286	produces <-- inv_causes, inv_location&of, inv_location&of
+0.0	0.0	0.0	0.0	produces <-- inv_measures, inv_method&of, inv_consists&of
+0.0	0.0	0.0	0.0	produces <-- performs, inv_performs, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_associated&with, inv_location&of, inv_measures
+49	0.20588235294117646	0.4803921568627451	0.4803921568627451	produces <-- occurs&in, occurs&in, produces
+107	0.4495798319327731	0.3022598870056497	0.6729559748427673	produces <-- inv_process&of, produces
+103	0.4327731092436975	0.23094170403587444	0.5364583333333334	produces <-- inv_affects, produces
+12	0.05042016806722689	0.03278688524590164	0.375	produces <-- inv_produces, produces
+0.0	0.0	0.0	0.0	produces <-- adjacent&to, inv_adjacent&to, inv_produces
+2	0.008403361344537815	0.027777777777777776	0.047619047619047616	produces <-- result&of, inv_complicates, inv_performs
+49	0.20588235294117646	0.5444444444444444	0.9074074074074074	produces <-- inv_complicates, inv_complicates, produces
+55	0.23109243697478993	0.8870967741935484	0.8870967741935484	produces <-- degree&of, produces
+0.0	0.0	0.0	0.0	produces <-- diagnoses, inv_diagnoses, inv_produces
+0.0	0.0	0.0	0.0	produces <-- analyzes, inv_analyzes, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_measures, inv_associated&with, inv_causes
+0.0	0.0	0.0	0.0	produces <-- inv_associated&with, inv_measurement&of, produces
+0.0	0.0	0.0	0.0	produces <-- part&of, inv_part&of, inv_produces
+12	0.05042016806722689	0.3870967741935484	0.42857142857142855	produces <-- process&of, affects, inv_indicates
+75	0.31512605042016806	0.15625	0.33783783783783783	produces <-- location&of, inv_process&of, inv_causes
+0.0	0.0	0.0	0.0	produces <-- property&of, inv_property&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- exhibits, exhibits, produces
+0.0	0.0	0.0	0.0	produces <-- location&of, inv_location&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- contains, produces
+12	0.05042016806722689	0.5454545454545454	0.5454545454545454	produces <-- inv_carries&out, affects, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- measures, inv_measures, inv_produces
+0.0	0.0	0.0	0.0	produces <-- treats, inv_treats, inv_produces
+0.0	0.0	0.0	0.0	produces <-- interconnects, produces
+0.0	0.0	0.0	0.0	produces <-- conceptual&part&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_indicates, inv_result&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_evaluation&of, inv_assesses&effect&of, inv_treats
+0.0	0.0	0.0	0.0	produces <-- isa, part&of, produces
+8	0.03361344537815126	0.6666666666666666	0.6666666666666666	produces <-- inv_developmental&form&of, produces
+0.0	0.0	0.0	0.0	produces <-- developmental&form&of, inv_developmental&form&of, inv_produces
+42	0.17647058823529413	0.03167420814479638	0.11764705882352941	produces <-- inv_assesses&effect&of, assesses&effect&of, inv_affects
+0.0	0.0	0.0	0.0	produces <-- assesses&effect&of, inv_derivative&of, produces
+7	0.029411764705882353	0.175	0.19444444444444445	produces <-- inv_disrupts, inv_location&of, surrounds
+0.0	0.0	0.0	0.0	produces <-- evaluation&of, inv_exhibits, produces
+49	0.20588235294117646	0.5444444444444444	0.7777777777777778	produces <-- inv_treats, diagnoses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_measurement&of, inv_measures, produces
+0.0	0.0	0.0	0.0	produces <-- disrupts, inv_disrupts, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_causes, produces
+0.0	0.0	0.0	0.0	produces <-- inv_causes, inv_disrupts, inv_location&of
+109	0.4579831932773109	0.2529002320185615	0.5190476190476191	produces <-- isa, inv_affects, produces
+39	0.1638655462184874	0.21666666666666667	0.43333333333333335	produces <-- location&of, inv_associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- inv_evaluation&of, produces
+0.0	0.0	0.0	0.0	produces <-- carries&out, inv_carries&out, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_method&of, inv_result&of, inv_isa
+9	0.037815126050420166	0.6428571428571429	0.6428571428571429	produces <-- interconnects, interconnects, produces
+0.0	0.0	0.0	0.0	produces <-- interacts&with, inv_process&of, produces
+6	0.025210084033613446	1.0	1.0	produces <-- manages, manages, produces
+0.0	0.0	0.0	0.0	produces <-- inv_produces, inv_produces, produces
+58	0.24369747899159663	0.17261904761904762	0.17261904761904762	produces <-- inv_affects, inv_uses, measures
+123	0.5168067226890757	0.1964856230031949	0.640625	produces <-- affects, affects, produces
+0.0	0.0	0.0	0.0	produces <-- inv_derivative&of, inv_disrupts, produces
+30	0.12605042016806722	0.7692307692307693	0.7692307692307693	produces <-- interacts&with, produces
+48	0.20168067226890757	0.9056603773584906	0.9056603773584906	produces <-- inv_degree&of, associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- prevents, inv_assesses&effect&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_isa, inv_indicates, produces
+0.0	0.0	0.0	0.0	produces <-- inv_indicates, inv_part&of, produces
+0.0	0.0	0.0	0.0	produces <-- consists&of, consists&of, produces
+0.0	0.0	0.0	0.0	produces <-- disrupts, inv_complicates, inv_indicates
+61	0.25630252100840334	0.35260115606936415	0.8133333333333334	produces <-- inv_isa, produces
+0.0	0.0	0.0	0.0	produces <-- derivative&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_exhibits, inv_property&of, produces
+0.0	0.0	0.0	0.0	produces <-- derivative&of, derivative&of, produces
+19	0.07983193277310924	0.35185185185185186	0.7307692307692307	produces <-- surrounds, produces
+3	0.012605042016806723	0.01020408163265306	0.03571428571428571	produces <-- associated&with, inv_treats, disrupts
+0.0	0.0	0.0	0.0	produces <-- assesses&effect&of, inv_assesses&effect&of, inv_produces
+6	0.025210084033613446	0.42857142857142855	0.42857142857142855	produces <-- isa, produces, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- interacts&with, inv_interacts&with, inv_produces
+21	0.08823529411764706	0.75	0.75	produces <-- part&of, inv_produces, produces
+0.0	0.0	0.0	0.0	produces <-- uses, uses, produces
+19	0.07983193277310924	0.095	0.3958333333333333	produces <-- inv_produces, inv_affects, produces
+0.0	0.0	0.0	0.0	produces <-- indicates, inv_diagnoses, produces
+108	0.453781512605042	0.34726688102893893	0.6878980891719745	produces <-- inv_result&of, produces
+0.0	0.0	0.0	0.0	produces <-- conceptual&part&of, inv_conceptual&part&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_associated&with, inv_process&of, inv_manages
+0.0	0.0	0.0	0.0	produces <-- inv_uses, produces
+36	0.15126050420168066	0.631578947368421	0.8571428571428571	produces <-- part&of, part&of, produces
+50	0.21008403361344538	0.8620689655172413	0.8620689655172413	produces <-- co&occurs&with, co&occurs&with, produces
+72	0.3025210084033613	0.5714285714285714	0.8	produces <-- inv_co&occurs&with, produces
+0.0	0.0	0.0	0.0	produces <-- interacts&with, inv_location&of, connected&to
+0.0	0.0	0.0	0.0	produces <-- measures, inv_treats, produces
+26	0.1092436974789916	0.3939393939393939	0.5416666666666666	produces <-- isa, location&of, produces
+40	0.16806722689075632	0.47058823529411764	0.6557377049180327	produces <-- inv_associated&with, produces
+101	0.42436974789915966	0.23271889400921658	0.23271889400921658	produces <-- process&of, inv_part&of, inv_causes
+2	0.008403361344537815	0.006688963210702341	0.01282051282051282	produces <-- inv_process&of, inv_manifestation&of, inv_exhibits
+0.0	0.0	0.0	0.0	produces <-- occurs&in, inv_occurs&in, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_issue&in, produces
+0.0	0.0	0.0	0.0	produces <-- inv_conceptually&related&to, produces
+0.0	0.0	0.0	0.0	produces <-- uses, inv_uses, inv_produces
+0.0	0.0	0.0	0.0	produces <-- manifestation&of, inv_manifestation&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- conceptually&related&to, inv_conceptually&related&to, inv_produces
+2	0.008403361344537815	0.011111111111111112	0.015384615384615385	produces <-- inv_associated&with, produces, inv_produces
+0.0	0.0	0.0	0.0	produces <-- causes, causes, produces
+0.0	0.0	0.0	0.0	produces <-- evaluation&of, produces
+0.0	0.0	0.0	0.0	produces <-- treats, treats, produces
+0.0	0.0	0.0	0.0	produces <-- disrupts, inv_causes, produces
+109	0.4579831932773109	0.2838541666666667	0.6488095238095238	produces <-- inv_process&of, inv_process&of, produces
+46	0.19327731092436976	0.10407239819004525	0.2948717948717949	produces <-- manifestation&of, inv_affects, analyzes
+20	0.08403361344537816	0.47619047619047616	0.7142857142857143	produces <-- surrounds, surrounds, produces
+4	0.01680672268907563	0.008620689655172414	0.017857142857142856	produces <-- inv_result&of, inv_associated&with, inv_location&of
+0.0	0.0	0.0	0.0	produces <-- inv_isa, produces, inv_uses
+0.0	0.0	0.0	0.0	produces <-- inv_issue&in, inv_issue&in, produces
+0.0	0.0	0.0	0.0	produces <-- measures, inv_method&of, measures
+0.0	0.0	0.0	0.0	produces <-- produces, produces, produces
+0.0	0.0	0.0	0.0	produces <-- contains, contains, produces
+0.0	0.0	0.0	0.0	produces <-- adjacent&to, adjacent&to, produces
+7	0.029411764705882353	0.35	0.4666666666666667	produces <-- adjacent&to, part&of, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- inv_result&of, inv_interacts&with, produces
+0.0	0.0	0.0	0.0	produces <-- surrounds, inv_surrounds, inv_produces
+3	0.012605042016806723	0.046153846153846156	0.046153846153846156	produces <-- inv_prevents, associated&with, disrupts
+12	0.05042016806722689	0.25	0.42857142857142855	produces <-- result&of, complicates, inv_indicates
+0.0	0.0	0.0	0.0	produces <-- evaluation&of, inv_evaluation&of, inv_produces
+43	0.18067226890756302	0.2654320987654321	0.8958333333333334	produces <-- affects, produces, inv_isa
+0.0	0.0	0.0	0.0	produces <-- surrounds, inv_assesses&effect&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_assesses&effect&of, inv_associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- inv_interacts&with, inv_location&of, inv_complicates
+0.0	0.0	0.0	0.0	produces <-- prevents, produces
+4	0.01680672268907563	0.005263157894736842	0.015037593984962405	produces <-- result&of, inv_complicates, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_associated&with, inv_method&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_exhibits, inv_assesses&effect&of, produces
+0.0	0.0	0.0	0.0	produces <-- interacts&with, co&occurs&with, produces
+0.0	0.0	0.0	0.0	produces <-- disrupts, produces
+0.0	0.0	0.0	0.0	produces <-- evaluation&of, evaluation&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_consists&of, produces
+32	0.13445378151260504	0.16494845360824742	0.7619047619047619	produces <-- associated&with, associated&with, produces
+78	0.3277310924369748	0.1875	0.4431818181818182	produces <-- inv_location&of, inv_location&of, produces
+101	0.42436974789915966	0.07739463601532567	0.16031746031746033	produces <-- inv_result&of, inv_associated&with, measures
+0.0	0.0	0.0	0.0	produces <-- result&of, inv_causes, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- inv_measures, inv_disrupts, produces
+47	0.19747899159663865	0.14329268292682926	0.7833333333333333	produces <-- inv_part&of, produces
+0.0	0.0	0.0	0.0	produces <-- performs, produces
+4	0.01680672268907563	0.007952286282306162	0.01818181818181818	produces <-- inv_process&of, inv_associated&with, inv_location&of
+0.0	0.0	0.0	0.0	produces <-- inv_location&of, inv_causes, produces
+0.0	0.0	0.0	0.0	produces <-- location&of, inv_part&of, location&of
+49	0.20588235294117646	0.47115384615384615	0.7903225806451613	produces <-- conceptual&part&of, conceptual&part&of, produces
+0.0	0.0	0.0	0.0	produces <-- issue&in, produces
+40	0.16806722689075632	0.6060606060606061	0.6060606060606061	produces <-- inv_prevents, complicates, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- inv_measurement&of, inv_causes, produces
+0.0	0.0	0.0	0.0	produces <-- inv_disrupts, inv_part&of, produces
+0.0	0.0	0.0	0.0	produces <-- occurs&in, inv_assesses&effect&of, produces
+49	0.20588235294117646	0.9074074074074074	0.9074074074074074	produces <-- degree&of, degree&of, produces
+102	0.42857142857142855	0.7786259541984732	0.7786259541984732	produces <-- precedes, precedes, produces
+87	0.36554621848739494	0.14285714285714285	0.29591836734693877	produces <-- inv_result&of, result&of, inv_complicates
+29	0.12184873949579832	0.7435897435897436	0.7435897435897436	produces <-- inv_interacts&with, produces
+4	0.01680672268907563	0.12121212121212122	0.4	produces <-- inv_isa, result&of, inv_indicates
+0.0	0.0	0.0	0.0	produces <-- ingredient&of, produces
+0.0	0.0	0.0	0.0	produces <-- carries&out, inv_measurement&of, produces
+0.0	0.0	0.0	0.0	produces <-- connected&to, inv_connected&to, inv_produces
+11	0.046218487394957986	0.7333333333333333	0.7333333333333333	produces <-- adjacent&to, inv_surrounds, produces
+0.0	0.0	0.0	0.0	produces <-- inv_assesses&effect&of, inv_manages, produces
+0.0	0.0	0.0	0.0	produces <-- associated&with, inv_associated&with, inv_produces
+21	0.08823529411764706	0.11931818181818182	0.23863636363636365	produces <-- location&of, complicates, inv_disrupts
+98	0.4117647058823529	0.23501199040767387	0.44954128440366975	produces <-- inv_location&of, produces
+43	0.18067226890756302	0.4777777777777778	0.4777777777777778	produces <-- inv_affects, inv_part&of, produces
+3	0.012605042016806723	0.008403361344537815	0.023809523809523808	produces <-- manifestation&of, inv_location&of, part&of
+0.0	0.0	0.0	0.0	produces <-- inv_process&of, inv_degree&of, inv_result&of
+0.0	0.0	0.0	0.0	produces <-- inv_indicates, inv_causes, produces
+0.0	0.0	0.0	0.0	produces <-- inv_derivative&of, inv_associated&with, inv_measures
+109	0.4579831932773109	0.1577424023154848	0.40977443609022557	produces <-- inv_affects, inv_affects, produces
+0.0	0.0	0.0	0.0	produces <-- produces, inv_complicates, produces
+0.0	0.0	0.0	0.0	produces <-- treats, inv_evaluation&of, produces
+49	0.20588235294117646	0.2474747474747475	0.6805555555555556	produces <-- manifestation&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_prevents, produces
+0.0	0.0	0.0	0.0	produces <-- inv_treats, inv_isa, produces
+9	0.037815126050420166	0.1323529411764706	0.17647058823529413	produces <-- inv_causes, contains, inv_ingredient&of
+0.0	0.0	0.0	0.0	produces <-- inv_contains, produces
+177	0.7436974789915967	0.8634146341463415	0.8634146341463415	produces <-- isa, produces
+0.0	0.0	0.0	0.0	produces <-- analyzes, produces
+49	0.20588235294117646	0.5444444444444444	0.9074074074074074	produces <-- inv_complicates, inv_co&occurs&with, produces
+0.0	0.0	0.0	0.0	produces <-- inv_manages, inv_measures, inv_causes
+0.0	0.0	0.0	0.0	produces <-- derivative&of, inv_derivative&of, inv_produces
+4	0.01680672268907563	0.06349206349206349	0.1111111111111111	produces <-- location&of, inv_location&of, surrounds
+31	0.13025210084033614	0.18128654970760233	0.5636363636363636	produces <-- inv_isa, inv_location&of, inv_disrupts
+48	0.20168067226890757	0.21238938053097345	0.3609022556390977	produces <-- inv_associated&with, inv_affects, produces
+108	0.453781512605042	0.26277372262773724	0.6545454545454545	produces <-- result&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_connected&to, inv_connected&to, produces
+38	0.15966386554621848	0.09595959595959595	0.17117117117117117	produces <-- inv_diagnoses, measures
+0.0	0.0	0.0	0.0	produces <-- measures, produces
+0.0	0.0	0.0	0.0	produces <-- inv_analyzes, produces
+0.0	0.0	0.0	0.0	produces <-- precedes, inv_precedes, inv_produces
+6	0.025210084033613446	0.75	0.75	produces <-- inv_treats, produces
+49	0.20588235294117646	0.2722222222222222	0.6805555555555556	produces <-- manifestation&of, manifestation&of, produces
+39	0.1638655462184874	0.21666666666666667	0.43333333333333335	produces <-- location&of, inv_associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- prevents, prevents, produces
+8	0.03361344537815126	0.6666666666666666	0.6666666666666666	produces <-- connected&to, connected&to, produces
+0.0	0.0	0.0	0.0	produces <-- inv_interconnects, inv_causes, produces
+0.0	0.0	0.0	0.0	produces <-- inv_indicates, produces
+3	0.012605042016806723	0.05660377358490566	0.2727272727272727	produces <-- associated&with, inv_location&of, inv_developmental&form&of
+0.0	0.0	0.0	0.0	produces <-- inv_performs, produces
+0.0	0.0	0.0	0.0	produces <-- co&occurs&with, inv_indicates, produces
+41	0.1722689075630252	0.16532258064516128	0.6029411764705882	produces <-- associated&with, inv_result&of, produces
+99	0.41596638655462187	0.17647058823529413	0.5625	produces <-- affects, inv_location&of, inv_disrupts
+56	0.23529411764705882	0.6666666666666666	0.6666666666666666	produces <-- degree&of, inv_result&of, produces
+33	0.13865546218487396	0.375	0.6	produces <-- manifestation&of, disrupts, inv_complicates
+76	0.31932773109243695	0.40641711229946526	0.5467625899280576	produces <-- inv_co&occurs&with, inv_affects, produces
+0.0	0.0	0.0	0.0	produces <-- inv_manages, inv_associated&with, produces
+3	0.012605042016806723	0.13043478260869565	0.5	produces <-- inv_part&of, contains
+25	0.10504201680672269	0.28735632183908044	0.32051282051282054	produces <-- inv_occurs&in, inv_occurs&in, produces
+0.0	0.0	0.0	0.0	produces <-- consists&of, inv_consists&of, inv_produces
+19	0.07983193277310924	0.5428571428571428	0.8260869565217391	produces <-- inv_surrounds, produces
+19	0.07983193277310924	0.12418300653594772	0.3958333333333333	produces <-- affects, inv_location&of, connected&to
+35	0.14705882352941177	0.20348837209302326	0.20348837209302326	produces <-- isa, co&occurs&with, inv_causes
+0.0	0.0	0.0	0.0	produces <-- inv_diagnoses, produces
+14	0.058823529411764705	0.13725490196078433	0.6666666666666666	produces <-- inv_isa, inv_isa, produces
+3	0.012605042016806723	0.015306122448979591	0.02142857142857143	produces <-- inv_co&occurs&with, produces, disrupts
+3	0.012605042016806723	0.007594936708860759	0.02631578947368421	produces <-- complicates, inv_complicates, inv_produces
+4	0.01680672268907563	0.0041025641025641026	0.013157894736842105	produces <-- affects, inv_affects, inv_produces
+109	0.4579831932773109	0.3132183908045977	0.6488095238095238	produces <-- inv_result&of, inv_result&of, produces
+5	0.02100840336134454	0.25	0.4166666666666667	produces <-- inv_complicates, inv_co&occurs&with, inv_indicates
+0.0	0.0	0.0	0.0	produces <-- uses, inv_process&of, produces
+0.0	0.0	0.0	0.0	produces <-- ingredient&of, ingredient&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_conceptual&part&of, inv_carries&out, produces
+20	0.08403361344537816	0.23809523809523808	0.23809523809523808	produces <-- carries&out, affects, produces
+104	0.4369747899159664	0.23963133640552994	0.49523809523809526	produces <-- inv_result&of, inv_associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- inv_process&of, inv_measures, produces
+46	0.19327731092436976	0.4742268041237113	0.7540983606557377	produces <-- inv_co&occurs&with, inv_co&occurs&with, produces
+0.0	0.0	0.0	0.0	produces <-- measurement&of, measurement&of, produces
+49	0.20588235294117646	0.14080459770114942	0.5833333333333334	produces <-- associated&with, result&of, produces
+0.0	0.0	0.0	0.0	produces <-- contains, inv_conceptually&related&to, produces
+0.0	0.0	0.0	0.0	produces <-- inv_associated&with, inv_occurs&in, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	produces <-- ingredient&of, inv_property&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_treats, inv_disrupts, produces
+0.0	0.0	0.0	0.0	produces <-- property&of, property&of, produces
+81	0.3403361344537815	0.8804347826086957	0.8804347826086957	produces <-- co&occurs&with, produces
+10	0.04201680672268908	0.38461538461538464	0.6666666666666666	produces <-- adjacent&to, produces
+40	0.16806722689075632	0.04884004884004884	0.14814814814814814	produces <-- complicates, inv_degree&of, inv_affects
+31	0.13025210084033614	0.4305555555555556	0.7380952380952381	produces <-- inv_associated&with, inv_associated&with, produces
+104	0.4369747899159664	0.25679012345679014	0.8253968253968254	produces <-- affects, inv_complicates, produces
+26	0.1092436974789916	0.19696969696969696	0.24074074074074073	produces <-- inv_occurs&in, result&of, produces
+104	0.4369747899159664	0.29461756373937675	0.7272727272727273	produces <-- inv_affects, associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- inv_causes, inv_interacts&with, inv_associated&with
+0.0	0.0	0.0	0.0	produces <-- diagnoses, produces
+0.0	0.0	0.0	0.0	produces <-- inv_interconnects, produces
+56	0.23529411764705882	0.3916083916083916	0.5045045045045045	produces <-- occurs&in, produces
+0.0	0.0	0.0	0.0	produces <-- derivative&of, inv_evaluation&of, produces
+24	0.10084033613445378	0.7741935483870968	0.7741935483870968	produces <-- interacts&with, interacts&with, produces
+0.0	0.0	0.0	0.0	produces <-- inv_complicates, inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	produces <-- inv_manages, inv_assesses&effect&of, produces
+73	0.3067226890756303	0.9012345679012346	0.9012345679012346	produces <-- isa, isa, produces
+37	0.15546218487394958	0.42528735632183906	0.8809523809523809	produces <-- inv_result&of, produces, inv_isa
+0.0	0.0	0.0	0.0	produces <-- method&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_evaluation&of, inv_result&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_assesses&effect&of, result&of, analyzes
+0.0	0.0	0.0	0.0	produces <-- practices, practices, produces
+0.0	0.0	0.0	0.0	produces <-- measurement&of, inv_measurement&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- inv_location&of, inv_process&of, produces
+0.0	0.0	0.0	0.0	produces <-- method&of, inv_process&of, produces
+0.0	0.0	0.0	0.0	produces <-- indicates, inv_indicates, inv_produces
+0.0	0.0	0.0	0.0	produces <-- analyzes, analyzes, produces
+0.0	0.0	0.0	0.0	produces <-- produces, inv_produces, inv_produces
+46	0.19327731092436976	0.4791666666666667	0.4791666666666667	produces <-- inv_causes, inv_location&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_disrupts, produces
+25	0.10504201680672269	0.25	0.3125	produces <-- inv_occurs&in, produces
+0.0	0.0	0.0	0.0	produces <-- inv_uses, inv_associated&with, produces
+0.0	0.0	0.0	0.0	produces <-- assesses&effect&of, produces
+0.0	0.0	0.0	0.0	produces <-- manages, inv_measurement&of, produces
+14	0.058823529411764705	0.24561403508771928	0.4666666666666667	produces <-- inv_carries&out, produces
+149	0.6260504201680672	0.014251554280248685	0.06260504201680672	produces <-- issue&in, inv_issue&in, inv_issue&in
+40	0.16806722689075632	0.19047619047619047	0.7843137254901961	produces <-- associated&with, produces
+3	0.012605042016806723	0.058823529411764705	0.16666666666666666	produces <-- manifestation&of, inv_location&of, developmental&form&of
+6	0.025210084033613446	0.6666666666666666	0.6666666666666666	produces <-- manages, produces
+0.0	0.0	0.0	0.0	produces <-- inv_derivative&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_causes, manifestation&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_measures, produces
+166	0.6974789915966386	0.33877551020408164	0.33877551020408164	produces <-- produces, inv_interacts&with, interacts&with
+0.0	0.0	0.0	0.0	produces <-- issue&in, issue&in, produces
+49	0.20588235294117646	0.11893203883495146	0.5903614457831325	produces <-- associated&with, inv_affects, produces
+0.0	0.0	0.0	0.0	produces <-- inv_ingredient&of, interconnects, produces
+0.0	0.0	0.0	0.0	produces <-- inv_location&of, inv_uses, produces
+33	0.13865546218487396	0.12840466926070038	0.18032786885245902	produces <-- inv_associated&with, precedes, inv_causes
+0.0	0.0	0.0	0.0	produces <-- exhibits, produces
+0.0	0.0	0.0	0.0	produces <-- performs, performs, produces
+0.0	0.0	0.0	0.0	produces <-- inv_disrupts, inv_disrupts, produces
+109	0.4579831932773109	0.6055555555555555	0.6488095238095238	produces <-- process&of, process&of, produces
+0.0	0.0	0.0	0.0	produces <-- assesses&effect&of, assesses&effect&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_diagnoses, inv_carries&out, inv_treats
+0.0	0.0	0.0	0.0	produces <-- inv_interacts&with, inv_process&of, inv_indicates
+0.0	0.0	0.0	0.0	produces <-- inv_carries&out, inv_indicates, produces
+58	0.24369747899159663	0.5321100917431193	0.6823529411764706	produces <-- location&of, location&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_part&of, inv_part&of
+55	0.23109243697478993	0.9016393442622951	0.9016393442622951	produces <-- inv_degree&of, produces
+0.0	0.0	0.0	0.0	produces <-- inv_practices, produces
+0.0	0.0	0.0	0.0	produces <-- inv_location&of, inv_degree&of, produces
+0.0	0.0	0.0	0.0	produces <-- prevents, inv_prevents, inv_produces
+0.0	0.0	0.0	0.0	produces <-- contains, inv_contains, inv_produces
+0.0	0.0	0.0	0.0	produces <-- measures, measures, produces
+0.0	0.0	0.0	0.0	produces <-- degree&of, inv_degree&of, inv_produces
+97	0.40756302521008403	0.782258064516129	0.8362068965517241	produces <-- inv_manifestation&of, produces
+98	0.4117647058823529	0.7903225806451613	0.7903225806451613	produces <-- inv_precedes, produces
+49	0.20588235294117646	0.2552083333333333	0.9074074074074074	produces <-- complicates, produces
+0.0	0.0	0.0	0.0	produces <-- conceptually&related&to, conceptually&related&to, produces
+8	0.03361344537815126	0.0019753086419753087	0.008888888888888889	produces <-- issue&in, inv_issue&in, inv_produces
+0.0	0.0	0.0	0.0	produces <-- method&of, inv_method&of, inv_produces
+0.0	0.0	0.0	0.0	produces <-- result&of, inv_causes, produces
+0.0	0.0	0.0	0.0	produces <-- inv_measures, inv_indicates, produces
+40	0.16806722689075632	0.36363636363636365	0.6060606060606061	produces <-- inv_complicates, result&of, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- inv_derivative&of, inv_occurs&in, produces
+8	0.03361344537815126	0.2962962962962963	0.7272727272727273	produces <-- developmental&form&of, produces
+49	0.20588235294117646	0.16723549488054607	0.6805555555555556	produces <-- complicates, inv_affects, produces
+41	0.1722689075630252	0.5774647887323944	0.9318181818181818	produces <-- inv_associated&with, inv_occurs&in, produces
+0.0	0.0	0.0	0.0	produces <-- manages, inv_manages, inv_produces
+8	0.03361344537815126	0.24242424242424243	0.7272727272727273	produces <-- inv_connected&to, produces
+0.0	0.0	0.0	0.0	produces <-- developmental&form&of, developmental&form&of, produces
+101	0.42436974789915966	0.7769230769230769	0.7769230769230769	produces <-- precedes, produces
+0.0	0.0	0.0	0.0	produces <-- disrupts, disrupts, produces
+80	0.33613445378151263	0.4878048780487805	0.5633802816901409	produces <-- isa, inv_location&of, inv_disrupts
+0.0	0.0	0.0	0.0	produces <-- process&of, inv_process&of, inv_produces
+4	0.01680672268907563	0.011363636363636364	0.038461538461538464	produces <-- inv_measures, measures, inv_contains
+49	0.20588235294117646	0.9074074074074074	0.9074074074074074	produces <-- inv_degree&of, inv_degree&of, produces
+42.0	0.17647058823529413	0.5833333333333334	0.9333333333333333	produces <-- inv_causes, diagnoses, produces
+49.0	0.20588235294117646	0.550561797752809	0.9245283018867925	produces <-- inv_complicates, inv_precedes, produces
+49.0	0.20588235294117646	0.7777777777777778	0.9074074074074074	produces <-- inv_prevents, treats, produces
+49.0	0.20588235294117646	0.6049382716049383	0.9074074074074074	produces <-- inv_complicates, inv_isa, produces
+5.0	0.02100840336134454	0.5	0.8333333333333334	produces <-- inv_complicates, inv_causes, inv_indicates
+5.0	0.02100840336134454	0.8333333333333334	0.8333333333333334	produces <-- inv_precedes, inv_causes, inv_indicates
+104.0	0.4369747899159664	0.25679012345679014	0.8253968253968254	produces <-- affects, inv_complicates, produces
+32.0	0.13445378151260504	0.7619047619047619	0.7619047619047619	produces <-- performs, affects, uses
+24.0	0.10084033613445378	0.42857142857142855	0.75	produces <-- uses, affects, produces
+37.0	0.15546218487394958	0.43023255813953487	0.7254901960784313	produces <-- inv_isa, inv_precedes, produces
+5.0	0.02100840336134454	0.7142857142857143	0.7142857142857143	produces <-- inv_treats, isa, produces
+49.0	0.20588235294117646	0.4188034188034188	0.7	produces <-- inv_complicates, inv_affects, produces
+49.0	0.20588235294117646	0.4083333333333333	0.6805555555555556	produces <-- inv_causes, complicates, produces
+49.0	0.20588235294117646	0.6805555555555556	0.6805555555555556	produces <-- inv_diagnoses, complicates, produces
+49.0	0.20588235294117646	0.16723549488054607	0.6805555555555556	produces <-- complicates, inv_affects, produces
+123.0	0.5168067226890757	0.20398009950248755	0.6473684210526316	produces <-- affects, inv_precedes, produces
+40.0	0.16806722689075632	0.36363636363636365	0.6060606060606061	produces <-- inv_diagnoses, affects, inv_disrupts
+81.0	0.3403361344537815	0.525974025974026	0.5664335664335665	produces <-- precedes, affects, inv_disrupts
+87.0	0.36554621848739494	0.2701863354037267	0.564935064935065	produces <-- inv_affects, inv_isa, inv_disrupts
+87.0	0.36554621848739494	0.4393939393939394	0.564935064935065	produces <-- inv_complicates, complicates, inv_disrupts
+50.0	0.21008403361344538	0.5102040816326531	0.5102040816326531	produces <-- produces, inv_uses, uses
+3.0	0.012605042016806723	0.15	0.5	produces <-- inv_isa, inv_complicates, inv_indicates
+102.0	0.42857142857142855	0.4975609756097561	0.4975609756097561	produces <-- precedes, inv_affects, produces
+238.0	1.0	0.49583333333333335	0.49583333333333335	produces <-- produces, inv_produces, produces
+137.0	0.5756302521008403	0.1383838383838384	0.4506578947368421	produces <-- affects, inv_affects, produces
+51.0	0.21428571428571427	0.3269230769230769	0.4358974358974359	produces <-- inv_complicates
+12.0	0.05042016806722689	0.3333333333333333	0.42857142857142855	produces <-- inv_complicates, affects, inv_indicates
+11.0	0.046218487394957986	0.4230769230769231	0.4230769230769231	produces <-- inv_precedes, affects, inv_indicates
+11.0	0.046218487394957986	0.3235294117647059	0.4230769230769231	produces <-- inv_indicates, indicates, inv_indicates
+5.0	0.02100840336134454	0.4166666666666667	0.4166666666666667	produces <-- inv_prevents, affects, inv_indicates

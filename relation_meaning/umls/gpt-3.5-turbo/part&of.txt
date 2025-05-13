@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "part&of" typically denotes a relationship where one entity (e.g., a biological structure or component) is a physical or functional part of another entity (e.g., a larger system or organism).

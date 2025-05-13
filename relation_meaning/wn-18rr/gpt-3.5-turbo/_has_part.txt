@@ -1,0 +1,1 @@
+In an English vocabulary knowledge graph, the relation _has_part indicates that one entity or concept is a component or constituent of another entity, representing a part-whole relationship.

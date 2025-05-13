@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasAcademicAdvisor" represents a connection between a student and their assigned academic advisor, indicating that the student is being mentored or guided in their academic journey by the advisor.

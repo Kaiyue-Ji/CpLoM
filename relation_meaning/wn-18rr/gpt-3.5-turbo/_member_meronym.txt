@@ -1,0 +1,1 @@
+In an English vocabulary knowledge graph, the relation _member_meronym refers to a relationship where one entity (the meronym) is a part or member of a larger whole, typically representing a component or constituent of a collection or group.

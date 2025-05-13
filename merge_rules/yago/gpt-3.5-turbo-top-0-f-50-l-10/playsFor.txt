@@ -1,0 +1,115 @@
+627	0.0021504343740246733	0.002236027502781661	0.05291139240506329	playsFor <-- isCitizenOf, inv_isCitizenOf, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasWebsite, inv_hasWebsite, isAffiliatedTo
+291548	0.9999279758822097	0.006910163489830234	0.006910163489830234	playsFor <-- playsFor, inv_playsFor, playsFor
+2331	0.007994677074723308	0.014115381587632238	0.08179521369920696	playsFor <-- hasWonPrize, inv_hasWonPrize, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- happenedIn, inv_happenedIn, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- influences, inv_influences, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- participatedIn, inv_participatedIn
+101	0.00034640170937239555	0.029300841311285176	0.7013888888888888	playsFor <-- worksAt, inv_worksAt, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasCapital, inv_hasCapital, isAffiliatedTo
+333	0.0011420967249604725	0.7637614678899083	1.0	playsFor <-- isMarriedTo, inv_isMarriedTo, playsFor
+263208	0.9027297140642524	0.00528914092996066	0.005499733379692392	playsFor <-- isAffiliatedTo, inv_isAffiliatedTo, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- isMarriedTo, inv_isMarriedTo
+265574	0.9108444313352928	0.006552699558303331	0.006639552174363709	playsFor <-- isAffiliatedTo, inv_playsFor, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasChild, inv_hasChild
+291248	0.9988990599137768	0.006025204913712991	0.006025204913712991	playsFor <-- playsFor, inv_isAffiliatedTo, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- isConnectedTo, inv_isConnectedTo
+6	2.0578319368657163e-05	0.000387947756368809	0.011278195488721804	playsFor <-- isPoliticianOf, inv_isPoliticianOf, isAffiliatedTo
+246	0.0008437110941149436	0.06931530008453085	0.75	playsFor <-- influences, inv_influences, playsFor
+118631	0.40687110083719463	0.02312247224956389	0.03454447137329059	playsFor <-- wasBornIn, inv_wasBornIn, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- isInterestedIn, inv_isInterestedIn, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- edited, inv_edited, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	playsFor <-- influences, inv_influences
+8	2.743775915820955e-05	0.2857142857142857	0.8	playsFor <-- wroteMusicFor, inv_wroteMusicFor, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- actedIn, inv_actedIn
+29	9.946187694850962e-05	0.09602649006622517	0.5576923076923077	playsFor <-- isInterestedIn, inv_isInterestedIn, playsFor
+49	0.0001680562748440335	0.23333333333333334	0.8596491228070176	playsFor <-- owns, inv_owns, playsFor
+4565	0.015656671319653325	0.02826957970287526	0.10449811147991302	playsFor <-- diedIn, inv_diedIn, isAffiliatedTo
+127661	0.4378414714870237	0.031342805009309964	0.04397723921832327	playsFor <-- wasBornIn, inv_wasBornIn, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- isLocatedIn, inv_isLocatedIn, playsFor
+31	0.00010632131673806201	0.62	0.6595744680851063	playsFor <-- owns, inv_owns, isAffiliatedTo
+1355	0.004647270457421742	0.011093372630889517	0.037097878165639975	playsFor <-- hasWonPrize, inv_hasWonPrize, isAffiliatedTo
+13	4.458635863209052e-05	0.0023457235654998194	0.07222222222222222	playsFor <-- livesIn, inv_livesIn, isAffiliatedTo
+5	1.714859947388097e-05	0.03571428571428571	0.8333333333333334	playsFor <-- worksAt, inv_worksAt, isAffiliatedTo
+74	0.00025379927221343834	0.38341968911917096	1.0	playsFor <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- dealsWith, inv_dealsWith, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasCapital, inv_hasCapital
+0.0	0.0	0.0	0.0	playsFor <-- hasOfficialLanguage, inv_hasOfficialLanguage, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- worksAt
+0.0	0.0	0.0	0.0	playsFor <-- worksAt, inv_worksAt
+0.0	0.0	0.0	0.0	playsFor <-- graduatedFrom, inv_graduatedFrom
+0.0	0.0	0.0	0.0	playsFor <-- owns, inv_owns
+246	0.0008437110941149436	0.06931530008453085	0.75	playsFor <-- influences, inv_influences, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- participatedIn, inv_participatedIn, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- hasChild, inv_hasChild, isAffiliatedTo
+229794	0.7881290535002007	0.6770216163502927	0.7492199497246593	playsFor <-- isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- dealsWith, inv_dealsWith
+0.0	0.0	0.0	0.0	playsFor <-- isKnownFor, inv_isKnownFor
+0.0	0.0	0.0	0.0	playsFor <-- isLeaderOf, inv_isLeaderOf
+0.0	0.0	0.0	0.0	playsFor <-- hasNeighbor, inv_hasNeighbor, playsFor
+50	0.0001714859947388097	0.25252525252525254	1.0	playsFor <-- wroteMusicFor, inv_wroteMusicFor, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- isKnownFor, inv_isKnownFor, isAffiliatedTo
+172	0.0005899118219015053	0.33528265107212474	0.9772727272727273	playsFor <-- created, inv_created, playsFor
+3	1.0289159684328581e-05	0.10344827586206896	0.6	playsFor <-- directed, inv_directed, isAffiliatedTo
+261733	0.8976708772194575	0.005854179218275512	0.005932735971341494	playsFor <-- isAffiliatedTo, inv_playsFor, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- hasCurrency, inv_hasCurrency, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- isConnectedTo, inv_isConnectedTo, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- isLocatedIn, inv_isLocatedIn, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- dealsWith, inv_dealsWith, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- isPoliticianOf, inv_isPoliticianOf
+118	0.00040470694758359087	0.0013192907135350282	0.026989935956084173	playsFor <-- isCitizenOf, inv_isCitizenOf, isAffiliatedTo
+6143	0.021068769313610156	0.035469305741604694	0.17160655920887224	playsFor <-- diedIn, inv_diedIn, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasCapital, inv_hasCapital, playsFor
+291034	0.9981650998562948	0.006266245388765198	0.006266245388765198	playsFor <-- playsFor, inv_playsFor, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- hasNeighbor, inv_hasNeighbor
+78	0.0002675181517925431	0.104	0.6610169491525424	playsFor <-- isLeaderOf, inv_isLeaderOf, isAffiliatedTo
+175	0.0006002009815858338	0.8293838862559242	1.0	playsFor <-- isLeaderOf, inv_isLeaderOf, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- edited, inv_edited, playsFor
+44	0.00015090767537015253	0.12753623188405797	0.6666666666666666	playsFor <-- isMarriedTo, inv_isMarriedTo, isAffiliatedTo
+237538	0.8146888043653475	0.0005470247093054117	0.0008302932218798319	playsFor <-- hasGender, inv_hasGender, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasWebsite, inv_hasWebsite, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- isKnownFor, inv_isKnownFor, playsFor
+236424	0.8108680964025669	0.0004297386894525162	0.0006499623469728419	playsFor <-- hasGender, inv_hasGender, isAffiliatedTo
+291242	0.9988784815944082	0.007110146605606997	0.007110146605606997	playsFor <-- playsFor, inv_isAffiliatedTo, playsFor
+14	4.801607852686671e-05	0.007478632478632479	0.3783783783783784	playsFor <-- actedIn, inv_actedIn, isAffiliatedTo
+291548	0.9999279758822097	0.006910163489830234	0.006910163489830234	playsFor <-- playsFor, inv_playsFor, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasOfficialLanguage, inv_hasOfficialLanguage, playsFor
+266974	0.9156460391879795	0.006494124725900571	0.006601346533850465	playsFor <-- isAffiliatedTo, inv_isAffiliatedTo, playsFor
+397	0.001361598798226149	0.5083226632522407	0.9778325123152709	playsFor <-- hasChild, inv_hasChild, playsFor
+5	1.714859947388097e-05	0.00015536635386240755	0.004752851711026616	playsFor <-- graduatedFrom, inv_graduatedFrom, isAffiliatedTo
+62	0.00021264263347612402	0.8157894736842105	1.0	playsFor <-- directed, inv_directed, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- exports, inv_exports, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasWebsite, inv_hasWebsite
+0.0	0.0	0.0	0.0	playsFor <-- imports, inv_imports, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- livesIn, inv_livesIn
+0.0	0.0	0.0	0.0	playsFor <-- hasOfficialLanguage, inv_hasOfficialLanguage
+0.0	0.0	0.0	0.0	playsFor <-- hasCurrency, inv_hasCurrency, isAffiliatedTo
+243	0.000833421934430615	0.0009913147771173545	0.05844155844155844	playsFor <-- hasMusicalRole, inv_hasMusicalRole, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- isCitizenOf, inv_isCitizenOf
+0.0	0.0	0.0	0.0	playsFor <-- diedIn, inv_diedIn
+294	0.001008337649064201	0.053116531165311655	0.8166666666666667	playsFor <-- actedIn, inv_actedIn, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- participatedIn, inv_participatedIn, playsFor
+270	0.0009260243715895723	0.02126989128722231	0.5601659751037344	playsFor <-- livesIn, inv_livesIn, playsFor
+445	0.0015262253531754062	0.0277120438410761	0.3777589134125637	playsFor <-- isPoliticianOf, inv_isPoliticianOf, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasMusicalRole, inv_hasMusicalRole
+0.0	0.0	0.0	0.0	playsFor <-- participatedIn, inv_participatedIn, playsFor
+0.0	0.0	0.0	0.0	playsFor <-- hasNeighbor, inv_hasNeighbor, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- isConnectedTo, inv_isConnectedTo, isAffiliatedTo
+8	2.743775915820955e-05	0.00030933415822442193	0.018140589569160998	playsFor <-- hasMusicalRole, inv_hasMusicalRole, isAffiliatedTo
+0.0	0.0	0.0	0.0	playsFor <-- hasCurrency, inv_hasCurrency
+8	2.743775915820955e-05	0.2222222222222222	1.0	playsFor <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, isAffiliatedTo
+584	0.002002956418549297	0.014773963419261809	0.2928786359077232	playsFor <-- graduatedFrom, inv_graduatedFrom, playsFor
+229794.0	0.7881290535002007	0.6770216163502927	0.7492199497246593	playsFor <-- isAffiliatedTo
+127661.0	0.4378414714870237	0.031342805009309964	0.04397723921832327	playsFor <-- wasBornIn, inv_wasBornIn, playsFor
+118631.0	0.40687110083719463	0.02312247224956389	0.03454447137329059	playsFor <-- wasBornIn, inv_wasBornIn, isAffiliatedTo
+291242.0	0.9988784815944082	0.007110146605606997	0.007110146605606997	playsFor <-- playsFor, inv_isAffiliatedTo, playsFor
+291548.0	0.9999279758822097	0.006910163489830234	0.006910163489830234	playsFor <-- playsFor, inv_playsFor, playsFor
+265574.0	0.9108444313352928	0.006552699558303331	0.006639552174363709	playsFor <-- isAffiliatedTo, inv_playsFor, playsFor
+266974.0	0.9156460391879795	0.006494124725900571	0.006601346533850465	playsFor <-- isAffiliatedTo, inv_isAffiliatedTo, playsFor
+291034.0	0.9981650998562948	0.006266245388765198	0.006266245388765198	playsFor <-- playsFor, inv_playsFor, isAffiliatedTo
+291248.0	0.9988990599137768	0.006025204913712991	0.006025204913712991	playsFor <-- playsFor, inv_isAffiliatedTo, isAffiliatedTo
+261733.0	0.8976708772194575	0.005854179218275512	0.005932735971341494	playsFor <-- isAffiliatedTo, inv_playsFor, isAffiliatedTo
+263208.0	0.9027297140642524	0.00528914092996066	0.005499733379692392	playsFor <-- isAffiliatedTo, inv_isAffiliatedTo, isAffiliatedTo
+237538.0	0.8146888043653475	0.0005470247093054117	0.0008302932218798319	playsFor <-- hasGender, inv_hasGender, playsFor
+236424.0	0.8108680964025669	0.0004297386894525162	0.0006499623469728419	playsFor <-- hasGender, inv_hasGender, isAffiliatedTo

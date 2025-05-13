@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "co&occurs&with" denotes a relationship between two entities (e.g., diseases, genes, or treatments) that frequently appear together or are observed in the same context, often implying a potential association or correlation in biological or medical data.

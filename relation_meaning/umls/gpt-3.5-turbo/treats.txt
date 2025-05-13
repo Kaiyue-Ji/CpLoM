@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "treats" refers to the connection between a medical treatment, such as a drug or therapy, and a specific disease or condition it is used to manage or alleviate.

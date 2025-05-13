@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "derivative_of" typically signifies that one biological entity, process, or concept is a result or consequence of another, indicating a direct evolutionary, biochemical, or functional link between the two.

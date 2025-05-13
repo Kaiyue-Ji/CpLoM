@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "diedIn" typically represents the connection between an individual and the location or place where they passed away.

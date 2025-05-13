@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation property "of" typically indicates a relationship between an entity and a specific characteristic, attribute, or association that it possesses, such as a gene being "of" a particular disease or protein "of" a specific function.

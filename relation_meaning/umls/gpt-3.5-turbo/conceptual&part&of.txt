@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "conceptual&part&of" refers to the connection where a specific concept or entity is considered a part or component of a broader conceptual framework or system, typically reflecting a hierarchical or associative relationship within biomedical knowledge.

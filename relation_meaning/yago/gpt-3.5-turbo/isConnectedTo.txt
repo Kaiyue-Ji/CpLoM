@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "isConnectedTo" represents a direct or indirect link or relationship between two entities, indicating they are associated or interact in some way within the graph's context.

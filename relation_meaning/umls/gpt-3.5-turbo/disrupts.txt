@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "disrupts" indicates that one entity (such as a gene, protein, or drug) interferes with or negatively impacts the normal function or activity of another entity (such as a biological process, molecular function, or signaling pathway).

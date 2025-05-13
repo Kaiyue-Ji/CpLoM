@@ -1,0 +1,305 @@
+0.0	0.0	0.0	0.0	interconnects <-- evaluation&of, evaluation&of, evaluation&of
+0.0	0.0	0.0	0.0	interconnects <-- practices, practices, practices
+0.0	0.0	0.0	0.0	interconnects <-- interconnects, inv_location&of, inv_disrupts
+0.0	0.0	0.0	0.0	interconnects <-- precedes, precedes
+0.0	0.0	0.0	0.0	interconnects <-- process&of, process&of
+0.0	0.0	0.0	0.0	interconnects <-- indicates, indicates, inv_indicates
+0.0	0.0	0.0	0.0	interconnects <-- treats, treats, inv_treats
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, inv_causes
+0.0	0.0	0.0	0.0	interconnects <-- measurement&of, measurement&of
+0.0	0.0	0.0	0.0	interconnects <-- carries&out, inv_carries&out
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, associated&with
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, inv_exhibits
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, inv_exhibits
+0.0	0.0	0.0	0.0	interconnects <-- produces, inv_produces
+2	1.0	0.03125	0.125	interconnects <-- contains, inv_contains
+0.0	0.0	0.0	0.0	interconnects <-- issue&in, issue&in, issue&in
+1	0.5	0.00012132977432661975	0.006711409395973154	interconnects <-- isa, isa, inv_isa
+0.0	0.0	0.0	0.0	interconnects <-- affects, affects
+0.0	0.0	0.0	0.0	interconnects <-- diagnoses, diagnoses, diagnoses
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, associated&with
+0.0	0.0	0.0	0.0	interconnects <-- consists&of, inv_consists&of
+0.0	0.0	0.0	0.0	interconnects <-- consists&of, consists&of, inv_consists&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, inv_causes
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, inv_produces
+0.0	0.0	0.0	0.0	interconnects <-- property&of, property&of
+0.0	0.0	0.0	0.0	interconnects <-- uses, inv_uses
+0.0	0.0	0.0	0.0	interconnects <-- treats, inv_treats
+0.0	0.0	0.0	0.0	interconnects <-- evaluation&of, evaluation&of
+0.0	0.0	0.0	0.0	interconnects <-- disrupts, disrupts, inv_disrupts
+0.0	0.0	0.0	0.0	interconnects <-- exhibits, exhibits, exhibits
+0.0	0.0	0.0	0.0	interconnects <-- part&of, part&of, part&of
+2	1.0	0.011299435028248588	0.125	interconnects <-- location&of, inv_location&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- prevents, prevents, prevents
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, exhibits
+1	0.5	0.030303030303030304	0.16666666666666666	interconnects <-- conceptual&part&of, inv_conceptual&part&of, inv_location&of
+2	1.0	0.0001342552191716453	0.008620689655172414	interconnects <-- issue&in, issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	interconnects <-- affects, inv_affects
+0.0	0.0	0.0	0.0	interconnects <-- conceptually&related&to, conceptually&related&to, conceptually&related&to
+0.0	0.0	0.0	0.0	interconnects <-- result&of, inv_result&of
+0.0	0.0	0.0	0.0	interconnects <-- diagnoses, diagnoses
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, inv_co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- diagnoses, inv_diagnoses
+0.0	0.0	0.0	0.0	interconnects <-- isa, isa, isa
+0.0	0.0	0.0	0.0	interconnects <-- causes, causes, causes
+0.0	0.0	0.0	0.0	interconnects <-- affects, affects, inv_affects
+1	0.5	0.16666666666666666	0.3333333333333333	interconnects <-- surrounds, surrounds
+0.0	0.0	0.0	0.0	interconnects <-- prevents, inv_prevents
+0.0	0.0	0.0	0.0	interconnects <-- exhibits, exhibits, inv_exhibits
+1	0.5	0.041666666666666664	0.16666666666666666	interconnects <-- conceptual&part&of, inv_conceptual&part&of
+0.0	0.0	0.0	0.0	interconnects <-- conceptually&related&to, inv_conceptually&related&to
+0.0	0.0	0.0	0.0	interconnects <-- occurs&in, occurs&in, inv_occurs&in
+0.0	0.0	0.0	0.0	interconnects <-- evaluation&of, inv_evaluation&of, inv_location&of
+1	0.5	0.00011994722322178242	0.006666666666666667	interconnects <-- isa, inv_isa
+0.0	0.0	0.0	0.0	interconnects <-- analyzes, analyzes
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- assesses&effect&of, assesses&effect&of, assesses&effect&of
+2	1.0	0.010416666666666666	0.08333333333333333	interconnects <-- location&of, inv_result&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- property&of, property&of, property&of
+0.0	0.0	0.0	0.0	interconnects <-- degree&of, degree&of, degree&of
+0.0	0.0	0.0	0.0	interconnects <-- occurs&in, occurs&in
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, inv_surrounds
+0.0	0.0	0.0	0.0	interconnects <-- developmental&form&of, developmental&form&of
+0.0	0.0	0.0	0.0	interconnects <-- affects, inv_affects, location&of
+0.0	0.0	0.0	0.0	interconnects <-- result&of, result&of
+1	0.5	0.16666666666666666	0.16666666666666666	interconnects <-- connected&to, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- location&of, produces
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, exhibits
+0.0	0.0	0.0	0.0	interconnects <-- manages, inv_manages
+0.0	0.0	0.0	0.0	interconnects <-- complicates, complicates, complicates
+0.0	0.0	0.0	0.0	interconnects <-- measures, measures, measures
+0.0	0.0	0.0	0.0	interconnects <-- interconnects, interconnects, interconnects
+0.0	0.0	0.0	0.0	interconnects <-- produces, produces
+1	0.5	0.0020325203252032522	0.08333333333333333	interconnects <-- result&of, inv_result&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, co&occurs&with
+1	0.5	0.08333333333333333	1.0	interconnects <-- inv_disrupts, inv_produces, inv_contains
+0.0	0.0	0.0	0.0	interconnects <-- causes, inv_causes
+0.0	0.0	0.0	0.0	interconnects <-- associated&with, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- connected&to, inv_connected&to
+0.0	0.0	0.0	0.0	interconnects <-- contains, contains
+0.0	0.0	0.0	0.0	interconnects <-- evaluation&of, evaluation&of, inv_evaluation&of
+0.0	0.0	0.0	0.0	interconnects <-- carries&out, carries&out, inv_carries&out
+0.0	0.0	0.0	0.0	interconnects <-- interacts&with, inv_interacts&with, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- produces, produces, produces
+0.0	0.0	0.0	0.0	interconnects <-- practices, inv_practices
+0.0	0.0	0.0	0.0	interconnects <-- part&of, part&of
+0.0	0.0	0.0	0.0	interconnects <-- derivative&of, derivative&of
+0.0	0.0	0.0	0.0	interconnects <-- degree&of, inv_degree&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- method&of, inv_method&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- issue&in, issue&in
+0.0	0.0	0.0	0.0	interconnects <-- property&of, property&of, inv_property&of
+0.0	0.0	0.0	0.0	interconnects <-- ingredient&of, inv_ingredient&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, produces
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, inv_surrounds
+0.0	0.0	0.0	0.0	interconnects <-- uses, uses
+0.0	0.0	0.0	0.0	interconnects <-- consists&of, consists&of, consists&of
+0.0	0.0	0.0	0.0	interconnects <-- prevents, prevents
+2	1.0	0.020833333333333332	0.16666666666666666	interconnects <-- part&of, inv_part&of, inv_location&of
+2	1.0	0.3333333333333333	0.3333333333333333	interconnects <-- connected&to, inv_connected&to, adjacent&to
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, affects
+0.0	0.0	0.0	0.0	interconnects <-- measurement&of, measurement&of, measurement&of
+1	0.5	0.0078125	0.07692307692307693	interconnects <-- location&of, inv_produces
+0.0	0.0	0.0	0.0	interconnects <-- process&of, inv_process&of
+0.0	0.0	0.0	0.0	interconnects <-- conceptual&part&of, conceptual&part&of
+0.0	0.0	0.0	0.0	interconnects <-- measurement&of, measurement&of, inv_measurement&of
+0.0	0.0	0.0	0.0	interconnects <-- measures, measures, inv_measures
+0.0	0.0	0.0	0.0	interconnects <-- location&of, causes
+0.0	0.0	0.0	0.0	interconnects <-- degree&of, degree&of
+0.0	0.0	0.0	0.0	interconnects <-- assesses&effect&of, assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	interconnects <-- part&of, inv_part&of
+0.0	0.0	0.0	0.0	interconnects <-- evaluation&of, inv_evaluation&of
+1	0.5	1.0	1.0	interconnects <-- adjacent&to, inv_derivative&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- conceptual&part&of, conceptual&part&of, conceptual&part&of
+1	0.5	0.006211180124223602	0.015625	interconnects <-- location&of, location&of, location&of
+0.0	0.0	0.0	0.0	interconnects <-- analyzes, analyzes, analyzes
+1	0.5	0.017241379310344827	0.3333333333333333	interconnects <-- inv_part&of, surrounds
+1	0.5	0.013157894736842105	0.037037037037037035	interconnects <-- adjacent&to, location&of
+0.0	0.0	0.0	0.0	interconnects <-- adjacent&to, adjacent&to
+0.0	0.0	0.0	0.0	interconnects <-- co&occurs&with, inv_co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- diagnoses, inv_diagnoses, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- adjacent&to, inv_adjacent&to, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- ingredient&of, inv_ingredient&of, inv_location&of
+1	0.5	0.1	0.3333333333333333	interconnects <-- surrounds, surrounds, inv_surrounds
+0.0	0.0	0.0	0.0	interconnects <-- disrupts, disrupts
+0.0	0.0	0.0	0.0	interconnects <-- location&of, inv_associated&with
+0.0	0.0	0.0	0.0	interconnects <-- uses, uses, inv_uses
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, inv_surrounds
+0.0	0.0	0.0	0.0	interconnects <-- ingredient&of, ingredient&of, ingredient&of
+0.0	0.0	0.0	0.0	interconnects <-- interacts&with, interacts&with, inv_interacts&with
+1	0.5	0.029411764705882353	0.3333333333333333	interconnects <-- part&of, inv_location&of, adjacent&to
+0.0	0.0	0.0	0.0	interconnects <-- performs, inv_performs
+0.0	0.0	0.0	0.0	interconnects <-- isa, isa
+1	0.5	0.125	0.125	interconnects <-- contains, contains, inv_contains
+1	0.5	0.004166666666666667	0.08333333333333333	interconnects <-- produces, inv_produces, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- location&of, inv_surrounds
+0.0	0.0	0.0	0.0	interconnects <-- manifestation&of, inv_manifestation&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- indicates, inv_indicates
+0.0	0.0	0.0	0.0	interconnects <-- disrupts, inv_disrupts
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, inv_produces
+0.0	0.0	0.0	0.0	interconnects <-- occurs&in, occurs&in, occurs&in
+0.0	0.0	0.0	0.0	interconnects <-- interconnects, interconnects
+0.0	0.0	0.0	0.0	interconnects <-- associated&with, associated&with, associated&with
+0.0	0.0	0.0	0.0	interconnects <-- treats, treats
+0.0	0.0	0.0	0.0	interconnects <-- treats, treats, treats
+2	1.0	0.00013424620754463686	0.008620689655172414	interconnects <-- issue&in, inv_issue&in
+0.0	0.0	0.0	0.0	interconnects <-- part&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- adjacent&to, inv_adjacent&to
+0.0	0.0	0.0	0.0	interconnects <-- derivative&of, inv_derivative&of
+0.0	0.0	0.0	0.0	interconnects <-- performs, inv_performs, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- associated&with, inv_associated&with, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- result&of, result&of, inv_result&of
+2	1.0	0.007782101167315175	0.06060606060606061	interconnects <-- location&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- assesses&effect&of, assesses&effect&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, produces
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, exhibits
+0.0	0.0	0.0	0.0	interconnects <-- method&of, inv_method&of
+2	1.0	0.031746031746031744	0.25	interconnects <-- location&of, inv_location&of, surrounds
+0.0	0.0	0.0	0.0	interconnects <-- surrounds, surrounds, surrounds
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, produces
+1	0.5	0.05263157894736842	0.05263157894736842	interconnects <-- inv_interconnects, inv_developmental&form&of, part&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, affects
+0.0	0.0	0.0	0.0	interconnects <-- adjacent&to, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- performs, performs, inv_performs
+0.0	0.0	0.0	0.0	interconnects <-- causes, causes
+0.0	0.0	0.0	0.0	interconnects <-- location&of, surrounds
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, causes
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, surrounds
+0.0	0.0	0.0	0.0	interconnects <-- ingredient&of, ingredient&of
+0.0	0.0	0.0	0.0	interconnects <-- process&of, process&of, process&of
+0.0	0.0	0.0	0.0	interconnects <-- uses, uses, uses
+0.0	0.0	0.0	0.0	interconnects <-- performs, performs
+0.0	0.0	0.0	0.0	interconnects <-- measures, measures
+1	0.5	1.0	1.0	interconnects <-- interconnects, interconnects, inv_interconnects
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, inv_produces
+0.0	0.0	0.0	0.0	interconnects <-- interacts&with, inv_interacts&with
+0.0	0.0	0.0	0.0	interconnects <-- prevents, prevents, inv_prevents
+0.0	0.0	0.0	0.0	interconnects <-- associated&with, associated&with
+0.0	0.0	0.0	0.0	interconnects <-- connected&to, connected&to
+0.0	0.0	0.0	0.0	interconnects <-- degree&of, degree&of, inv_degree&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, surrounds
+0.0	0.0	0.0	0.0	interconnects <-- connected&to, connected&to, inv_connected&to
+1	0.5	0.0002552974214960429	0.012658227848101266	interconnects <-- isa, inv_isa, location&of
+0.0	0.0	0.0	0.0	interconnects <-- exhibits, exhibits
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, inv_causes
+0.0	0.0	0.0	0.0	interconnects <-- manages, manages
+1	0.5	0.012345679012345678	0.09090909090909091	interconnects <-- part&of, part&of, inv_part&of
+0.0	0.0	0.0	0.0	interconnects <-- diagnoses, diagnoses, inv_diagnoses
+0.0	0.0	0.0	0.0	interconnects <-- process&of, process&of, inv_process&of
+0.0	0.0	0.0	0.0	interconnects <-- co&occurs&with, co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- occurs&in, inv_occurs&in
+0.0	0.0	0.0	0.0	interconnects <-- indicates, indicates, indicates
+0.0	0.0	0.0	0.0	interconnects <-- location&of, associated&with
+0.0	0.0	0.0	0.0	interconnects <-- location&of, inv_affects
+0.0	0.0	0.0	0.0	interconnects <-- developmental&form&of, developmental&form&of, inv_developmental&form&of
+0.0	0.0	0.0	0.0	interconnects <-- causes, causes, inv_causes
+0.0	0.0	0.0	0.0	interconnects <-- developmental&form&of, developmental&form&of, developmental&form&of
+0.0	0.0	0.0	0.0	interconnects <-- location&of, exhibits
+0.0	0.0	0.0	0.0	interconnects <-- contains, contains, contains
+0.0	0.0	0.0	0.0	interconnects <-- affects, affects, affects
+0.0	0.0	0.0	0.0	interconnects <-- assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	interconnects <-- manages, manages, manages
+0.0	0.0	0.0	0.0	interconnects <-- location&of, co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, associated&with
+0.0	0.0	0.0	0.0	interconnects <-- co&occurs&with, inv_co&occurs&with, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- connected&to, connected&to, connected&to
+1	0.5	0.006578947368421052	0.3333333333333333	interconnects <-- isa, inv_isa, inv_interconnects
+0.0	0.0	0.0	0.0	interconnects <-- precedes, precedes, precedes
+0.0	0.0	0.0	0.0	interconnects <-- location&of, inv_causes
+0.0	0.0	0.0	0.0	interconnects <-- inv_part&of, causes
+0.0	0.0	0.0	0.0	interconnects <-- property&of, inv_property&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, causes
+0.0	0.0	0.0	0.0	interconnects <-- co&occurs&with, co&occurs&with, inv_co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- adjacent&to, adjacent&to, adjacent&to
+0.0	0.0	0.0	0.0	interconnects <-- surrounds, inv_surrounds
+0.0	0.0	0.0	0.0	interconnects <-- degree&of, inv_degree&of
+0.0	0.0	0.0	0.0	interconnects <-- result&of, result&of, result&of
+0.0	0.0	0.0	0.0	interconnects <-- precedes, precedes, inv_precedes
+0.0	0.0	0.0	0.0	interconnects <-- carries&out, carries&out, carries&out
+0.0	0.0	0.0	0.0	interconnects <-- location&of, affects
+0.0	0.0	0.0	0.0	interconnects <-- connected&to, location&of
+0.0	0.0	0.0	0.0	interconnects <-- measurement&of, inv_measurement&of
+0.0	0.0	0.0	0.0	interconnects <-- co&occurs&with, co&occurs&with, co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- interacts&with, interacts&with, interacts&with
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, affects
+0.0	0.0	0.0	0.0	interconnects <-- interacts&with, interacts&with
+0.0	0.0	0.0	0.0	interconnects <-- location&of, location&of
+2	1.0	0.010582010582010581	0.05	interconnects <-- location&of, location&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, inv_exhibits
+1	0.5	0.03125	0.125	interconnects <-- contains, inv_contains, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- manages, manages, inv_manages
+1	0.5	0.0016806722689075631	0.013888888888888888	interconnects <-- location&of, inv_location&of, location&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- precedes, inv_precedes
+2	1.0	0.020833333333333332	0.125	interconnects <-- location&of, inv_causes, inv_contains
+2	1.0	0.010416666666666666	0.0625	interconnects <-- location&of, result&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- associated&with, associated&with, inv_associated&with
+0.0	0.0	0.0	0.0	interconnects <-- ingredient&of, ingredient&of, inv_ingredient&of
+0.0	0.0	0.0	0.0	interconnects <-- carries&out, carries&out
+0.0	0.0	0.0	0.0	interconnects <-- developmental&form&of, inv_developmental&form&of
+0.0	0.0	0.0	0.0	interconnects <-- performs, performs, performs
+0.0	0.0	0.0	0.0	interconnects <-- adjacent&to, adjacent&to, inv_adjacent&to
+0.0	0.0	0.0	0.0	interconnects <-- complicates, complicates, inv_complicates
+0.0	0.0	0.0	0.0	interconnects <-- method&of, method&of
+0.0	0.0	0.0	0.0	interconnects <-- conceptually&related&to, conceptually&related&to, inv_conceptually&related&to
+0.0	0.0	0.0	0.0	interconnects <-- complicates, complicates
+0.0	0.0	0.0	0.0	interconnects <-- disrupts, disrupts, disrupts
+0.0	0.0	0.0	0.0	interconnects <-- conceptually&related&to, conceptually&related&to
+0.0	0.0	0.0	0.0	interconnects <-- indicates, indicates
+0.0	0.0	0.0	0.0	interconnects <-- derivative&of, derivative&of, derivative&of
+2	1.0	0.009259259259259259	0.08333333333333333	interconnects <-- location&of, associated&with, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- derivative&of, derivative&of, inv_derivative&of
+2	1.0	0.018518518518518517	0.16666666666666666	interconnects <-- location&of, inv_measures, inv_location&of
+1	0.5	0.05263157894736842	0.16666666666666666	interconnects <-- conceptual&part&of, conceptual&part&of, inv_conceptual&part&of
+0.0	0.0	0.0	0.0	interconnects <-- method&of, method&of, inv_method&of
+0.0	0.0	0.0	0.0	interconnects <-- analyzes, analyzes, inv_analyzes
+0.0	0.0	0.0	0.0	interconnects <-- part&of, location&of
+0.0	0.0	0.0	0.0	interconnects <-- interconnects, inv_interconnects
+0.0	0.0	0.0	0.0	interconnects <-- causes, inv_causes, location&of
+0.0	0.0	0.0	0.0	interconnects <-- inv_interconnects, inv_co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- treats, inv_treats, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- produces, produces, inv_produces
+0.0	0.0	0.0	0.0	interconnects <-- inv_location&of, inv_co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- location&of, inv_co&occurs&with
+0.0	0.0	0.0	0.0	interconnects <-- analyzes, inv_analyzes
+2	1.0	0.018518518518518517	0.08333333333333333	interconnects <-- location&of, inv_disrupts, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- method&of, method&of, method&of
+0.0	0.0	0.0	0.0	interconnects <-- consists&of, consists&of
+0.0	0.0	0.0	0.0	interconnects <-- location&of, inv_exhibits
+0.0	0.0	0.0	0.0	interconnects <-- assesses&effect&of, inv_assesses&effect&of, inv_location&of
+0.0	0.0	0.0	0.0	interconnects <-- complicates, inv_complicates
+0.0	0.0	0.0	0.0	interconnects <-- exhibits, inv_exhibits
+0.0	0.0	0.0	0.0	interconnects <-- associated&with, inv_associated&with
+0.0	0.0	0.0	0.0	interconnects <-- measures, inv_measures
+1	0.5	0.041666666666666664	0.125	interconnects <-- location&of, location&of, inv_contains
+1.0	0.5	0.1111111111111111	1.0	interconnects <-- surrounds, inv_contains
+1.0	0.5	0.25	0.5	interconnects <-- surrounds, surrounds, inv_interconnects
+1.0	0.5	0.125	0.5	interconnects <-- contains, inv_surrounds, inv_contains
+1.0	0.5	0.125	0.5	interconnects <-- contains, inv_contains, inv_contains
+1.0	0.5	0.1	0.3333333333333333	interconnects <-- surrounds, surrounds, inv_surrounds
+1.0	0.5	0.16666666666666666	0.3333333333333333	interconnects <-- surrounds, surrounds
+1.0	0.5	0.02	0.25	interconnects <-- inv_disrupts, inv_produces, surrounds
+1.0	0.5	0.0625	0.25	interconnects <-- contains, inv_contains, inv_isa
+2.0	1.0	0.0625	0.25	interconnects <-- contains, inv_contains, surrounds
+1.0	0.5	0.017857142857142856	0.25	interconnects <-- inv_disrupts, disrupts, surrounds
+1.0	0.5	0.014285714285714285	0.2	interconnects <-- inv_disrupts, disrupts, inv_surrounds
+1.0	0.5	0.01	0.2	interconnects <-- produces, disrupts, inv_surrounds
+1.0	0.5	0.041666666666666664	0.16666666666666666	interconnects <-- contains, inv_produces, inv_surrounds
+1.0	0.5	0.0625	0.125	interconnects <-- inv_interconnects, contains, inv_contains
+1.0	0.5	0.125	0.125	interconnects <-- contains, produces, inv_contains
+1.0	0.5	0.03125	0.125	interconnects <-- isa, contains, inv_contains
+1.0	0.5	0.037037037037037035	0.07692307692307693	interconnects <-- inv_interconnects, contains, inv_produces
+1.0	0.5	0.07692307692307693	0.07692307692307693	interconnects <-- contains, contains, inv_produces
+1.0	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- contains, produces, disrupts
+1.0	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- contains, inv_disrupts, disrupts
+1.0	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- inv_interconnects, inv_disrupts, disrupts
+1.0	0.5	0.07142857142857142	0.07142857142857142	interconnects <-- contains, surrounds, inv_produces
+1.0	0.5	0.05263157894736842	0.05263157894736842	interconnects <-- contains, inv_disrupts, inv_produces
+1.0	0.5	0.008547008547008548	0.038461538461538464	interconnects <-- contains, causes, disrupts
+1.0	0.5	0.009345794392523364	0.037037037037037035	interconnects <-- contains, inv_produces
+1.0	0.5	0.0005717552887364208	0.03571428571428571	interconnects <-- isa, inv_isa, disrupts
+1.0	0.5	0.00035211267605633805	0.017241379310344827	interconnects <-- isa, inv_isa, inv_produces
+2.0	1.0	0.002600780234070221	0.011627906976744186	interconnects <-- contains, isa, inv_isa
+1.0	0.5	0.00012132977432661975	0.006711409395973154	interconnects <-- isa, isa, inv_isa

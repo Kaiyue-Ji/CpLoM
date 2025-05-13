@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "diagnoses" refers to the connection between a patient or individual and a specific medical condition or disease that has been identified based on clinical evaluation, symptoms, or diagnostic tests.

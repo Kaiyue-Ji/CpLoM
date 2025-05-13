@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasNeighbor" represents a connection between two entities, indicating that they are located next to or in close proximity to each other in a specific context, such as geographic, spatial, or logical relationships.

@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasGender" represents the association between an entity (such as a person or character) and their gender identity or classification, typically expressed as male, female, or other gender identities.

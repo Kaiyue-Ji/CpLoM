@@ -1,0 +1,1 @@
+In a family knowledge graph, the relation "uncle" refers to a male relative who is the brother of one's parent or the husband of one's aunt.

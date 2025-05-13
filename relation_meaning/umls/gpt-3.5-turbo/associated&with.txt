@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "associatedWith" typically represents a connection between two entities, indicating that they have a recognized relationship or correlation, often used to link biological entities (such as genes, diseases, or proteins) that are related through scientific studies or clinical observations.

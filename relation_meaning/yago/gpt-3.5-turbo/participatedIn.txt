@@ -1,0 +1,1 @@
+The relation "participatedIn" in a knowledge graph typically signifies that an entity (such as a person, organization, or object) took part or was involved in a specific event, activity, or process.

@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasCurrency" indicates that an entity (such as a country, region, or organization) possesses or is associated with a specific currency used for transactions and economic activities.

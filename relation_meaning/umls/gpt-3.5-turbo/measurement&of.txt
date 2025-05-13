@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "measurement&of" typically denotes the association between a specific measurement (such as a lab result, observation, or test) and the entity or phenomenon being measured (like a biomarker, physiological parameter, or disease characteristic).

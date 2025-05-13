@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "complicates with" refers to a situation where one condition, disease, or factor increases the severity or difficulty of another condition, often leading to worse outcomes or additional challenges in treatment or management.

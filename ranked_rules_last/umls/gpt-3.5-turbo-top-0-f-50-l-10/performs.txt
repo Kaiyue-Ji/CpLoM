@@ -1,0 +1,104 @@
+1	0.012658227848101266	1.0	1.0	performs <-- inv_treats, inv_associated&with, inv_process&of
+1	0.012658227848101266	1.0	1.0	performs <-- practices, inv_associated&with
+5	0.06329113924050633	1.0	1.0	performs <-- inv_interacts&with, inv_associated&with, inv_process&of
+5	0.06329113924050633	0.05154639175257732	1.0	performs <-- isa, inv_associated&with
+6	0.0759493670886076	0.044444444444444446	1.0	performs <-- issue&in, inv_associated&with
+79	1.0	1.0	1.0	performs <-- performs
+6	0.0759493670886076	0.3333333333333333	1.0	performs <-- inv_produces, produces, exhibits
+3	0.0379746835443038	0.05555555555555555	1.0	performs <-- inv_affects, inv_performs, exhibits
+2	0.02531645569620253	0.16666666666666666	1.0	performs <-- diagnoses, inv_indicates, inv_measures
+2	0.02531645569620253	0.16666666666666666	1.0	performs <-- diagnoses, inv_complicates, inv_uses
+12	0.1518987341772152	0.4	1.0	performs <-- exhibits, isa, affects
+3	0.0379746835443038	0.16666666666666666	1.0	performs <-- diagnoses, inv_prevents, inv_measures
+2	0.02531645569620253	1.0	1.0	performs <-- manages, manages, inv_affects
+3	0.0379746835443038	0.16666666666666666	1.0	performs <-- diagnoses, inv_diagnoses, inv_measures
+3	0.0379746835443038	1.0	1.0	performs <-- inv_treats, isa, exhibits
+3	0.0379746835443038	0.16666666666666666	1.0	performs <-- diagnoses, inv_isa, inv_measures
+2	0.02531645569620253	0.16666666666666666	1.0	performs <-- diagnoses, inv_diagnoses, inv_uses
+17	0.21518987341772153	0.9444444444444444	0.9444444444444444	performs <-- performs, inv_exhibits, exhibits
+17	0.21518987341772153	0.5666666666666667	0.9444444444444444	performs <-- produces, inv_uses, exhibits
+17	0.21518987341772153	0.5666666666666667	0.9444444444444444	performs <-- uses, inv_uses, exhibits
+17	0.21518987341772153	0.9444444444444444	0.9444444444444444	performs <-- performs, inv_performs, exhibits
+17	0.21518987341772153	0.5666666666666667	0.9444444444444444	performs <-- produces, inv_produces, exhibits
+17	0.21518987341772153	0.37777777777777777	0.9444444444444444	performs <-- exhibits, inv_exhibits, exhibits
+14	0.17721518987341772	0.2978723404255319	0.9333333333333333	performs <-- isa, inv_interacts&with, inv_associated&with
+28	0.35443037974683544	0.3111111111111111	0.9333333333333333	performs <-- inv_produces, produces, performs
+14	0.17721518987341772	0.9333333333333333	0.9333333333333333	performs <-- inv_treats, isa, performs
+12	0.1518987341772152	0.631578947368421	0.9230769230769231	performs <-- interacts&with, inv_associated&with
+11	0.13924050632911392	0.9166666666666666	0.9166666666666666	performs <-- performs, uses, inv_assesses&effect&of
+11	0.13924050632911392	0.7333333333333333	0.9166666666666666	performs <-- inv_affects, inv_uses, exhibits
+11	0.13924050632911392	0.05612244897959184	0.9166666666666666	performs <-- isa, inv_isa, inv_analyzes
+76	0.9620253164556962	0.9047619047619048	0.9047619047619048	performs <-- performs, affects, performs
+9	0.11392405063291139	0.03557312252964427	0.9	performs <-- isa, inv_associated&with, affects
+9	0.11392405063291139	0.34615384615384615	0.9	performs <-- exhibits, affects, inv_measures
+54	0.6835443037974683	0.72	0.9	performs <-- inv_affects, inv_uses, performs
+79	1.0	0.5266666666666666	0.8777777777777778	performs <-- uses, inv_produces, performs
+79	1.0	0.8777777777777778	0.8777777777777778	performs <-- performs, inv_performs, performs
+79	1.0	0.5266666666666666	0.8777777777777778	performs <-- produces, affects, performs
+7	0.08860759493670886	0.15217391304347827	0.875	performs <-- inv_produces, precedes, inv_measures
+14	0.17721518987341772	0.875	0.875	performs <-- performs, uses, inv_measures
+47	0.5949367088607594	0.07704918032786885	0.8703703703703703	performs <-- produces, inv_produces, location&of
+5	0.06329113924050633	0.8333333333333334	0.8333333333333334	performs <-- performs, result&of, inv_assesses&effect&of
+16	0.20253164556962025	0.8	0.8	performs <-- inv_interacts&with, inv_occurs&in, inv_measures
+19	0.24050632911392406	0.4318181818181818	0.7916666666666666	performs <-- inv_occurs&in, inv_result&of, inv_measures
+19	0.24050632911392406	0.7916666666666666	0.7916666666666666	performs <-- performs, inv_result&of, inv_measures
+18	0.22784810126582278	0.20689655172413793	0.782608695652174	performs <-- inv_associated&with, inv_result&of, inv_measures
+3	0.0379746835443038	0.125	0.75	performs <-- diagnoses, inv_degree&of, inv_measures
+11	0.13924050632911392	0.7333333333333333	0.7333333333333333	performs <-- treats, isa, performs
+8	0.10126582278481013	0.12121212121212122	0.7272727272727273	performs <-- diagnoses, inv_associated&with, performs
+16	0.20253164556962025	0.2807017543859649	0.7272727272727273	performs <-- exhibits, affects
+2	0.02531645569620253	0.0196078431372549	0.6666666666666666	performs <-- treats, inv_associated&with
+8	0.10126582278481013	0.4	0.6666666666666666	performs <-- uses, inv_uses, inv_method&of
+2	0.02531645569620253	0.09523809523809523	0.6666666666666666	performs <-- inv_isa, exhibits, isa
+57	0.7215189873417721	0.40425531914893614	0.6477272727272727	performs <-- inv_occurs&in, inv_location&of, inv_associated&with
+15	0.189873417721519	0.6	0.6	performs <-- inv_interacts&with, inv_associated&with, inv_affects
+7	0.08860759493670886	0.026717557251908396	0.5384615384615384	performs <-- interacts&with, inv_affects
+8	0.10126582278481013	0.011379800853485065	0.5333333333333333	performs <-- inv_property&of, inv_associated&with, inv_affects
+8	0.10126582278481013	0.02168021680216802	0.5333333333333333	performs <-- associated&with, inv_location&of, inv_associated&with
+49	0.620253164556962	0.5157894736842106	0.5157894736842106	performs <-- inv_interacts&with, inv_occurs&in, inv_associated&with
+1	0.012658227848101266	0.5	0.5	performs <-- inv_manages, carries&out, inv_method&of
+2	0.02531645569620253	0.024096385542168676	0.5	performs <-- associated&with, inv_precedes, inv_measures
+1	0.012658227848101266	0.5	0.5	performs <-- inv_treats, performs, inv_method&of
+10	0.12658227848101267	0.009930486593843098	0.5	performs <-- inv_affects, associated&with, inv_associated&with
+54	0.6835443037974683	0.2621359223300971	0.4864864864864865	performs <-- inv_occurs&in, inv_process&of, inv_associated&with
+56	0.7088607594936709	0.11764705882352941	0.4827586206896552	performs <-- inv_associated&with, inv_result&of, inv_associated&with
+22	0.27848101265822783	0.06811145510835913	0.4782608695652174	performs <-- inv_produces, inv_result&of, inv_associated&with
+11	0.13924050632911392	0.4583333333333333	0.4583333333333333	performs <-- performs, inv_process&of, inv_affects
+9	0.11392405063291139	0.07563025210084033	0.45	performs <-- diagnoses, inv_associated&with
+9	0.11392405063291139	0.03435114503816794	0.45	performs <-- isa, inv_associated&with, inv_affects
+8	0.10126582278481013	0.01486988847583643	0.4	performs <-- associated&with, inv_associated&with
+10	0.12658227848101267	0.05952380952380952	0.35714285714285715	performs <-- diagnoses, inv_result&of, inv_associated&with
+9	0.11392405063291139	0.3	0.3	performs <-- inv_interacts&with, inv_occurs&in, inv_diagnoses
+7	0.08860759493670886	0.2413793103448276	0.2413793103448276	performs <-- inv_treats, inv_occurs&in, result&of
+39	0.4936708860759494	0.13448275862068965	0.22413793103448276	performs <-- inv_occurs&in, complicates, result&of
+39	0.4936708860759494	0.13448275862068965	0.22413793103448276	performs <-- inv_occurs&in, manifestation&of, result&of
+47	0.5949367088607594	0.011998978810314016	0.2175925925925926	performs <-- isa, inv_isa, location&of
+34	0.43037974683544306	0.059964726631393295	0.20987654320987653	performs <-- inv_associated&with, inv_affects, result&of
+6	0.0759493670886076	0.009852216748768473	0.20689655172413793	performs <-- associated&with, inv_complicates, result&of
+6	0.0759493670886076	0.008032128514056224	0.20689655172413793	performs <-- associated&with, inv_location&of, result&of
+6	0.0759493670886076	0.007134363852556481	0.20689655172413793	performs <-- associated&with, inv_associated&with, result&of
+1	0.012658227848101266	0.03333333333333333	0.2	performs <-- diagnoses, inv_isa, inv_prevents
+1	0.012658227848101266	0.006896551724137931	0.2	performs <-- associated&with, inv_associated&with, inv_treats
+1	0.012658227848101266	0.03333333333333333	0.2	performs <-- diagnoses, inv_occurs&in, inv_treats
+11	0.13924050632911392	0.16666666666666666	0.16666666666666666	performs <-- performs, result&of, inv_manifestation&of
+5	0.06329113924050633	0.16666666666666666	0.16666666666666666	performs <-- performs, diagnoses, inv_prevents
+5	0.06329113924050633	0.06666666666666667	0.16666666666666666	performs <-- exhibits, inv_result&of, inv_treats
+5	0.06329113924050633	0.10204081632653061	0.16666666666666666	performs <-- inv_occurs&in, associated&with, inv_treats
+17	0.21518987341772153	0.1574074074074074	0.1574074074074074	performs <-- performs, affects
+4	0.05063291139240506	0.08163265306122448	0.13793103448275862	performs <-- inv_occurs&in, inv_associated&with, inv_treats
+2	0.02531645569620253	0.022222222222222223	0.13333333333333333	performs <-- diagnoses, co&occurs&with, inv_manifestation&of
+24	0.3037974683544304	0.09411764705882353	0.09411764705882353	performs <-- performs, complicates, inv_affects
+17	0.21518987341772153	0.08585858585858586	0.08585858585858586	performs <-- performs, result&of, affects
+3	0.0379746835443038	0.003865979381443299	0.08108108108108109	performs <-- associated&with, inv_result&of, affects
+2	0.02531645569620253	0.004842615012106538	0.07692307692307693	performs <-- inv_isa, inv_produces, inv_affects
+6	0.0759493670886076	0.02127659574468085	0.07692307692307693	performs <-- inv_associated&with, inv_affects, inv_process&of
+2	0.02531645569620253	0.011494252873563218	0.06896551724137931	performs <-- diagnoses, inv_location&of, location&of
+1	0.012658227848101266	0.003257328990228013	0.06666666666666667	performs <-- associated&with, inv_manifestation&of, inv_process&of
+6	0.0759493670886076	0.0625	0.0625	performs <-- performs, affects, inv_process&of
+1	0.012658227848101266	0.0026455026455026454	0.05555555555555555	performs <-- associated&with, occurs&in, inv_complicates
+1	0.012658227848101266	0.009259259259259259	0.05555555555555555	performs <-- diagnoses, precedes, inv_complicates
+9	0.11392405063291139	0.052941176470588235	0.052941176470588235	performs <-- performs, prevents, affects
+5	0.06329113924050633	0.026455026455026454	0.04716981132075472	performs <-- inv_occurs&in, inv_precedes, inv_complicates
+1	0.012658227848101266	0.0049504950495049506	0.029411764705882353	performs <-- diagnoses, affects
+1	0.012658227848101266	0.029411764705882353	0.029411764705882353	performs <-- interacts&with, associated&with, affects
+6	0.0759493670886076	0.02857142857142857	0.02857142857142857	performs <-- performs, affects, inv_result&of

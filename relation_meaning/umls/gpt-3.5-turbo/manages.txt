@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "manages" typically denotes a connection where one entity, such as a biological process, treatment, or gene, actively regulates, controls, or oversees another entity's function, activity, or state.

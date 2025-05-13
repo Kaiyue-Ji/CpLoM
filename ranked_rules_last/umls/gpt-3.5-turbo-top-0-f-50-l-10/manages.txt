@@ -1,0 +1,91 @@
+3	0.6	0.2	1.0	manages <-- performs, inv_method&of, inv_location&of
+2	0.4	0.09090909090909091	1.0	manages <-- inv_occurs&in, inv_assesses&effect&of, inv_carries&out
+1	0.2	1.0	1.0	manages <-- treats, inv_manages
+1	0.2	0.25	1.0	manages <-- interacts&with, inv_manages
+1	0.2	0.06666666666666667	1.0	manages <-- exhibits, associated&with, inv_manages
+2	0.4	0.14285714285714285	1.0	manages <-- inv_occurs&in, inv_treats, inv_carries&out
+1	0.2	0.1	1.0	manages <-- uses, inv_uses, inv_manages
+2	0.4	0.16666666666666666	1.0	manages <-- diagnoses, inv_complicates, inv_carries&out
+4	0.8	0.2	1.0	manages <-- interacts&with, performs, inv_carries&out
+4	0.8	0.17391304347826086	1.0	manages <-- produces, inv_uses, inv_carries&out
+1	0.2	0.06666666666666667	1.0	manages <-- exhibits, inv_performs, inv_manages
+1	0.2	0.3333333333333333	1.0	manages <-- isa, inv_manages, treats
+1	0.2	1.0	1.0	manages <-- manages, inv_isa
+1	0.2	0.16666666666666666	1.0	manages <-- performs, affects, inv_manages
+1	0.2	0.16666666666666666	1.0	manages <-- performs, inv_performs, inv_manages
+4	0.8	0.07407407407407407	0.8	manages <-- inv_occurs&in, inv_affects, inv_carries&out
+3	0.6	0.05	0.5	manages <-- inv_occurs&in, inv_diagnoses, inv_location&of
+4	0.8	0.08333333333333333	0.5	manages <-- diagnoses, inv_prevents, inv_location&of
+1	0.2	0.1111111111111111	0.5	manages <-- produces, conceptual&part&of, inv_carries&out
+1	0.2	0.5	0.5	manages <-- practices, inv_issue&in, inv_manages
+3	0.6	0.045454545454545456	0.5	manages <-- inv_occurs&in, inv_measures, inv_location&of
+3	0.6	0.08333333333333333	0.5	manages <-- performs, inv_conceptual&part&of, inv_produces
+1	0.2	0.2	0.5	manages <-- inv_affects, affects, treats
+1	0.2	0.1	0.5	manages <-- produces, inv_produces, treats
+1	0.2	0.0625	0.5	manages <-- uses, inv_produces, inv_manages
+1	0.2	0.2	0.5	manages <-- inv_affects, inv_produces, treats
+1	0.2	0.1	0.5	manages <-- produces, inv_uses, inv_manages
+1	0.2	0.1	0.5	manages <-- produces, affects, treats
+4	0.8	0.4444444444444444	0.4444444444444444	manages <-- treats, performs, inv_location&of
+4	0.8	0.08888888888888889	0.4444444444444444	manages <-- isa, performs, inv_location&of
+3	0.6	0.05357142857142857	0.42857142857142855	manages <-- uses, isa, inv_produces
+4	0.8	0.03636363636363636	0.4	manages <-- treats, produces, inv_produces
+4	0.8	0.07272727272727272	0.4	manages <-- isa, uses, inv_produces
+1	0.2	0.3333333333333333	0.3333333333333333	manages <-- treats, inv_manages, isa
+3	0.6	0.0375	0.3333333333333333	manages <-- uses, inv_produces
+3	0.6	0.3333333333333333	0.3333333333333333	manages <-- treats, uses, inv_produces
+1	0.2	0.05	0.25	manages <-- produces, inv_produces, inv_manages
+1	0.2	0.025	0.25	manages <-- location&of, inv_method&of, inv_performs
+2	0.4	0.05	0.25	manages <-- uses, inv_isa, affects
+3	0.6	0.015384615384615385	0.25	manages <-- inv_affects, isa, inv_produces
+2	0.4	0.006535947712418301	0.25	manages <-- isa, inv_affects, inv_produces
+2	0.4	0.038461538461538464	0.25	manages <-- uses, inv_isa, inv_produces
+1	0.2	0.1	0.25	manages <-- inv_affects, inv_produces, inv_manages
+2	0.4	0.05	0.25	manages <-- interacts&with, inv_affects, inv_produces
+1	0.2	0.027777777777777776	0.25	manages <-- uses, inv_produces, inv_isa
+5	1.0	0.010040160642570281	0.25	manages <-- produces, inv_produces
+5	1.0	0.25	0.25	manages <-- manages, produces, inv_produces
+2	0.4	0.0015885623510722795	0.25	manages <-- isa, inv_affects, affects
+5	1.0	0.01201923076923077	0.25	manages <-- isa, produces, inv_produces
+1	0.2	0.05	0.25	manages <-- produces, affects, inv_manages
+2	0.4	0.25	0.25	manages <-- manages, inv_affects, inv_produces
+1	0.2	0.027777777777777776	0.25	manages <-- uses, inv_produces, isa
+2	0.4	0.024096385542168676	0.25	manages <-- treats, produces, affects
+1	0.2	0.06666666666666667	0.2	manages <-- inv_manages, inv_property&of, property&of
+4	0.8	0.016666666666666666	0.19047619047619047	manages <-- inv_occurs&in, inv_affects, inv_location&of
+3	0.6	0.008771929824561403	0.1875	manages <-- produces, inv_isa, affects
+4	0.8	0.030303030303030304	0.18181818181818182	manages <-- diagnoses, inv_affects, inv_location&of
+1	0.2	0.05555555555555555	0.16666666666666666	manages <-- isa, location&of, inv_performs
+1	0.2	0.041666666666666664	0.16666666666666666	manages <-- carries&out, inv_performs
+1	0.2	0.011111111111111112	0.1111111111111111	manages <-- location&of, uses, inv_uses
+1	0.2	0.037037037037037035	0.1111111111111111	manages <-- inv_manages, uses, inv_uses
+1	0.2	0.025	0.1	manages <-- carries&out, diagnoses, occurs&in
+1	0.2	0.03333333333333333	0.1	manages <-- inv_manages, inv_occurs&in, occurs&in
+1	0.2	0.018867924528301886	0.1	manages <-- carries&out, inv_result&of, occurs&in
+1	0.2	0.01	0.1	manages <-- location&of, treats, occurs&in
+1	0.2	0.01	0.1	manages <-- location&of, prevents, occurs&in
+2	0.4	0.0030721966205837174	0.09090909090909091	manages <-- interacts&with, inv_affects, affects
+1	0.2	0.0012345679012345679	0.08333333333333333	manages <-- issue&in, inv_issue&in, inv_performs
+1	0.2	0.0034965034965034965	0.07692307692307693	manages <-- location&of, affects, occurs&in
+1	0.2	0.001692047377326565	0.06666666666666667	manages <-- location&of, affects
+1	0.2	0.016666666666666666	0.06666666666666667	manages <-- carries&out, method&of, affects
+1	0.2	0.011235955056179775	0.06666666666666667	manages <-- carries&out, inv_isa, affects
+1	0.2	0.012987012987012988	0.06666666666666667	manages <-- produces, inv_uses
+1	0.2	0.0006222775357809583	0.041666666666666664	manages <-- issue&in, inv_issue&in, treats
+3	0.6	0.0006493506493506494	0.0375	manages <-- isa, inv_isa, affects
+1	0.2	0.0004967709885742673	0.034482758620689655	manages <-- issue&in, inv_method&of, affects
+4	0.8	0.00047978889288712967	0.029411764705882353	manages <-- isa, inv_isa
+4	0.8	0.000485319097306479	0.029411764705882353	manages <-- isa, isa, inv_isa
+3	0.6	0.004310344827586207	0.02586206896551724	manages <-- performs, method&of, inv_issue&in
+3	0.6	0.0017241379310344827	0.02586206896551724	manages <-- exhibits, associated&with, inv_issue&in
+3	0.6	0.004310344827586207	0.02586206896551724	manages <-- performs, issue&in, inv_issue&in
+4	0.8	0.00044449383264807203	0.024390243902439025	manages <-- isa, inv_isa, inv_isa
+2	0.4	0.0001912960306073649	0.023529411764705882	manages <-- issue&in, inv_issue&in, inv_issue&in
+2	0.4	0.023255813953488372	0.023255813953488372	manages <-- practices, isa, inv_issue&in
+4	0.8	0.0002684924150892737	0.01990049751243781	manages <-- issue&in, inv_issue&in
+1	0.2	0.00017412502176562773	0.012048192771084338	manages <-- issue&in, inv_issue&in, isa
+1	0.2	0.00016909029421711193	0.011363636363636364	manages <-- issue&in, inv_issue&in, interacts&with
+1	0.2	0.0003748125937031484	0.008620689655172414	manages <-- location&of, issue&in, inv_issue&in
+1	0.2	0.0008620689655172414	0.008620689655172414	manages <-- location&of, method&of, inv_issue&in
+1	0.2	0.0023094688221709007	0.008620689655172414	manages <-- inv_manages, issue&in, inv_issue&in
+1	0.2	0.0028735632183908046	0.008620689655172414	manages <-- inv_manages, practices, inv_issue&in

@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "wasBornIn" indicates the connection between an individual and the location (such as a city or country) where they were born.

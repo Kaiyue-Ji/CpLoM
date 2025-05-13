@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "adjacentTo" typically indicates that two entities, such as genes, proteins, or biological processes, are located next to each other or in close proximity within a given biological context, such as a chromosome or molecular structure.

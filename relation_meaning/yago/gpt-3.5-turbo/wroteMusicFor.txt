@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "wroteMusicFor" signifies that an individual composed or created music specifically for a particular person, group, project, or event.

@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "ingredient&of" typically represents a connection where a specific ingredient is a component or part of a larger compound, formulation, or entity, such as a drug or biological substance.

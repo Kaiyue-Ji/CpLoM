@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "influences" denotes a connection where one entity has a significant impact or effect on the state, behavior, or development of another entity.

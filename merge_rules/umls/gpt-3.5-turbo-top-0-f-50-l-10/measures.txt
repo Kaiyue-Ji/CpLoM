@@ -1,0 +1,420 @@
+0.0	0.0	0.0	0.0	measures <-- degree&of, result&of, affects
+0.0	0.0	0.0	0.0	measures <-- associated&with, process&of, inv_manages
+26	0.16049382716049382	0.14942528735632185	0.4482758620689655	measures <-- diagnoses, result&of
+0.0	0.0	0.0	0.0	measures <-- conceptual&part&of, result&of
+0.0	0.0	0.0	0.0	measures <-- measurement&of, result&of
+0.0	0.0	0.0	0.0	measures <-- isa, result&of
+0.0	0.0	0.0	0.0	measures <-- interacts&with, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_developmental&form&of, inv_contains
+22	0.13580246913580246	0.10476190476190476	0.55	measures <-- associated&with, inv_result&of, location&of
+0.0	0.0	0.0	0.0	measures <-- disrupts, result&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- conceptually&related&to, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_carries&out, inv_performs, inv_prevents
+0.0	0.0	0.0	0.0	measures <-- analyzes, inv_analyzes, produces
+0.0	0.0	0.0	0.0	measures <-- issue&in, inv_issue&in, inv_evaluation&of
+0.0	0.0	0.0	0.0	measures <-- method&of, measurement&of
+0.0	0.0	0.0	0.0	measures <-- complicates, inv_assesses&effect&of, inv_measures
+26	0.16049382716049382	0.030915576694411414	0.4482758620689655	measures <-- inv_result&of, inv_complicates, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_causes, inv_assesses&effect&of, inv_manages
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_uses, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_assesses&effect&of, inv_degree&of
+22	0.13580246913580246	0.7857142857142857	0.7857142857142857	measures <-- analyzes, affects, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- method&of, inv_uses, result&of
+0.0	0.0	0.0	0.0	measures <-- interacts&with, inv_result&of, measures
+0.0	0.0	0.0	0.0	measures <-- process&of, part&of, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- part&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_evaluation&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_location&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- diagnoses, inv_diagnoses, result&of
+22	0.13580246913580246	0.039927404718693285	0.5789473684210527	measures <-- inv_result&of, inv_complicates, inv_produces
+0.0	0.0	0.0	0.0	measures <-- inv_surrounds, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_interacts&with, inv_carries&out
+0.0	0.0	0.0	0.0	measures <-- affects, location&of, isa
+3	0.018518518518518517	0.020689655172413793	0.3	measures <-- inv_result&of, manifestation&of, inv_treats
+0.0	0.0	0.0	0.0	measures <-- inv_performs, result&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_location&of, inv_manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_disrupts, inv_result&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, result&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- process&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_degree&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_isa, inv_measures, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_treats, inv_property&of
+0.0	0.0	0.0	0.0	measures <-- inv_associated&with, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_indicates, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- co&occurs&with, inv_produces, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_degree&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- uses, inv_result&of, causes
+0.0	0.0	0.0	0.0	measures <-- produces, degree&of
+49	0.30246913580246915	0.12468193384223919	0.8909090909090909	measures <-- associated&with, inv_associated&with, inv_process&of
+24	0.14814814814814814	0.027874564459930314	0.8571428571428571	measures <-- isa, affects
+0.0	0.0	0.0	0.0	measures <-- location&of, produces
+0.0	0.0	0.0	0.0	measures <-- inv_manifestation&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_isa
+0.0	0.0	0.0	0.0	measures <-- inv_issue&in, inv_associated&with, inv_measures
+49	0.30246913580246915	0.875	0.875	measures <-- measures, inv_location&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- process&of, result&of, inv_causes
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_conceptual&part&of, inv_property&of
+0.0	0.0	0.0	0.0	measures <-- affects, inv_isa, location&of
+0.0	0.0	0.0	0.0	measures <-- manages, assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- diagnoses, exhibits
+0.0	0.0	0.0	0.0	measures <-- disrupts, inv_assesses&effect&of, inv_diagnoses
+29	0.17901234567901234	0.051056338028169015	0.7073170731707317	measures <-- inv_result&of, inv_complicates
+0.0	0.0	0.0	0.0	measures <-- result&of, inv_result&of, causes
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_manages
+30	0.18518518518518517	0.06097560975609756	0.4411764705882353	measures <-- associated&with, result&of, inv_manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_result&of, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- inv_measurement&of, result&of, associated&with
+0.0	0.0	0.0	0.0	measures <-- uses, inv_produces, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_evaluation&of, inv_diagnoses, inv_complicates
+0.0	0.0	0.0	0.0	measures <-- inv_location&of, inv_complicates, inv_treats
+0.0	0.0	0.0	0.0	measures <-- inv_isa, isa, result&of
+0.0	0.0	0.0	0.0	measures <-- analyzes, inv_degree&of, inv_location&of
+0.0	0.0	0.0	0.0	measures <-- isa, inv_assesses&effect&of, inv_treats
+0.0	0.0	0.0	0.0	measures <-- issue&in, part&of
+0.0	0.0	0.0	0.0	measures <-- inv_adjacent&to, inv_interconnects
+22	0.13580246913580246	0.1456953642384106	0.9166666666666666	measures <-- associated&with, degree&of, degree&of
+0.0	0.0	0.0	0.0	measures <-- inv_conceptually&related&to, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_ingredient&of, inv_result&of
+1	0.006172839506172839	0.034482758620689655	1.0	measures <-- inv_location&of, inv_produces
+0.0	0.0	0.0	0.0	measures <-- inv_derivative&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_location&of, inv_interacts&with, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- co&occurs&with, result&of
+0.0	0.0	0.0	0.0	measures <-- assesses&effect&of, degree&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- disrupts, result&of
+0.0	0.0	0.0	0.0	measures <-- affects, produces, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_derivative&of
+0.0	0.0	0.0	0.0	measures <-- consists&of, result&of
+0.0	0.0	0.0	0.0	measures <-- manifestation&of, degree&of, associated&with
+0.0	0.0	0.0	0.0	measures <-- inv_contains, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_carries&out
+59	0.36419753086419754	0.1368909512761021	0.921875	measures <-- associated&with, inv_location&of, produces
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_measurement&of, produces
+40	0.24691358024691357	0.03734827264239029	0.5555555555555556	measures <-- inv_result&of, inv_process&of, inv_causes
+114	0.7037037037037037	0.8142857142857143	0.8142857142857143	measures <-- measures, inv_affects, inv_isa
+53	0.3271604938271605	0.07001321003963012	0.45689655172413796	measures <-- associated&with, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_treats, inv_evaluation&of
+0.0	0.0	0.0	0.0	measures <-- inv_analyzes, inv_affects, inv_derivative&of
+0.0	0.0	0.0	0.0	measures <-- conceptual&part&of, inv_isa, measures
+0.0	0.0	0.0	0.0	measures <-- disrupts, result&of, inv_measurement&of
+12	0.07407407407407407	0.75	0.75	measures <-- assesses&effect&of, inv_evaluation&of, evaluation&of
+0.0	0.0	0.0	0.0	measures <-- result&of, inv_assesses&effect&of, measures
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_manages, inv_assesses&effect&of
+24	0.14814814814814814	0.03137254901960784	0.8	measures <-- affects, result&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_evaluation&of, inv_measurement&of
+22	0.13580246913580246	0.05128205128205128	0.7857142857142857	measures <-- inv_result&of, inv_affects, manifestation&of
+11	0.06790123456790123	0.03142857142857143	0.7857142857142857	measures <-- inv_location&of, inv_disrupts, inv_result&of
+3	0.018518518518518517	0.08333333333333333	1.0	measures <-- inv_location&of, inv_produces, inv_occurs&in
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_complicates, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- connected&to, process&of
+13	0.08024691358024691	0.6190476190476191	0.9285714285714286	measures <-- diagnoses, location&of, location&of
+0.0	0.0	0.0	0.0	measures <-- produces, inv_result&of, degree&of
+0.0	0.0	0.0	0.0	measures <-- inv_analyzes, inv_carries&out
+0.0	0.0	0.0	0.0	measures <-- interconnects, inv_result&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- evaluation&of, result&of
+21	0.12962962962962962	0.9130434782608695	0.9130434782608695	measures <-- measures, prevents
+0.0	0.0	0.0	0.0	measures <-- manages, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_evaluation&of, inv_assesses&effect&of
+16	0.09876543209876543	0.0142602495543672	0.36363636363636365	measures <-- affects, result&of, associated&with
+18	0.1111111111111111	0.05642633228840126	0.782608695652174	measures <-- inv_result&of, manifestation&of, inv_co&occurs&with
+24	0.14814814814814814	0.05568445475638051	0.8	measures <-- inv_result&of, inv_complicates, manifestation&of
+30	0.18518518518518517	0.11904761904761904	0.625	measures <-- associated&with, affects, produces
+0.0	0.0	0.0	0.0	measures <-- performs, result&of, inv_uses
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_result&of, associated&with
+0.0	0.0	0.0	0.0	measures <-- inv_interacts&with, result&of, inv_degree&of
+0.0	0.0	0.0	0.0	measures <-- inv_interconnects, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_interacts&with, inv_causes
+0.0	0.0	0.0	0.0	measures <-- inv_causes, inv_diagnoses, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_result&of, inv_exhibits
+0.0	0.0	0.0	0.0	measures <-- inv_manages, inv_process&of, inv_result&of
+3	0.018518518518518517	0.02586206896551724	0.375	measures <-- inv_result&of, inv_evaluation&of, inv_treats
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_evaluation&of
+11	0.06790123456790123	0.14102564102564102	0.4230769230769231	measures <-- diagnoses, result&of, occurs&in
+0.0	0.0	0.0	0.0	measures <-- manifestation&of, degree&of, affects
+0.0	0.0	0.0	0.0	measures <-- result&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_uses, manifestation&of
+58	0.35802469135802467	0.012554112554112554	0.4393939393939394	measures <-- isa, inv_isa, affects
+26	0.16049382716049382	0.017881705639614855	0.4482758620689655	measures <-- affects, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_process&of, inv_part&of, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- interconnects, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_complicates, inv_assesses&effect&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- associated&with, inv_connected&to, inv_process&of
+0.0	0.0	0.0	0.0	measures <-- degree&of, inv_degree&of, conceptual&part&of
+0.0	0.0	0.0	0.0	measures <-- contains, inv_process&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_method&of
+0.0	0.0	0.0	0.0	measures <-- location&of, inv_contains, inv_causes
+0.0	0.0	0.0	0.0	measures <-- inv_carries&out, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- result&of, assesses&effect&of, measures
+30	0.18518518518518517	0.0351288056206089	0.6382978723404256	measures <-- inv_result&of, inv_result&of
+4	0.024691358024691357	0.2	0.2	measures <-- assesses&effect&of, manifestation&of, inv_associated&with
+0.0	0.0	0.0	0.0	measures <-- causes, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_causes
+0.0	0.0	0.0	0.0	measures <-- derivative&of, practices
+0.0	0.0	0.0	0.0	measures <-- surrounds, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_conceptually&related&to, inv_surrounds
+0.0	0.0	0.0	0.0	measures <-- interacts&with, inv_process&of, inv_isa
+0.0	0.0	0.0	0.0	measures <-- inv_affects, inv_produces, inv_result&of
+61	0.3765432098765432	0.40131578947368424	0.40131578947368424	measures <-- measures, inv_affects, affects
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, result&of, inv_causes
+0.0	0.0	0.0	0.0	measures <-- analyzes, inv_result&of, associated&with
+0.0	0.0	0.0	0.0	measures <-- connected&to, result&of
+78	0.48148148148148145	0.03851851851851852	0.8666666666666667	measures <-- affects, result&of, measures
+0.0	0.0	0.0	0.0	measures <-- inv_treats, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- associated&with, inv_complicates, inv_disrupts
+0.0	0.0	0.0	0.0	measures <-- inv_part&of, inv_measurement&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, degree&of, inv_manages
+0.0	0.0	0.0	0.0	measures <-- treats, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_isa, inv_measures
+24	0.14814814814814814	0.0486815415821501	0.7058823529411765	measures <-- inv_result&of, inv_diagnoses, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- analyzes, carries&out
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- part&of, inv_part&of, produces
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_causes, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- uses, affects, inv_produces
+0.0	0.0	0.0	0.0	measures <-- inv_measurement&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_property&of
+0.0	0.0	0.0	0.0	measures <-- uses, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_disrupts
+0.0	0.0	0.0	0.0	measures <-- inv_complicates, inv_result&of, inv_location&of
+0.0	0.0	0.0	0.0	measures <-- measures, inv_isa, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_performs, inv_conceptual&part&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_result&of
+11	0.06790123456790123	0.3793103448275862	0.3793103448275862	measures <-- assesses&effect&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_process&of, result&of, inv_assesses&effect&of
+9	0.05555555555555555	0.05660377358490566	0.75	measures <-- inv_result&of, inv_complicates, inv_isa
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_result&of, inv_isa
+0.0	0.0	0.0	0.0	measures <-- inv_produces, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_conceptual&part&of, inv_isa, inv_measures
+0.0	0.0	0.0	0.0	measures <-- conceptually&related&to, surrounds
+0.0	0.0	0.0	0.0	measures <-- analyzes, interacts&with, inv_disrupts
+49	0.30246913580246915	0.11475409836065574	0.8166666666666667	measures <-- associated&with, result&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_manages, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- adjacent&to, inv_process&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- issue&in, associated&with, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_process&of
+0.0	0.0	0.0	0.0	measures <-- inv_interacts&with, inv_result&of, inv_analyzes
+0.0	0.0	0.0	0.0	measures <-- affects, inv_process&of, causes
+0.0	0.0	0.0	0.0	measures <-- location&of, location&of, associated&with
+0.0	0.0	0.0	0.0	measures <-- uses, process&of, inv_manages
+0.0	0.0	0.0	0.0	measures <-- inv_co&occurs&with, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_prevents, inv_causes
+0.0	0.0	0.0	0.0	measures <-- associated&with, inv_measures, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_interacts&with, inv_process&of, isa
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_affects, inv_precedes
+0.0	0.0	0.0	0.0	measures <-- inv_measurement&of, inv_result&of, inv_treats
+0.0	0.0	0.0	0.0	measures <-- derivative&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_occurs&in, inv_uses
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, result&of, indicates
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_measurement&of, inv_measures
+49	0.30246913580246915	0.8166666666666667	0.8166666666666667	measures <-- measures, inv_associated&with, inv_process&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_measurement&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_associated&with, inv_conceptual&part&of
+0.0	0.0	0.0	0.0	measures <-- carries&out, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_process&of, inv_assesses&effect&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- location&of, contains, causes
+0.0	0.0	0.0	0.0	measures <-- adjacent&to, interconnects
+2	0.012345679012345678	0.06451612903225806	0.3333333333333333	measures <-- inv_method&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_interconnects, inv_assesses&effect&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- conceptual&part&of, part&of, inv_affects
+0.0	0.0	0.0	0.0	measures <-- precedes, inv_result&of, inv_analyzes
+0.0	0.0	0.0	0.0	measures <-- inv_evaluation&of, inv_conceptual&part&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_precedes, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_interacts&with, inv_prevents
+0.0	0.0	0.0	0.0	measures <-- inv_produces, inv_degree&of
+0.0	0.0	0.0	0.0	measures <-- inv_isa, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- location&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- produces, inv_produces, location&of
+26	0.16049382716049382	0.2708333333333333	0.8125	measures <-- diagnoses, inv_diagnoses, affects
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_prevents
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_process&of, inv_causes
+23	0.1419753086419753	0.057356608478802994	0.7931034482758621	measures <-- inv_result&of, associated&with, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- associated&with, inv_conceptual&part&of, inv_affects
+0.0	0.0	0.0	0.0	measures <-- uses, inv_uses, inv_treats
+0.0	0.0	0.0	0.0	measures <-- manifestation&of, inv_degree&of, inv_associated&with
+0.0	0.0	0.0	0.0	measures <-- interconnects, inv_assesses&effect&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- performs, conceptual&part&of
+0.0	0.0	0.0	0.0	measures <-- inv_complicates, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- occurs&in, result&of
+0.0	0.0	0.0	0.0	measures <-- ingredient&of, property&of
+0.0	0.0	0.0	0.0	measures <-- inv_analyzes, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- result&of, complicates
+0.0	0.0	0.0	0.0	measures <-- inv_occurs&in, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_contains, inv_process&of, inv_assesses&effect&of
+61	0.3765432098765432	0.010041152263374485	0.3388888888888889	measures <-- issue&in, inv_issue&in, affects
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_degree&of
+0.0	0.0	0.0	0.0	measures <-- developmental&form&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_practices, inv_result&of
+49	0.30246913580246915	0.15654952076677317	0.8166666666666667	measures <-- associated&with, co&occurs&with, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_process&of, inv_manages, inv_occurs&in
+0.0	0.0	0.0	0.0	measures <-- ingredient&of, result&of
+0.0	0.0	0.0	0.0	measures <-- adjacent&to, result&of
+0.0	0.0	0.0	0.0	measures <-- produces, result&of
+0.0	0.0	0.0	0.0	measures <-- performs, result&of
+0.0	0.0	0.0	0.0	measures <-- location&of, result&of, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- inv_complicates, inv_affects, associated&with
+0.0	0.0	0.0	0.0	measures <-- contains, result&of
+22	0.13580246913580246	0.03459119496855346	0.7857142857142857	measures <-- affects, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_treats, inv_co&occurs&with, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- complicates, result&of
+0.0	0.0	0.0	0.0	measures <-- analyzes, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_indicates, result&of
+0.0	0.0	0.0	0.0	measures <-- uses, produces, result&of
+53	0.3271604938271605	0.05584826132771338	0.4015151515151515	measures <-- associated&with, result&of, process&of
+0.0	0.0	0.0	0.0	measures <-- inv_adjacent&to, inv_process&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_uses, inv_produces, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_result&of, inv_manages
+0.0	0.0	0.0	0.0	measures <-- indicates, result&of
+0.0	0.0	0.0	0.0	measures <-- interacts&with, causes
+0.0	0.0	0.0	0.0	measures <-- affects, inv_interacts&with, inv_causes
+0.0	0.0	0.0	0.0	measures <-- causes, indicates
+0.0	0.0	0.0	0.0	measures <-- inv_isa, inv_disrupts, inv_complicates
+0.0	0.0	0.0	0.0	measures <-- derivative&of, inv_assesses&effect&of, inv_uses
+0.0	0.0	0.0	0.0	measures <-- manifestation&of, result&of
+0.0	0.0	0.0	0.0	measures <-- practices, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_causes, inv_indicates
+0.0	0.0	0.0	0.0	measures <-- inv_produces, process&of, inv_measurement&of
+11	0.06790123456790123	0.1375	0.4583333333333333	measures <-- uses, inv_uses, treats
+0.0	0.0	0.0	0.0	measures <-- inv_co&occurs&with, inv_produces, inv_measures
+0.0	0.0	0.0	0.0	measures <-- inv_uses, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- analyzes, manifestation&of, inv_manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_consists&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_degree&of, degree&of, inv_assesses&effect&of
+6	0.037037037037037035	0.02830188679245283	0.75	measures <-- affects, inv_affects, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- inv_process&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_location&of, inv_location&of, inv_manages
+53	0.3271604938271605	0.04715302491103203	0.3680555555555556	measures <-- associated&with, inv_associated&with, affects
+0.0	0.0	0.0	0.0	measures <-- exhibits, result&of
+0.0	0.0	0.0	0.0	measures <-- occurs&in, uses
+38	0.2345679012345679	0.13970588235294118	0.7307692307692307	measures <-- associated&with, inv_result&of, inv_co&occurs&with
+0.0	0.0	0.0	0.0	measures <-- precedes, consists&of
+0.0	0.0	0.0	0.0	measures <-- method&of, inv_process&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_uses, inv_result&of, inv_precedes
+0.0	0.0	0.0	0.0	measures <-- prevents, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_derivative&of, inv_practices
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_associated&with, inv_prevents
+0.0	0.0	0.0	0.0	measures <-- process&of, inv_process&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_location&of, inv_causes
+0.0	0.0	0.0	0.0	measures <-- inv_performs, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- result&of, location&of, inv_assesses&effect&of
+53	0.3271604938271605	0.45689655172413796	0.45689655172413796	measures <-- measures, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_conceptually&related&to, inv_assesses&effect&of, inv_measures
+0.0	0.0	0.0	0.0	measures <-- location&of, inv_adjacent&to, associated&with
+0.0	0.0	0.0	0.0	measures <-- location&of, isa, produces
+0.0	0.0	0.0	0.0	measures <-- interconnects, inv_interconnects, connected&to
+42	0.25925925925925924	0.1891891891891892	0.5675675675675675	measures <-- diagnoses, associated&with, inv_causes
+0.0	0.0	0.0	0.0	measures <-- associated&with, inv_property&of, inv_property&of
+0.0	0.0	0.0	0.0	measures <-- part&of, inv_measurement&of, measures
+16	0.09876543209876543	0.19047619047619047	0.8888888888888888	measures <-- isa, associated&with, inv_degree&of
+7	0.043209876543209874	0.037037037037037035	1.0	measures <-- inv_location&of, location&of, degree&of
+0.0	0.0	0.0	0.0	measures <-- inv_complicates, inv_causes, affects
+24	0.14814814814814814	0.05491990846681922	0.7272727272727273	measures <-- inv_result&of, co&occurs&with, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_location&of, inv_manifestation&of
+24	0.14814814814814814	0.0486815415821501	0.7058823529411765	measures <-- inv_result&of, inv_indicates, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- affects, inv_causes, produces
+0.0	0.0	0.0	0.0	measures <-- associated&with, connected&to, process&of
+0.0	0.0	0.0	0.0	measures <-- inv_co&occurs&with, inv_disrupts
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_carries&out, measures
+0.0	0.0	0.0	0.0	measures <-- inv_adjacent&to, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- associated&with, inv_measures, inv_diagnoses
+0.0	0.0	0.0	0.0	measures <-- inv_performs, inv_result&of, inv_associated&with
+0.0	0.0	0.0	0.0	measures <-- co&occurs&with, disrupts
+0.0	0.0	0.0	0.0	measures <-- inv_produces, inv_degree&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_isa, inv_affects
+0.0	0.0	0.0	0.0	measures <-- inv_issue&in, inv_part&of
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_disrupts, inv_result&of
+89	0.5493827160493827	0.11469072164948453	0.6013513513513513	measures <-- associated&with, affects, inv_causes
+0.0	0.0	0.0	0.0	measures <-- interconnects, inv_interconnects, part&of
+0.0	0.0	0.0	0.0	measures <-- inv_exhibits, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_connected&to, inv_process&of
+0.0	0.0	0.0	0.0	measures <-- inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_interacts&with, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- causes, degree&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_causes, inv_measurement&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_location&of, inv_process&of, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- affects, inv_conceptually&related&to, inv_disrupts
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_derivative&of, inv_prevents
+0.0	0.0	0.0	0.0	measures <-- inv_location&of, inv_result&of, inv_affects
+0.0	0.0	0.0	0.0	measures <-- inv_prevents, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_connected&to, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_ingredient&of
+0.0	0.0	0.0	0.0	measures <-- co&occurs&with, inv_causes, inv_treats
+0.0	0.0	0.0	0.0	measures <-- inv_conceptual&part&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_manages, inv_assesses&effect&of
+68	0.41975308641975306	0.04597701149425287	0.6666666666666666	measures <-- inv_result&of, manifestation&of, inv_affects
+0.0	0.0	0.0	0.0	measures <-- inv_analyzes, inv_manages, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, manifestation&of
+2	0.012345679012345678	0.1111111111111111	0.5	measures <-- inv_method&of, inv_result&of, inv_treats
+0.0	0.0	0.0	0.0	measures <-- affects, inv_uses, measurement&of
+0.0	0.0	0.0	0.0	measures <-- method&of, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_issue&in, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_precedes, inv_consists&of
+0.0	0.0	0.0	0.0	measures <-- property&of, result&of
+8	0.04938271604938271	0.02666666666666667	1.0	measures <-- inv_result&of, inv_isa, inv_precedes
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_measurement&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- issue&in, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_exhibits
+0.0	0.0	0.0	0.0	measures <-- produces, inv_result&of, inv_uses
+0.0	0.0	0.0	0.0	measures <-- co&occurs&with, inv_co&occurs&with, manifestation&of
+0.0	0.0	0.0	0.0	measures <-- inv_measures, inv_degree&of, inv_assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_developmental&form&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_produces, inv_manages
+0.0	0.0	0.0	0.0	measures <-- inv_uses, inv_produces, measures
+0.0	0.0	0.0	0.0	measures <-- precedes, result&of
+0.0	0.0	0.0	0.0	measures <-- inv_part&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_assesses&effect&of, inv_isa, inv_indicates
+0.0	0.0	0.0	0.0	measures <-- inv_method&of, inv_process&of, co&occurs&with
+6	0.037037037037037035	0.3	0.3	measures <-- analyzes, causes, occurs&in
+29	0.17901234567901234	0.05534351145038168	0.7631578947368421	measures <-- inv_result&of, manifestation&of, inv_complicates
+0.0	0.0	0.0	0.0	measures <-- conceptually&related&to, inv_assesses&effect&of, inv_measures
+63	0.3888888888888889	0.8513513513513513	0.8513513513513513	measures <-- assesses&effect&of, inv_assesses&effect&of, assesses&effect&of
+0.0	0.0	0.0	0.0	measures <-- inv_ingredient&of, inv_property&of
+12	0.07407407407407407	0.023529411764705882	0.6	measures <-- affects, inv_affects, causes
+0.0	0.0	0.0	0.0	measures <-- method&of, result&of, inv_analyzes
+0.0	0.0	0.0	0.0	measures <-- co&occurs&with, inv_affects, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- causes, inv_causes, degree&of
+0.0	0.0	0.0	0.0	measures <-- produces, degree&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_manages, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, result&of
+24	0.14814814814814814	0.0594059405940594	0.8571428571428571	measures <-- inv_result&of, inv_complicates, inv_process&of
+0.0	0.0	0.0	0.0	measures <-- inv_property&of, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- inv_causes, inv_result&of
+0.0	0.0	0.0	0.0	measures <-- developmental&form&of, contains
+0.0	0.0	0.0	0.0	measures <-- inv_diagnoses, inv_result&of, inv_ingredient&of
+0.0	0.0	0.0	0.0	measures <-- treats, evaluation&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_assesses&effect&of, inv_exhibits
+0.0	0.0	0.0	0.0	measures <-- uses, inv_method&of, inv_performs
+0.0	0.0	0.0	0.0	measures <-- degree&of, result&of
+0.0	0.0	0.0	0.0	measures <-- connected&to, inv_connected&to, inv_measurement&of
+0.0	0.0	0.0	0.0	measures <-- inv_result&of, inv_causes, result&of
+24	0.14814814814814814	0.05517241379310345	0.8	measures <-- inv_result&of, result&of, manifestation&of
+2.0	0.012345679012345678	1.0	1.0	measures <-- analyzes, disrupts, contains
+12.0	0.07407407407407407	1.0	1.0	measures <-- analyzes, inv_isa, diagnoses
+12.0	0.07407407407407407	0.3333333333333333	1.0	measures <-- diagnoses, inv_precedes, inv_precedes
+12.0	0.07407407407407407	0.3333333333333333	1.0	measures <-- diagnoses, affects, causes
+12.0	0.07407407407407407	0.3333333333333333	1.0	measures <-- diagnoses, complicates, precedes
+12.0	0.07407407407407407	0.3333333333333333	1.0	measures <-- diagnoses, inv_complicates, inv_precedes
+12.0	0.07407407407407407	0.3333333333333333	1.0	measures <-- diagnoses, inv_complicates, precedes
+12.0	0.07407407407407407	0.3333333333333333	1.0	measures <-- diagnoses, inv_precedes
+22.0	0.13580246913580246	0.9166666666666666	0.9166666666666666	measures <-- measures, treats, precedes
+93.0	0.5740740740740741	0.8942307692307693	0.8942307692307693	measures <-- measures, inv_affects, analyzes
+44.0	0.2716049382716049	0.88	0.88	measures <-- measures, inv_precedes
+21.0	0.12962962962962962	0.875	0.875	measures <-- measures, inv_precedes, inv_isa
+78.0	0.48148148148148145	0.28888888888888886	0.8666666666666667	measures <-- diagnoses, inv_diagnoses, measures
+45.0	0.2777777777777778	0.8653846153846154	0.8653846153846154	measures <-- measures, affects, inv_precedes
+45.0	0.2777777777777778	0.8653846153846154	0.8653846153846154	measures <-- measures, inv_produces, precedes
+22.0	0.13580246913580246	0.03508771929824561	0.8461538461538461	measures <-- affects, precedes, precedes
+22.0	0.13580246913580246	0.03273809523809524	0.8461538461538461	measures <-- affects, inv_affects, inv_precedes
+22.0	0.13580246913580246	0.03514376996805112	0.8461538461538461	measures <-- affects, precedes
+66.0	0.4074074074074074	0.1952662721893491	0.8461538461538461	measures <-- inv_performs, inv_produces, inv_affects
+44.0	0.2716049382716049	0.037606837606837605	0.8461538461538461	measures <-- affects, inv_diagnoses, analyzes
+37.0	0.22839506172839505	0.10277777777777777	0.8222222222222222	measures <-- uses, prevents, inv_affects
+23.0	0.1419753086419753	0.8214285714285714	0.8214285714285714	measures <-- measures, inv_contains, affects
+36.0	0.2222222222222222	0.8181818181818182	0.8181818181818182	measures <-- measures, disrupts, inv_complicates
+36.0	0.2222222222222222	0.8181818181818182	0.8181818181818182	measures <-- measures, inv_affects, inv_disrupts
+36.0	0.2222222222222222	0.8181818181818182	0.8181818181818182	measures <-- measures, inv_produces, inv_disrupts
+36.0	0.2222222222222222	0.8181818181818182	0.8181818181818182	measures <-- measures, inv_precedes, inv_disrupts
+29.0	0.17901234567901234	0.26851851851851855	0.8055555555555556	measures <-- diagnoses, affects, inv_complicates
+24.0	0.14814814814814814	0.26666666666666666	0.8	measures <-- diagnoses, inv_measures, affects
+24.0	0.14814814814814814	0.031496062992125984	0.8	measures <-- affects, inv_measures, affects
+31.0	0.19135802469135801	0.775	0.775	measures <-- measures, complicates, inv_isa

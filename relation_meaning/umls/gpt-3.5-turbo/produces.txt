@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "produces" typically indicates that a certain entity (such as a gene, protein, or enzyme) leads to the creation or synthesis of another entity (such as a molecule, product, or biological outcome).

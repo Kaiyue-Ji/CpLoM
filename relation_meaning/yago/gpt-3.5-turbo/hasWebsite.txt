@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasWebsite" indicates that a particular entity, such as an organization, business, or individual, possesses a web address (URL) that hosts its online presence or information.

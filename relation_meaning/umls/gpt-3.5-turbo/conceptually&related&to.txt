@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "conceptually&related&to" represents a connection between two entities or concepts that are linked by shared, fundamental ideas or principles, often highlighting similarities in their roles, functions, or underlying mechanisms within a biological or medical context.

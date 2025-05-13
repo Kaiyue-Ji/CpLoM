@@ -1,0 +1,190 @@
+17	0.0030886627906976743	0.08333333333333333	0.5151515151515151	wroteMusicFor <-- hasChild, inv_hasChild, created
+2	0.0003633720930232558	0.00014697236919459142	0.020618556701030927	wroteMusicFor <-- isAffiliatedTo, inv_isAffiliatedTo, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, worksAt
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, inv_hasWebsite, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasOfficialLanguage, inv_hasOfficialLanguage, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, inv_participatedIn, wroteMusicFor
+27	0.0049055232558139535	0.02474793767186068	0.7941176470588235	wroteMusicFor <-- graduatedFrom, inv_graduatedFrom, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- worksAt, edited, edited
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasGender, inv_hasGender, isKnownFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasOfficialLanguage, edited, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasMusicalRole, inv_hasMusicalRole
+0.0	0.0	0.0	0.0	wroteMusicFor <-- dealsWith, inv_dealsWith
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasMusicalRole, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCapital, isLocatedIn, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCapital, inv_hasCapital, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_isKnownFor, isKnownFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isKnownFor, inv_isKnownFor, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLeaderOf, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasOfficialLanguage, inv_hasOfficialLanguage, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isAffiliatedTo, hasMusicalRole, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, inv_participatedIn, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasAcademicAdvisor, inv_hasAcademicAdvisor
+5159	0.9373183139534884	0.04488233502979686	0.04488233502979686	wroteMusicFor <-- wroteMusicFor, inv_actedIn, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isAffiliatedTo, inv_isAffiliatedTo
+0.0	0.0	0.0	0.0	wroteMusicFor <-- livesIn, inv_livesIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isConnectedTo, inv_isConnectedTo, wroteMusicFor
+30	0.005450581395348837	0.001225840722428799	0.12048192771084337	wroteMusicFor <-- isCitizenOf, inv_isCitizenOf, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, hasMusicalRole, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- directed, inv_directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, created, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, hasMusicalRole
+1751	0.31813226744186046	0.0022726682760948005	0.012149934774764773	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, isKnownFor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, inv_hasWebsite, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, inv_owns
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isAffiliatedTo, directed, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasNeighbor, inv_hasNeighbor, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- diedIn, isKnownFor, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- graduatedFrom, wroteMusicFor
+4006	0.7278343023255814	1.2066351051164418e-05	0.0007495767959764604	wroteMusicFor <-- hasGender, inv_hasGender, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- playsFor, directed, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isPoliticianOf, directed, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isPoliticianOf, inv_isPoliticianOf
+687	0.12481831395348837	0.0062883870790579315	0.046510053483176494	wroteMusicFor <-- created, inv_actedIn, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- influences, inv_influences
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasGender, inv_hasGender, hasGender
+289	0.05250726744186047	0.8678678678678678	1.0	wroteMusicFor <-- isMarriedTo, inv_isMarriedTo, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- worksAt, inv_worksAt, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isConnectedTo, inv_isConnectedTo, created
+2439	0.44313226744186046	0.24784066659892287	0.24784066659892287	wroteMusicFor <-- wroteMusicFor, inv_created, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- influences, wroteMusicFor
+9	0.0016351744186046512	0.34615384615384615	0.75	wroteMusicFor <-- isLeaderOf, inv_isLeaderOf, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasNeighbor, inv_hasNeighbor, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- exports, inv_exports, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isInterestedIn, edited, wroteMusicFor
+11	0.001998546511627907	0.0007211696059791516	0.0738255033557047	wroteMusicFor <-- influences, inv_influences, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isPoliticianOf, inv_isPoliticianOf, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_isAffiliatedTo, isAffiliatedTo
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasOfficialLanguage, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCapital, inv_hasCapital
+384	0.06976744186046512	0.0008522462458996746	0.008521781584962607	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, created
+1676	0.30450581395348836	1.1186235537402173e-05	0.0006846041672623595	wroteMusicFor <-- hasGender, inv_hasGender, created
+889	0.1615188953488372	0.00030244874616453145	0.004634094214419383	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCurrency, inv_hasCurrency, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isPoliticianOf, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isAffiliatedTo, actedIn, inv_wroteMusicFor
+8	0.0014534883720930232	0.0024382810118866198	0.12121212121212122	wroteMusicFor <-- influences, inv_influences, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, inv_hasWebsite, directed
+68	0.012354651162790697	0.08947368421052632	0.37158469945355194	wroteMusicFor <-- influences, inv_influences, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isAffiliatedTo, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCurrency, inv_hasCurrency
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isKnownFor, inv_isKnownFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasOfficialLanguage, inv_hasOfficialLanguage
+1200	0.2180232558139535	0.0008442867817054312	0.006044700560645977	wroteMusicFor <-- hasMusicalRole, inv_hasMusicalRole, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isInterestedIn, inv_isInterestedIn, directed
+2894	0.5257994186046512	0.21635765550239233	0.21635765550239233	wroteMusicFor <-- wroteMusicFor, inv_directed, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_isPoliticianOf, isPoliticianOf
+70	0.012718023255813954	0.0002835982951691056	0.005548070064199096	wroteMusicFor <-- diedIn, inv_diedIn, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, graduatedFrom, wroteMusicFor
+1	0.0001816860465116279	0.006211180124223602	0.047619047619047616	wroteMusicFor <-- hasChild, inv_hasChild, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isConnectedTo, worksAt, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_hasGender, hasGender
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, influences, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isMarriedTo, inv_isMarriedTo
+56	0.010174418604651164	1.0	1.0	wroteMusicFor <-- isLeaderOf, inv_isLeaderOf, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, inv_owns, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLeaderOf, inv_isLeaderOf, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasChild, participatedIn, wroteMusicFor
+85	0.015443313953488372	0.03698868581375109	0.648854961832061	wroteMusicFor <-- livesIn, inv_livesIn, wroteMusicFor
+105	0.01907703488372093	1.0	1.0	wroteMusicFor <-- hasChild, inv_hasChild, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_isLocatedIn, isLocatedIn
+1962	0.35646802325581395	0.0038759919635395984	0.07541512915129152	wroteMusicFor <-- wasBornIn, inv_wasBornIn, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isPoliticianOf, inv_isPoliticianOf, wroteMusicFor
+8	0.0014534883720930232	0.0018626309662398137	0.5	wroteMusicFor <-- isAffiliatedTo, inv_isAffiliatedTo, wroteMusicFor
+1	0.0001816860465116279	5.960185957801883e-05	0.011494252873563218	wroteMusicFor <-- isAffiliatedTo, inv_isAffiliatedTo, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_wasBornIn, wasBornIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_isMarriedTo, isMarriedTo
+0.0	0.0	0.0	0.0	wroteMusicFor <-- graduatedFrom, inv_graduatedFrom
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, isLocatedIn
+31	0.005632267441860465	0.0033390779836277467	0.9117647058823529	wroteMusicFor <-- playsFor, inv_playsFor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- dealsWith, inv_dealsWith, wroteMusicFor
+2	0.0003633720930232558	0.2222222222222222	1.0	wroteMusicFor <-- worksAt, inv_worksAt, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, inv_participatedIn, wroteMusicFor
+68	0.012354651162790697	0.08947368421052632	0.37158469945355194	wroteMusicFor <-- influences, inv_influences, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- worksAt, inv_worksAt
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLeaderOf, inv_isLeaderOf
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, inv_owns, directed
+506	0.09193313953488372	5.2854183351162045e-05	0.0004892888293232923	wroteMusicFor <-- hasWonPrize, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, participatedIn, participatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isInterestedIn, inv_isInterestedIn, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- imports, inv_imports, wroteMusicFor
+3	0.0005450581395348837	0.047619047619047616	0.06818181818181818	wroteMusicFor <-- hasChild, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCapital, isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLeaderOf, hasWonPrize, directed
+3093	0.5619549418604651	0.0006037062056820993	0.0006037062056820993	wroteMusicFor <-- wroteMusicFor, isLocatedIn, inv_isLocatedIn
+1109	0.20148982558139536	1.4431872361970202e-05	0.000883548470879549	wroteMusicFor <-- hasGender, inv_hasGender, edited
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, inv_participatedIn, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasGender, inv_hasGender, isInterestedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLeaderOf, worksAt, hasMusicalRole
+2023	0.36755087209302323	1.3139370163154605e-05	0.0008023823179210881	wroteMusicFor <-- hasGender, inv_hasGender, directed
+413	0.07503633720930232	2.107475214586137e-05	0.000587645221647541	wroteMusicFor <-- diedIn, isLocatedIn, inv_isLocatedIn
+119	0.02162063953488372	0.5107296137339056	0.967479674796748	wroteMusicFor <-- directed, inv_directed, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, directed, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- imports, inv_imports
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLocatedIn, inv_isLocatedIn, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isCitizenOf, inv_isCitizenOf
+0.0	0.0	0.0	0.0	wroteMusicFor <-- worksAt, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, participatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasGender, inv_hasGender, worksAt
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasNeighbor, isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasOfficialLanguage, inv_hasOfficialLanguage, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasChild, hasGender, directed
+5388	0.9789244186046512	0.3346791726194174	0.3346791726194174	wroteMusicFor <-- wroteMusicFor, inv_wroteMusicFor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasNeighbor, inv_hasNeighbor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, hasWonPrize
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCurrency, inv_hasCurrency, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCurrency, isLocatedIn, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- exports, inv_exports
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, inv_diedIn, diedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isConnectedTo, inv_isConnectedTo
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasChild, inv_hasChild
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isInterestedIn, inv_isInterestedIn
+25	0.004542151162790698	5.956544860883704e-06	0.000307639299074621	wroteMusicFor <-- livesIn, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- wroteMusicFor, actedIn
+646	0.11736918604651163	0.20946822308690013	0.20946822308690013	wroteMusicFor <-- wroteMusicFor, inv_directed, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isKnownFor, inv_isKnownFor, created
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isKnownFor, inv_isKnownFor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- influences, hasWonPrize, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- worksAt, inv_worksAt, created
+602	0.109375	0.0036062588359331944	0.06352891515407345	wroteMusicFor <-- diedIn, inv_diedIn, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, hasWonPrize, actedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- owns, inv_owns, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasNeighbor, inv_hasNeighbor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- influences, worksAt, hasMusicalRole
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isLeaderOf, directed
+899	0.1633357558139535	1.7136467661255306e-05	0.0006284313821436011	wroteMusicFor <-- wasBornIn, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isConnectedTo, inv_isConnectedTo, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isPoliticianOf, inv_isPoliticianOf, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- diedIn, inv_diedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- influences, graduatedFrom, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasWebsite, inv_hasWebsite
+70	0.012718023255813954	0.00023274681136868425	0.004488905989483135	wroteMusicFor <-- diedIn, inv_diedIn, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- edited, inv_edited
+264	0.04796511627906977	0.000607005394070661	0.009471191791633781	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, directed
+0.0	0.0	0.0	0.0	wroteMusicFor <-- participatedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	wroteMusicFor <-- isKnownFor, wroteMusicFor
+0.0	0.0	0.0	0.0	wroteMusicFor <-- hasCurrency, inv_hasCurrency, directed
+2439.0	0.44313226744186046	0.24784066659892287	0.24784066659892287	wroteMusicFor <-- wroteMusicFor, inv_created, created
+2894.0	0.5257994186046512	0.21635765550239233	0.21635765550239233	wroteMusicFor <-- wroteMusicFor, inv_directed, directed
+646.0	0.11736918604651163	0.20946822308690013	0.20946822308690013	wroteMusicFor <-- wroteMusicFor, inv_directed, created
+687.0	0.12481831395348837	0.0062883870790579315	0.046510053483176494	wroteMusicFor <-- created, inv_actedIn, actedIn
+5159.0	0.9373183139534884	0.04488233502979686	0.04488233502979686	wroteMusicFor <-- wroteMusicFor, inv_actedIn, actedIn
+1751.0	0.31813226744186046	0.0022726682760948005	0.012149934774764773	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, wroteMusicFor
+264.0	0.04796511627906977	0.000607005394070661	0.009471191791633781	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, directed
+384.0	0.06976744186046512	0.0008522462458996746	0.008521781584962607	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, created
+889.0	0.1615188953488372	0.00030244874616453145	0.004634094214419383	wroteMusicFor <-- hasWonPrize, inv_hasWonPrize, actedIn
+1109.0	0.20148982558139536	1.4431872361970202e-05	0.000883548470879549	wroteMusicFor <-- hasGender, inv_hasGender, edited
+2023.0	0.36755087209302323	1.3139370163154605e-05	0.0008023823179210881	wroteMusicFor <-- hasGender, inv_hasGender, directed
+4006.0	0.7278343023255814	1.2066351051164418e-05	0.0007495767959764604	wroteMusicFor <-- hasGender, inv_hasGender, actedIn
+1676.0	0.30450581395348836	1.1186235537402173e-05	0.0006846041672623595	wroteMusicFor <-- hasGender, inv_hasGender, created
+899.0	0.1633357558139535	1.7136467661255306e-05	0.0006284313821436011	wroteMusicFor <-- wasBornIn, isLocatedIn, inv_isLocatedIn
+3093.0	0.5619549418604651	0.0006037062056820993	0.0006037062056820993	wroteMusicFor <-- wroteMusicFor, isLocatedIn, inv_isLocatedIn
+413.0	0.07503633720930232	2.107475214586137e-05	0.000587645221647541	wroteMusicFor <-- diedIn, isLocatedIn, inv_isLocatedIn
+506.0	0.09193313953488372	5.2854183351162045e-05	0.0004892888293232923	wroteMusicFor <-- hasWonPrize, isLocatedIn, inv_isLocatedIn

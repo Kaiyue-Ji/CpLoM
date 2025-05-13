@@ -1,0 +1,491 @@
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, imports
+2	0.1111111111111111	0.008733624454148471	0.008733624454148471	isKnownFor <-- isKnownFor, participatedIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_edited, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_dealsWith, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasCapital, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isInterestedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, worksAt
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, participatedIn, happenedIn
+1	0.05555555555555555	0.0008278145695364238	0.1111111111111111	isKnownFor <-- inv_influences, isCitizenOf
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isAffiliatedTo, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wasBornIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWonPrize, isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCurrency, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, wroteMusicFor
+0.0	0.0	0.0	0.0	isKnownFor <-- diedIn, inv_isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- hasChild, isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasOfficialLanguage, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isConnectedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasGender, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- graduatedFrom
+1	0.05555555555555555	1.3770984398163227e-07	0.0008748906386701663	isKnownFor <-- hasGender, inv_hasGender, isCitizenOf
+0.0	0.0	0.0	0.0	isKnownFor <-- playsFor, isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isLeaderOf
+0.0	0.0	0.0	0.0	isKnownFor <-- livesIn
+0.0	0.0	0.0	0.0	isKnownFor <-- playsFor, isLocatedIn
+2	0.1111111111111111	0.01020408163265306	0.01020408163265306	isKnownFor <-- isKnownFor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCapital, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_edited, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasAcademicAdvisor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isLeaderOf
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasChild, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_exports, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isConnectedTo, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, edited
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLocatedIn, inv_hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- imports, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWonPrize, isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isMarriedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWonPrize, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isAffiliatedTo, isKnownFor
+1	0.05555555555555555	0.0004752851711026616	0.14285714285714285	isKnownFor <-- isPoliticianOf, inv_isPoliticianOf, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- participatedIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, actedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, playsFor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isMarriedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasChild, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- happenedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, directed
+1	0.05555555555555555	0.05263157894736842	0.05263157894736842	isKnownFor <-- isKnownFor, inv_dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_worksAt, inv_isLocatedIn
+1	0.05555555555555555	1.0173012422265468e-06	0.0037593984962406013	isKnownFor <-- wasBornIn, inv_diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- diedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, exports
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, inv_wasBornIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isLeaderOf, inv_isLeaderOf
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wasBornIn, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- wroteMusicFor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasChild, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasAcademicAdvisor
+2	0.1111111111111111	0.003898635477582846	0.18181818181818182	isKnownFor <-- inv_hasAcademicAdvisor, inv_influences, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasMusicalRole
+1	0.05555555555555555	0.09090909090909091	0.09090909090909091	isKnownFor <-- isKnownFor, hasCapital, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_owns, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasOfficialLanguage
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_actedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWebsite, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, graduatedFrom
+0.0	0.0	0.0	0.0	isKnownFor <-- hasGender
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, edited
+0.0	0.0	0.0	0.0	isKnownFor <-- wroteMusicFor, isLocatedIn
+2	0.1111111111111111	0.013157894736842105	0.013157894736842105	isKnownFor <-- isKnownFor, inv_happenedIn, inv_participatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWebsite, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_diedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasMusicalRole, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWonPrize, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, inv_actedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- wasBornIn, isLocatedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_worksAt, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCurrency, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- diedIn, isLocatedIn
+2	0.1111111111111111	0.07407407407407407	0.07407407407407407	isKnownFor <-- isKnownFor, hasNeighbor, dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_actedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isCitizenOf
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasGender, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_influences, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_graduatedFrom, influences
+3	0.16666666666666666	0.000307723869114781	0.013043478260869565	isKnownFor <-- influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasMusicalRole
+1	0.05555555555555555	5.566348086011211e-06	0.030303030303030304	isKnownFor <-- wasBornIn, isLocatedIn, dealsWith
+5	0.2777777777777778	4.06124355277586e-05	0.0025458248472505093	isKnownFor <-- influences, influences, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_graduatedFrom, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- worksAt, hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_imports, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_livesIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, owns
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_imports, inv_isLocatedIn
+6	0.3333333333333333	0.00017231971050288636	0.0093603744149766	isKnownFor <-- influences, inv_influences
+1	0.05555555555555555	1.3424981205026313e-05	0.0013333333333333333	isKnownFor <-- inv_influences, inv_influences, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- participatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_created, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, wroteMusicFor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isConnectedTo, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, hasGender
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_directed, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWonPrize, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_worksAt
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_diedIn, isLocatedIn
+2	0.1111111111111111	1.0332126196589366e-05	0.0008019246190858059	isKnownFor <-- influences, wasBornIn, inv_diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isInterestedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasAcademicAdvisor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_directed, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- worksAt
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_worksAt, inv_hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- graduatedFrom, hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- worksAt, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasWonPrize
+0.0	0.0	0.0	0.0	isKnownFor <-- directed, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, created
+0.0	0.0	0.0	0.0	isKnownFor <-- livesIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isPoliticianOf, diedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wasBornIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasOfficialLanguage, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_livesIn, inv_isLocatedIn
+2	0.1111111111111111	3.812339857898844e-08	0.0006572461386789353	isKnownFor <-- wasBornIn, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wasBornIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasGender, inv_hasGender
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isAffiliatedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isLocatedIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isAffiliatedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_actedIn, happenedIn
+1	0.05555555555555555	0.0045871559633027525	0.125	isKnownFor <-- isInterestedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- participatedIn, influences
+1	0.05555555555555555	1.718272105570638e-05	0.06666666666666667	isKnownFor <-- wasBornIn, isLocatedIn, inv_hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isMarriedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, directed
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_graduatedFrom, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_influences, inv_happenedIn
+1	0.05555555555555555	0.09090909090909091	0.09090909090909091	isKnownFor <-- isKnownFor, dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasGender, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isLocatedIn, hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- isCitizenOf, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isPoliticianOf, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCapital
+1	0.05555555555555555	1.2534155573938984e-06	0.0025380710659898475	isKnownFor <-- wasBornIn, inv_diedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- imports, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isPoliticianOf
+2	0.1111111111111111	0.00030120481927710846	0.010416666666666666	isKnownFor <-- influences, isAffiliatedTo, inv_isAffiliatedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLeaderOf
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_edited, inv_isLocatedIn
+6	0.3333333333333333	5.830790460826806e-05	0.0033351862145636463	isKnownFor <-- inv_influences, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isLeaderOf, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasMusicalRole, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasCapital, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasGender, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- actedIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLocatedIn, hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- isConnectedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- hasMusicalRole, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_directed, isLocatedIn
+1	0.05555555555555555	3.0175015087507542e-05	0.08333333333333333	isKnownFor <-- wasBornIn, inv_happenedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isCitizenOf
+0.0	0.0	0.0	0.0	isKnownFor <-- graduatedFrom, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- actedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_happenedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isInterestedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isLeaderOf, hasCapital, inv_hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWebsite, inv_isLocatedIn
+5	0.2777777777777778	5.257512986057075e-05	0.003869969040247678	isKnownFor <-- influences, inv_influences, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isConnectedTo, influences
+5	0.2777777777777778	6.662040723242866e-08	0.0004177109440267335	isKnownFor <-- hasGender, inv_hasGender, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasNeighbor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_worksAt, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isMarriedTo, inv_isLocatedIn
+2	0.1111111111111111	0.010638297872340425	0.010638297872340425	isKnownFor <-- isKnownFor, inv_influences, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasWebsite
+0.0	0.0	0.0	0.0	isKnownFor <-- isLocatedIn, hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWonPrize, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- wroteMusicFor, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isLeaderOf, isLocatedIn
+1	0.05555555555555555	3.951632024025923e-05	0.0030864197530864196	isKnownFor <-- inv_influences, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, owns
+2	0.1111111111111111	0.046511627906976744	0.046511627906976744	isKnownFor <-- isKnownFor, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- actedIn, isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, exports
+0.0	0.0	0.0	0.0	isKnownFor <-- hasChild
+1	0.05555555555555555	0.0002847380410022779	0.008620689655172414	isKnownFor <-- influences, isPoliticianOf, inv_isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- exports, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isMarriedTo, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- edited, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, created
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasOfficialLanguage
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isCitizenOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasChild, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasNeighbor, isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- owns
+0.0	0.0	0.0	0.0	isKnownFor <-- worksAt, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_actedIn, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, participatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isConnectedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, happenedIn
+1	0.05555555555555555	6.045254777262588e-06	0.004608294930875576	isKnownFor <-- diedIn, inv_diedIn, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_actedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isMarriedTo, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_owns, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_participatedIn, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isInterestedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- happenedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasNeighbor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isPoliticianOf, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- wasBornIn
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_created, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasChild, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isCitizenOf, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasOfficialLanguage
+0.0	0.0	0.0	0.0	isKnownFor <-- isPoliticianOf, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isCitizenOf, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- playsFor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, imports
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLeaderOf, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasOfficialLanguage, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasOfficialLanguage, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- imports, isLocatedIn
+1	0.05555555555555555	1.0856902764493151e-06	0.00046446818392940084	isKnownFor <-- diedIn, inv_isLocatedIn, inv_isAffiliatedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, inv_dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isPoliticianOf, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_playsFor, inv_isLocatedIn
+1	0.05555555555555555	8.17402165134855e-07	0.25	isKnownFor <-- isAffiliatedTo, isLocatedIn, inv_diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, participatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWebsite
+0.0	0.0	0.0	0.0	isKnownFor <-- isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCurrency, hasOfficialLanguage
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_playsFor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasGender
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wroteMusicFor, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasCapital, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasNeighbor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wasBornIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isConnectedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCapital, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasAcademicAdvisor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_dealsWith, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, actedIn
+4	0.2222222222222222	0.36363636363636365	1.0	isKnownFor <-- inv_isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- graduatedFrom, influences
+1	0.05555555555555555	0.03125	0.03125	isKnownFor <-- isKnownFor, inv_isLocatedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_dealsWith, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isAffiliatedTo, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- wasBornIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- playsFor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasGender, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isLeaderOf
+0.0	0.0	0.0	0.0	isKnownFor <-- isCitizenOf
+0.0	0.0	0.0	0.0	isKnownFor <-- owns, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasChild
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasWebsite
+0.0	0.0	0.0	0.0	isKnownFor <-- isConnectedTo, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasAcademicAdvisor, isLocatedIn
+3	0.16666666666666666	1.472132531184674e-05	0.0006705409029950827	isKnownFor <-- influences, diedIn, inv_diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- directed, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWonPrize, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- livesIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasOfficialLanguage, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWebsite, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasMusicalRole, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- influences, isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- wasBornIn, influences
+1	0.05555555555555555	4.877622166997784e-08	0.0003077870113881194	isKnownFor <-- hasGender, inv_hasGender, isLeaderOf
+0.0	0.0	0.0	0.0	isKnownFor <-- isConnectedTo, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isAffiliatedTo, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- exports, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_playsFor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_happenedIn, inv_isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasAcademicAdvisor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- created, influences
+2	0.1111111111111111	0.2857142857142857	0.2857142857142857	isKnownFor <-- isKnownFor, isKnownFor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasCurrency, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasChild, inv_livesIn
+0.0	0.0	0.0	0.0	isKnownFor <-- dealsWith, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_livesIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_exports, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isMarriedTo, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasGender, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWonPrize, isKnownFor
+1	0.05555555555555555	0.00010091835704914725	0.014705882352941176	isKnownFor <-- wasBornIn, participatedIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- actedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, worksAt
+0.0	0.0	0.0	0.0	isKnownFor <-- edited, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_participatedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isPoliticianOf, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- edited, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- edited, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasAcademicAdvisor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_imports, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- exports, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_happenedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- exports, hasCurrency
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasMusicalRole, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isCitizenOf
+1	0.05555555555555555	4.807337047795695e-10	2.986938119602976e-06	isKnownFor <-- hasGender, inv_hasGender
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_created, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wroteMusicFor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isPoliticianOf, inv_isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- hasCurrency, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isAffiliatedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_participatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- hasNeighbor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- diedIn, inv_hasOfficialLanguage
+0.0	0.0	0.0	0.0	isKnownFor <-- hasChild, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasCurrency, inv_isLocatedIn
+1	0.05555555555555555	0.006666666666666667	0.5	isKnownFor <-- influences, hasChild, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasWonPrize
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasWebsite
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, playsFor
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWebsite, hasOfficialLanguage
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasOfficialLanguage
+1	0.05555555555555555	9.901578311582867e-06	0.25	isKnownFor <-- isPoliticianOf, hasCapital, inv_diedIn
+1	0.05555555555555555	1.1602812521755273e-05	0.043478260869565216	isKnownFor <-- wasBornIn, isLocatedIn, hasNeighbor
+0.0	0.0	0.0	0.0	isKnownFor <-- isLocatedIn, influences
+6	0.3333333333333333	0.011904761904761904	0.011904761904761904	isKnownFor <-- isKnownFor, influences, inv_influences
+1	0.05555555555555555	0.0034129692832764505	0.007633587786259542	isKnownFor <-- inv_isKnownFor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isAffiliatedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- isPoliticianOf, inv_isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- dealsWith, influences
+6	0.3333333333333333	1.793609369815348e-05	0.001477832512315271	isKnownFor <-- inv_influences, inv_influences, influences
+1	0.05555555555555555	6.928005346203166e-08	0.00043572984749455336	isKnownFor <-- hasGender, inv_hasGender, isPoliticianOf
+0.0	0.0	0.0	0.0	isKnownFor <-- created, isLocatedIn
+2	0.1111111111111111	0.0018604651162790699	0.058823529411764705	isKnownFor <-- isInterestedIn, inv_isInterestedIn, isInterestedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isCitizenOf, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- worksAt, hasOfficialLanguage, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, livesIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_diedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWebsite, inv_actedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- created, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasCurrency, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWonPrize, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_exports, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- actedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, graduatedFrom
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLocatedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isInterestedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- wasBornIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isAffiliatedTo, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- playsFor
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWebsite, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasCapital
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLeaderOf, influences
+1	0.05555555555555555	0.02702702702702703	0.02702702702702703	isKnownFor <-- isKnownFor, participatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- dealsWith
+0.0	0.0	0.0	0.0	isKnownFor <-- isLeaderOf, inv_isLocatedIn
+1	0.05555555555555555	0.1111111111111111	0.1111111111111111	isKnownFor <-- isKnownFor, wasBornIn, inv_diedIn
+6	0.3333333333333333	1.796541657309679e-05	0.0014587892049598833	isKnownFor <-- influences, inv_influences, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasMusicalRole, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasNeighbor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_wroteMusicFor, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isMarriedTo, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_participatedIn, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isKnownFor, hasChild
+0.0	0.0	0.0	0.0	isKnownFor <-- directed, isLocatedIn
+1	0.05555555555555555	8.946944618412812e-05	0.014285714285714285	isKnownFor <-- inv_influences, wasBornIn, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, diedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- directed, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_edited, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- wroteMusicFor, hasMusicalRole
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_hasGender
+2	0.1111111111111111	6.3202935144308105e-06	0.011428571428571429	isKnownFor <-- wasBornIn, inv_diedIn, inv_influences
+3	0.16666666666666666	0.0004591368227731864	0.039473684210526314	isKnownFor <-- inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_owns, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- owns, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- isAffiliatedTo, inv_influences
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWebsite, isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, livesIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasAcademicAdvisor
+0.0	0.0	0.0	0.0	isKnownFor <-- isInterestedIn, influences
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_directed, happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- wroteMusicFor
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_directed, inv_happenedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isLeaderOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- dealsWith, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- isCitizenOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isAffiliatedTo
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isKnownFor, hasGender
+4	0.2222222222222222	0.0031821797931583136	0.0031821797931583136	isKnownFor <-- isKnownFor, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_isInterestedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- inv_participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	isKnownFor <-- hasWonPrize
+0.0	0.0	0.0	0.0	isKnownFor <-- isInterestedIn, hasMusicalRole
+4.0	0.2222222222222222	0.36363636363636365	1.0	isKnownFor <-- inv_isKnownFor
+1.0	0.05555555555555555	0.006666666666666667	0.5	isKnownFor <-- influences, hasChild, inv_influences
+2.0	0.1111111111111111	0.4	0.4	isKnownFor <-- isKnownFor, hasCapital, inv_hasCapital
+1.0	0.05555555555555555	9.901578311582867e-06	0.25	isKnownFor <-- isPoliticianOf, hasCapital, inv_diedIn
+1.0	0.05555555555555555	8.17402165134855e-07	0.25	isKnownFor <-- isAffiliatedTo, isLocatedIn, inv_diedIn
+1.0	0.05555555555555555	2.7285874102976888e-06	0.2	isKnownFor <-- isPoliticianOf, inv_isLocatedIn, inv_diedIn
+2.0	0.1111111111111111	0.003898635477582846	0.18181818181818182	isKnownFor <-- inv_hasAcademicAdvisor, inv_influences, inv_influences
+1.0	0.05555555555555555	0.0004752851711026616	0.14285714285714285	isKnownFor <-- isPoliticianOf, inv_isPoliticianOf, inv_influences
+1.0	0.05555555555555555	0.0045871559633027525	0.125	isKnownFor <-- isInterestedIn
+1.0	0.05555555555555555	0.00117096018735363	0.125	isKnownFor <-- wasBornIn, participatedIn, isLocatedIn
+2.0	0.1111111111111111	0.125	0.125	isKnownFor <-- isKnownFor, inv_hasNeighbor, dealsWith
+1.0	0.05555555555555555	0.0008278145695364238	0.1111111111111111	isKnownFor <-- inv_influences, isCitizenOf
+1.0	0.05555555555555555	0.1111111111111111	0.1111111111111111	isKnownFor <-- isKnownFor, wasBornIn, inv_diedIn
+2.0	0.1111111111111111	0.10526315789473684	0.10526315789473684	isKnownFor <-- isKnownFor, inv_isLocatedIn, happenedIn
+1.0	0.05555555555555555	0.0011547344110854503	0.1	isKnownFor <-- inv_hasAcademicAdvisor, influences, inv_influences
+1.0	0.05555555555555555	0.09090909090909091	0.09090909090909091	isKnownFor <-- isKnownFor, dealsWith
+1.0	0.05555555555555555	0.09090909090909091	0.09090909090909091	isKnownFor <-- isKnownFor, hasCapital, isLocatedIn
+1.0	0.05555555555555555	3.0175015087507542e-05	0.08333333333333333	isKnownFor <-- wasBornIn, inv_happenedIn, isLocatedIn
+2.0	0.1111111111111111	0.07407407407407407	0.07407407407407407	isKnownFor <-- isKnownFor, hasNeighbor, dealsWith
+1.0	0.05555555555555555	1.718272105570638e-05	0.06666666666666667	isKnownFor <-- wasBornIn, isLocatedIn, inv_hasNeighbor
+2.0	0.1111111111111111	0.0018604651162790699	0.058823529411764705	isKnownFor <-- isInterestedIn, inv_isInterestedIn, isInterestedIn
+1.0	0.05555555555555555	0.05263157894736842	0.05263157894736842	isKnownFor <-- isKnownFor, inv_dealsWith
+2.0	0.1111111111111111	0.046511627906976744	0.046511627906976744	isKnownFor <-- isKnownFor, inv_influences
+2.0	0.1111111111111111	0.045454545454545456	0.045454545454545456	isKnownFor <-- isKnownFor, inv_dealsWith, dealsWith
+1.0	0.05555555555555555	1.1602812521755273e-05	0.043478260869565216	isKnownFor <-- wasBornIn, isLocatedIn, hasNeighbor
+1.0	0.05555555555555555	0.043478260869565216	0.043478260869565216	isKnownFor <-- isKnownFor, inv_dealsWith, inv_hasNeighbor
+3.0	0.16666666666666666	0.0004591368227731864	0.039473684210526314	isKnownFor <-- inv_influences
+6.0	0.3333333333333333	5.3136656854097365e-06	0.03333333333333333	isKnownFor <-- hasGender, inv_hasGender, isInterestedIn
+1.0	0.05555555555555555	0.03125	0.03125	isKnownFor <-- isKnownFor, inv_isLocatedIn, inv_hasCapital
+1.0	0.05555555555555555	5.566348086011211e-06	0.030303030303030304	isKnownFor <-- wasBornIn, isLocatedIn, dealsWith
+1.0	0.05555555555555555	0.030303030303030304	0.030303030303030304	isKnownFor <-- isKnownFor, inv_dealsWith, hasNeighbor
+1.0	0.05555555555555555	0.02702702702702703	0.02702702702702703	isKnownFor <-- isKnownFor, participatedIn, isLocatedIn
+1.0	0.05555555555555555	0.00030921459492888067	0.025	isKnownFor <-- inv_influences, isCitizenOf, dealsWith
+1.0	0.05555555555555555	0.00010091835704914725	0.014705882352941176	isKnownFor <-- wasBornIn, participatedIn, happenedIn
+1.0	0.05555555555555555	8.946944618412812e-05	0.014285714285714285	isKnownFor <-- inv_influences, wasBornIn, isLocatedIn
+1.0	0.05555555555555555	1.9813750743015655e-05	0.014084507042253521	isKnownFor <-- diedIn, inv_hasCapital, inv_isPoliticianOf
+3.0	0.16666666666666666	0.013888888888888888	0.013888888888888888	isKnownFor <-- isKnownFor, inv_happenedIn, happenedIn
+1.0	0.05555555555555555	8.554759012438619e-06	0.013513513513513514	isKnownFor <-- wasBornIn, inv_happenedIn, happenedIn
+2.0	0.1111111111111111	0.013157894736842105	0.013157894736842105	isKnownFor <-- isKnownFor, inv_happenedIn, inv_participatedIn
+3.0	0.16666666666666666	0.000307723869114781	0.013043478260869565	isKnownFor <-- influences
+6.0	0.3333333333333333	0.011904761904761904	0.011904761904761904	isKnownFor <-- isKnownFor, influences, inv_influences
+2.0	0.1111111111111111	6.3202935144308105e-06	0.011428571428571429	isKnownFor <-- wasBornIn, inv_diedIn, inv_influences
+2.0	0.1111111111111111	0.010638297872340425	0.010638297872340425	isKnownFor <-- isKnownFor, inv_influences, inv_influences
+2.0	0.1111111111111111	0.00030120481927710846	0.010416666666666666	isKnownFor <-- influences, isAffiliatedTo, inv_isAffiliatedTo
+2.0	0.1111111111111111	0.01020408163265306	0.01020408163265306	isKnownFor <-- isKnownFor, influences
+6.0	0.3333333333333333	0.00017231971050288636	0.0093603744149766	isKnownFor <-- influences, inv_influences
+1.0	0.05555555555555555	2.0885983416529167e-06	0.009345794392523364	isKnownFor <-- diedIn, isLocatedIn, inv_isPoliticianOf
+2.0	0.1111111111111111	0.008733624454148471	0.008733624454148471	isKnownFor <-- isKnownFor, participatedIn, happenedIn
+1.0	0.05555555555555555	0.0002847380410022779	0.008620689655172414	isKnownFor <-- influences, isPoliticianOf, inv_isPoliticianOf
+1.0	0.05555555555555555	0.0034129692832764505	0.007633587786259542	isKnownFor <-- inv_isKnownFor, influences
+1.0	0.05555555555555555	6.045254777262588e-06	0.004608294930875576	isKnownFor <-- diedIn, inv_diedIn, inv_influences
+5.0	0.2777777777777778	5.257512986057075e-05	0.003869969040247678	isKnownFor <-- influences, inv_influences, inv_influences
+1.0	0.05555555555555555	1.0173012422265468e-06	0.0037593984962406013	isKnownFor <-- wasBornIn, inv_diedIn
+2.0	0.1111111111111111	2.916697656579268e-06	0.00375234521575985	isKnownFor <-- diedIn, inv_diedIn
+6.0	0.3333333333333333	5.830790460826806e-05	0.0033351862145636463	isKnownFor <-- inv_influences, influences
+4.0	0.2222222222222222	0.0031821797931583136	0.0031821797931583136	isKnownFor <-- isKnownFor, isLocatedIn, inv_isLocatedIn
+1.0	0.05555555555555555	3.951632024025923e-05	0.0030864197530864196	isKnownFor <-- inv_influences, inv_influences
+5.0	0.2777777777777778	4.06124355277586e-05	0.0025458248472505093	isKnownFor <-- influences, influences, inv_influences
+1.0	0.05555555555555555	1.2534155573938984e-06	0.0025380710659898475	isKnownFor <-- wasBornIn, inv_diedIn, influences
+5.0	0.2777777777777778	2.041399583554485e-05	0.0015060240963855422	isKnownFor <-- inv_influences, influences, inv_influences
+6.0	0.3333333333333333	1.793609369815348e-05	0.001477832512315271	isKnownFor <-- inv_influences, inv_influences, influences
+6.0	0.3333333333333333	1.796541657309679e-05	0.0014587892049598833	isKnownFor <-- influences, inv_influences, influences
+1.0	0.05555555555555555	1.3424981205026313e-05	0.0013333333333333333	isKnownFor <-- inv_influences, inv_influences, inv_influences
+1.0	0.05555555555555555	1.3770984398163227e-07	0.0008748906386701663	isKnownFor <-- hasGender, inv_hasGender, isCitizenOf
+6.0	0.3333333333333333	1.4025409366635888e-05	0.0008145533532446375	isKnownFor <-- inv_influences, influences, influences
+2.0	0.1111111111111111	1.0332126196589366e-05	0.0008019246190858059	isKnownFor <-- influences, wasBornIn, inv_diedIn
+3.0	0.16666666666666666	1.472132531184674e-05	0.0006705409029950827	isKnownFor <-- influences, diedIn, inv_diedIn
+2.0	0.1111111111111111	3.812339857898844e-08	0.0006572461386789353	isKnownFor <-- wasBornIn, isLocatedIn, inv_isLocatedIn
+1.0	0.05555555555555555	1.0856902764493151e-06	0.00046446818392940084	isKnownFor <-- diedIn, inv_isLocatedIn, inv_isAffiliatedTo
+1.0	0.05555555555555555	6.928005346203166e-08	0.00043572984749455336	isKnownFor <-- hasGender, inv_hasGender, isPoliticianOf
+5.0	0.2777777777777778	6.662040723242866e-08	0.0004177109440267335	isKnownFor <-- hasGender, inv_hasGender, inv_influences
+1.0	0.05555555555555555	4.877622166997784e-08	0.0003077870113881194	isKnownFor <-- hasGender, inv_hasGender, isLeaderOf
+5.0	0.2777777777777778	4.2809632115854506e-08	0.0002664535038635758	isKnownFor <-- hasGender, inv_hasGender, influences
+1.0	0.05555555555555555	3.62838527892976e-08	0.00023004370830457787	isKnownFor <-- hasGender, inv_hasGender, livesIn
+3.0	0.16666666666666666	4.154814078509949e-08	8.636200071968334e-06	isKnownFor <-- influences, hasGender, inv_hasGender
+3.0	0.16666666666666666	3.8599478150495196e-08	6.67357752695013e-06	isKnownFor <-- inv_influences, hasGender, inv_hasGender

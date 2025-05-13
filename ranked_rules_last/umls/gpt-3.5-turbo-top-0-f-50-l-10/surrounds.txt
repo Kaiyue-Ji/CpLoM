@@ -1,0 +1,144 @@
+1	0.14285714285714285	0.04	1.0	surrounds <-- inv_part&of, inv_developmental&form&of, inv_surrounds
+3	0.42857142857142855	1.0	1.0	surrounds <-- inv_surrounds, inv_part&of, surrounds
+1	0.14285714285714285	0.5	1.0	surrounds <-- inv_surrounds, inv_location&of, surrounds
+1	0.14285714285714285	1.0	1.0	surrounds <-- inv_derivative&of, inv_location&of
+1	0.14285714285714285	0.09090909090909091	1.0	surrounds <-- inv_location&of, adjacent&to, consists&of
+1	0.14285714285714285	1.0	1.0	surrounds <-- interconnects, location&of, derivative&of
+7	1.0	1.0	1.0	surrounds <-- surrounds
+2	0.2857142857142857	0.05555555555555555	1.0	surrounds <-- produces, inv_contains, interconnects
+1	0.14285714285714285	0.5	1.0	surrounds <-- inv_surrounds, interconnects
+2	0.2857142857142857	0.6666666666666666	0.6666666666666666	surrounds <-- surrounds, inv_contains, interconnects
+1	0.14285714285714285	0.2	0.5	surrounds <-- location&of, inv_connected&to, surrounds
+1	0.14285714285714285	0.05	0.5	surrounds <-- produces, inv_produces, interconnects
+1	0.14285714285714285	0.05	0.5	surrounds <-- produces, disrupts, contains
+1	0.14285714285714285	0.25	0.5	surrounds <-- isa, contains
+6	0.8571428571428571	0.09523809523809523	0.375	surrounds <-- location&of, inv_location&of, surrounds
+3	0.42857142857142855	0.23076923076923078	0.375	surrounds <-- conceptual&part&of, inv_conceptual&part&of, surrounds
+6	0.8571428571428571	0.1875	0.375	surrounds <-- contains, inv_contains, surrounds
+3	0.42857142857142855	0.1	0.3333333333333333	surrounds <-- part&of, inv_location&of, connected&to
+1	0.14285714285714285	0.3333333333333333	0.3333333333333333	surrounds <-- surrounds, surrounds, surrounds
+1	0.14285714285714285	0.012345679012345678	0.3333333333333333	surrounds <-- inv_location&of, inv_location&of, inv_surrounds
+1	0.14285714285714285	0.011111111111111112	0.3333333333333333	surrounds <-- produces, part&of, inv_part&of
+2	0.2857142857142857	0.3333333333333333	0.3333333333333333	surrounds <-- inv_connected&to, connected&to, inv_part&of
+3	0.42857142857142855	0.07142857142857142	0.3333333333333333	surrounds <-- inv_disrupts, inv_produces, connected&to
+1	0.14285714285714285	0.1	0.3333333333333333	surrounds <-- part&of, inv_location&of, interconnects
+1	0.14285714285714285	0.07142857142857142	0.3333333333333333	surrounds <-- inv_disrupts, inv_interacts&with, inv_consists&of
+2	0.2857142857142857	0.025974025974025976	0.2857142857142857	surrounds <-- inv_location&of, adjacent&to, inv_location&of
+1	0.14285714285714285	0.08333333333333333	0.25	surrounds <-- location&of, inv_causes, inv_surrounds
+1	0.14285714285714285	0.08333333333333333	0.25	surrounds <-- location&of, produces, contains
+1	0.14285714285714285	0.25	0.25	surrounds <-- inv_surrounds, inv_part&of, inv_location&of
+1	0.14285714285714285	0.01	0.25	surrounds <-- inv_location&of, inv_part&of, inv_location&of
+3	0.42857142857142855	0.125	0.25	surrounds <-- contains, inv_location&of, inv_location&of
+1	0.14285714285714285	0.16666666666666666	0.25	surrounds <-- inv_surrounds, inv_surrounds, surrounds
+2	0.2857142857142857	0.013888888888888888	0.25	surrounds <-- produces, inv_contains
+1	0.14285714285714285	0.25	0.25	surrounds <-- surrounds, isa, contains
+4	0.5714285714285714	0.047619047619047616	0.2222222222222222	surrounds <-- inv_disrupts, inv_assesses&effect&of, inv_location&of
+2	0.2857142857142857	0.2222222222222222	0.2222222222222222	surrounds <-- inv_connected&to, connected&to
+2	0.2857142857142857	0.1111111111111111	0.2222222222222222	surrounds <-- part&of, interconnects, inv_location&of
+4	0.5714285714285714	0.047619047619047616	0.2222222222222222	surrounds <-- inv_disrupts, inv_measures, inv_location&of
+2	0.2857142857142857	0.2222222222222222	0.2222222222222222	surrounds <-- surrounds, inv_contains
+5	0.7142857142857143	0.03164556962025317	0.20833333333333334	surrounds <-- location&of, inv_location&of, inv_part&of
+1	0.14285714285714285	0.2	0.2	surrounds <-- inv_part&of, contains, inv_part&of
+3	0.42857142857142855	0.05454545454545454	0.2	surrounds <-- part&of, inv_location&of, inv_surrounds
+2	0.2857142857142857	0.03076923076923077	0.2	surrounds <-- inv_produces, inv_location&of, inv_part&of
+1	0.14285714285714285	0.14285714285714285	0.2	surrounds <-- inv_surrounds, inv_part&of
+1	0.14285714285714285	0.010638297872340425	0.2	surrounds <-- inv_part&of, inv_location&of, inv_part&of
+1	0.14285714285714285	0.1111111111111111	0.2	surrounds <-- contains, inv_surrounds
+3	0.42857142857142855	0.04285714285714286	0.2	surrounds <-- inv_disrupts, disrupts, inv_surrounds
+3	0.42857142857142855	0.125	0.1875	surrounds <-- inv_surrounds, contains, inv_contains
+3	0.42857142857142855	0.041666666666666664	0.1875	surrounds <-- inv_produces, inv_causes, inv_contains
+3	0.42857142857142855	0.09375	0.1875	surrounds <-- isa, contains, inv_contains
+2	0.2857142857142857	0.027777777777777776	0.16666666666666666	surrounds <-- inv_produces, inv_measures, inv_location&of
+1	0.14285714285714285	0.027777777777777776	0.16666666666666666	surrounds <-- inv_produces, inv_location&of, developmental&form&of
+2	0.2857142857142857	0.06060606060606061	0.16666666666666666	surrounds <-- conceptual&part&of, inv_conceptual&part&of, inv_location&of
+2	0.2857142857142857	0.16666666666666666	0.16666666666666666	surrounds <-- inv_connected&to, adjacent&to, inv_location&of
+5	0.7142857142857143	0.078125	0.15625	surrounds <-- contains, inv_contains
+5	0.7142857142857143	0.052083333333333336	0.15625	surrounds <-- part&of, inv_part&of, inv_location&of
+5	0.7142857142857143	0.02824858757062147	0.15625	surrounds <-- location&of, inv_location&of, inv_location&of
+1	0.14285714285714285	0.014084507042253521	0.14285714285714285	surrounds <-- inv_location&of, connected&to, surrounds
+2	0.2857142857142857	0.007751937984496124	0.14285714285714285	surrounds <-- inv_location&of, result&of, inv_location&of
+1	0.14285714285714285	0.14285714285714285	0.14285714285714285	surrounds <-- surrounds, contains
+4	0.5714285714285714	0.04	0.13333333333333333	surrounds <-- inv_disrupts, inv_manifestation&of, inv_location&of
+1	0.14285714285714285	0.1111111111111111	0.125	surrounds <-- location&of, inv_contains
+1	0.14285714285714285	0.041666666666666664	0.125	surrounds <-- location&of, location&of, inv_contains
+3	0.42857142857142855	0.0125	0.125	surrounds <-- produces, inv_produces, inv_location&of
+2	0.2857142857142857	0.009615384615384616	0.125	surrounds <-- inv_location&of, contains, inv_contains
+1	0.14285714285714285	0.125	0.125	surrounds <-- contains, produces, inv_contains
+2	0.2857142857142857	0.125	0.125	surrounds <-- interconnects, contains, inv_contains
+4	0.5714285714285714	0.02857142857142857	0.11428571428571428	surrounds <-- inv_disrupts, inv_location&of
+4	0.5714285714285714	0.023809523809523808	0.1111111111111111	surrounds <-- inv_disrupts, inv_produces, inv_location&of
+3	0.42857142857142855	0.023255813953488372	0.1111111111111111	surrounds <-- location&of, inv_interacts&with, inv_location&of
+4	0.5714285714285714	0.023809523809523808	0.1111111111111111	surrounds <-- inv_disrupts, affects, inv_location&of
+1	0.14285714285714285	0.1	0.1111111111111111	surrounds <-- inv_surrounds, inv_contains
+3	0.42857142857142855	0.02142857142857143	0.10714285714285714	surrounds <-- inv_produces, inv_associated&with, inv_location&of
+3	0.42857142857142855	0.027777777777777776	0.10714285714285714	surrounds <-- part&of, inv_location&of
+5	0.7142857142857143	0.046296296296296294	0.10416666666666667	surrounds <-- location&of, inv_disrupts, inv_location&of
+5	0.7142857142857143	0.024875621890547265	0.10416666666666667	surrounds <-- location&of, inv_isa, inv_location&of
+3	0.42857142857142855	0.1	0.1	surrounds <-- inv_connected&to, part&of, inv_location&of
+1	0.14285714285714285	0.041666666666666664	0.1	surrounds <-- conceptual&part&of, inv_conceptual&part&of
+2	0.2857142857142857	0.06666666666666667	0.1	surrounds <-- inv_surrounds, location&of, inv_part&of
+4	0.5714285714285714	0.030534351145038167	0.1	surrounds <-- part&of, inv_part&of
+2	0.2857142857142857	0.005141388174807198	0.1	surrounds <-- isa, inv_isa, contains
+1	0.14285714285714285	0.1	0.1	surrounds <-- surrounds, inv_surrounds, contains
+5	0.7142857142857143	0.018115942028985508	0.09615384615384616	surrounds <-- location&of, affects, inv_location&of
+1	0.14285714285714285	0.09090909090909091	0.09090909090909091	surrounds <-- surrounds, inv_surrounds
+3	0.42857142857142855	0.0084985835694051	0.08823529411764706	surrounds <-- inv_part&of, location&of, inv_location&of
+1	0.14285714285714285	0.002136752136752137	0.08333333333333333	surrounds <-- inv_measures, affects, inv_location&of
+1	0.14285714285714285	0.01098901098901099	0.08333333333333333	surrounds <-- location&of, inv_produces, inv_location&of
+1	0.14285714285714285	0.0021929824561403508	0.08333333333333333	surrounds <-- causes, inv_precedes, inv_location&of
+4	0.5714285714285714	0.0072992700729927005	0.08163265306122448	surrounds <-- inv_location&of, location&of, inv_location&of
+5	0.7142857142857143	0.019455252918287938	0.07936507936507936	surrounds <-- location&of, inv_location&of
+3	0.42857142857142855	0.016483516483516484	0.07692307692307693	surrounds <-- inv_disrupts, treats, disrupts
+5	0.7142857142857143	0.024509803921568627	0.07352941176470588	surrounds <-- location&of, inv_causes, inv_location&of
+4	0.5714285714285714	0.023809523809523808	0.07142857142857142	surrounds <-- location&of, produces, disrupts
+1	0.14285714285714285	0.0037593984962406013	0.07142857142857142	surrounds <-- inv_produces, inv_disrupts, disrupts
+1	0.14285714285714285	0.0017857142857142857	0.07142857142857142	surrounds <-- result&of, inv_affects, disrupts
+1	0.14285714285714285	0.014285714285714285	0.07142857142857142	surrounds <-- inv_disrupts, inv_isa, disrupts
+4	0.5714285714285714	0.031746031746031744	0.07142857142857142	surrounds <-- location&of, inv_disrupts, disrupts
+2	0.2857142857142857	0.047619047619047616	0.07142857142857142	surrounds <-- inv_surrounds, inv_disrupts, disrupts
+1	0.14285714285714285	0.0018796992481203006	0.07142857142857142	surrounds <-- causes, inv_complicates, disrupts
+2	0.2857142857142857	0.008403361344537815	0.07142857142857142	surrounds <-- isa, produces, disrupts
+1	0.14285714285714285	0.0018796992481203006	0.07142857142857142	surrounds <-- causes, produces, disrupts
+6	0.8571428571428571	0.0028503562945368173	0.06976744186046512	surrounds <-- isa, inv_isa, inv_location&of
+4	0.5714285714285714	0.021164021164021163	0.0625	surrounds <-- location&of, location&of, inv_location&of
+1	0.14285714285714285	0.0015479876160990713	0.058823529411764705	surrounds <-- causes, inv_causes, inv_location&of
+1	0.14285714285714285	0.058823529411764705	0.058823529411764705	surrounds <-- inv_derivative&of, surrounds, part&of
+2	0.2857142857142857	0.016666666666666666	0.05555555555555555	surrounds <-- inv_disrupts, result&of, produces
+1	0.14285714285714285	0.006578947368421052	0.05555555555555555	surrounds <-- inv_produces, inv_occurs&in, produces
+1	0.14285714285714285	0.0012642225031605564	0.05555555555555555	surrounds <-- inv_measures, measures, inv_location&of
+6	0.8571428571428571	0.00202020202020202	0.05454545454545454	surrounds <-- issue&in, inv_issue&in, inv_location&of
+3	0.42857142857142855	0.015789473684210527	0.05263157894736842	surrounds <-- inv_disrupts, inv_complicates, inv_produces
+2	0.2857142857142857	0.004016064257028112	0.05128205128205128	surrounds <-- produces, inv_produces
+1	0.14285714285714285	0.0026595744680851063	0.05	surrounds <-- inv_part&of, inv_location&of, part&of
+2	0.2857142857142857	0.004166666666666667	0.05	surrounds <-- produces, inv_produces, produces
+3	0.42857142857142855	0.01020408163265306	0.047619047619047616	surrounds <-- inv_disrupts, disrupts, part&of
+1	0.14285714285714285	0.045454545454545456	0.047619047619047616	surrounds <-- location&of, inv_contains, part&of
+2	0.2857142857142857	0.015151515151515152	0.046511627906976744	surrounds <-- location&of, isa, produces
+2	0.2857142857142857	0.013888888888888888	0.041666666666666664	surrounds <-- location&of, result&of, produces
+2	0.2857142857142857	0.01282051282051282	0.041666666666666664	surrounds <-- location&of, inv_process&of, produces
+1	0.14285714285714285	0.01282051282051282	0.038461538461538464	surrounds <-- adjacent&to, inv_adjacent&to, location&of
+4	0.5714285714285714	0.0019831432821021317	0.038461538461538464	surrounds <-- isa, inv_isa, part&of
+2	0.2857142857142857	0.0136986301369863	0.037037037037037035	surrounds <-- location&of, produces
+2	0.2857142857142857	0.030303030303030304	0.030303030303030304	surrounds <-- inv_adjacent&to, location&of
+3	0.42857142857142855	0.007731958762886598	0.027777777777777776	surrounds <-- inv_disrupts, inv_location&of, location&of
+1	0.14285714285714285	0.010638297872340425	0.02631578947368421	surrounds <-- location&of, location&of, part&of
+2	0.2857142857142857	0.024096385542168676	0.024096385542168676	surrounds <-- inv_adjacent&to, adjacent&to, location&of
+1	0.14285714285714285	0.004366812227074236	0.02040816326530612	surrounds <-- inv_produces, inv_associated&with, analyzes
+1	0.14285714285714285	0.003246753246753247	0.019230769230769232	surrounds <-- inv_produces, inv_measures, analyzes
+2	0.2857142857142857	0.006389776357827476	0.018518518518518517	surrounds <-- location&of, inv_result&of, location&of
+1	0.14285714285714285	0.007042253521126761	0.018518518518518517	surrounds <-- location&of, part&of
+2	0.2857142857142857	0.008928571428571428	0.017857142857142856	surrounds <-- contains, inv_contains, location&of
+1	0.14285714285714285	0.0014771048744460858	0.015384615384615385	surrounds <-- inv_part&of, part&of, location&of
+6	0.8571428571428571	0.0007196833393306944	0.01507537688442211	surrounds <-- isa, inv_isa
+2	0.2857142857142857	0.005747126436781609	0.014925373134328358	surrounds <-- part&of, inv_part&of, location&of
+1	0.14285714285714285	0.003076923076923077	0.013888888888888888	surrounds <-- inv_produces, inv_degree&of, inv_causes
+1	0.14285714285714285	0.004166666666666667	0.013888888888888888	surrounds <-- inv_disrupts, inv_uses, analyzes
+1	0.14285714285714285	0.003472222222222222	0.01282051282051282	surrounds <-- part&of, inv_location&of, location&of
+1	0.14285714285714285	0.0027472527472527475	0.01282051282051282	surrounds <-- inv_disrupts, inv_assesses&effect&of, analyzes
+7	1.0	0.000469861726406229	0.01206896551724138	surrounds <-- issue&in, inv_issue&in
+1	0.14285714285714285	0.0036363636363636364	0.010526315789473684	surrounds <-- location&of, produces, location&of
+1	0.14285714285714285	0.010101010101010102	0.010101010101010102	surrounds <-- surrounds, inv_surrounds, location&of
+1	0.14285714285714285	0.003205128205128205	0.009615384615384616	surrounds <-- location&of, result&of, analyzes
+1	0.14285714285714285	0.0025	0.007042253521126761	surrounds <-- location&of, inv_isa, inv_causes
+1	0.14285714285714285	0.0022172949002217295	0.006622516556291391	surrounds <-- location&of, inv_causes
+1	0.14285714285714285	0.0020242914979757085	0.006578947368421052	surrounds <-- location&of, inv_affects, inv_causes

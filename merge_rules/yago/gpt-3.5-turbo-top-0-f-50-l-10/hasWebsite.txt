@@ -1,0 +1,110 @@
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_livesIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isCitizenOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasNeighbor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- directed, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- influences, inv_influences, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- influences, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_graduatedFrom, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasChild, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasCurrency, hasWebsite
+2	0.031746031746031744	0.044444444444444446	0.6666666666666666	hasWebsite <-- isLocatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isConnectedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_happenedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasGender, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasChild, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isInterestedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasMusicalRole, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasWebsite, hasWebsite
+1	0.015873015873015872	0.3333333333333333	1.0	hasWebsite <-- actedIn, inv_actedIn, hasWebsite
+2	0.031746031746031744	0.024096385542168676	1.0	hasWebsite <-- inv_isLocatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasMusicalRole, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_directed, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- worksAt, hasWebsite
+1	0.015873015873015872	1.0	1.0	hasWebsite <-- isPoliticianOf, inv_isPoliticianOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- influences, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_edited, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_created, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- edited, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- diedIn, hasWebsite
+7	0.1111111111111111	0.06363636363636363	1.0	hasWebsite <-- inv_isLocatedIn, inv_isLocatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isKnownFor, hasWebsite
+1	0.015873015873015872	1.0	1.0	hasWebsite <-- isLeaderOf, inv_isLeaderOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- playsFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- wasBornIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasWebsite, inv_hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_influences, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- participatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_imports, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isConnectedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_actedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- graduatedFrom, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasAcademicAdvisor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isCitizenOf, inv_isCitizenOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- actedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- wroteMusicFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isAffiliatedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_owns, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- created, hasWebsite
+15	0.23809523809523808	0.06756756756756757	1.0	hasWebsite <-- isLocatedIn, isLocatedIn, hasWebsite
+7	0.1111111111111111	0.5384615384615384	1.0	hasWebsite <-- hasOfficialLanguage, inv_hasOfficialLanguage, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_participatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- exports, inv_exports, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- livesIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isAffiliatedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isKnownFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_dealsWith, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isLeaderOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isInterestedIn, hasWebsite
+16	0.25396825396825395	0.2909090909090909	1.0	hasWebsite <-- inv_isLocatedIn, isLocatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- participatedIn, inv_participatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isKnownFor, inv_isKnownFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isLeaderOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasWebsite, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasCapital, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- imports, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_worksAt, hasWebsite
+2	0.031746031746031744	0.0004286326618088298	0.6666666666666666	hasWebsite <-- hasGender, inv_hasGender, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isMarriedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_wasBornIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasOfficialLanguage, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isPoliticianOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- wroteMusicFor, inv_wroteMusicFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- influences, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasWonPrize, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isCitizenOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasGender, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- participatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasCapital, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_isMarriedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasNeighbor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- dealsWith, hasWebsite
+1	0.015873015873015872	0.0035460992907801418	1.0	hasWebsite <-- graduatedFrom, inv_graduatedFrom, hasWebsite
+52	0.8253968253968254	0.003082212079900421	0.6842105263157895	hasWebsite <-- isLocatedIn, inv_isLocatedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- livesIn, inv_livesIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isMarriedTo, inv_isMarriedTo, hasWebsite
+1	0.015873015873015872	1.0	1.0	hasWebsite <-- hasCapital, inv_hasCapital, hasWebsite
+3	0.047619047619047616	0.0010452961672473868	0.75	hasWebsite <-- hasMusicalRole, inv_hasMusicalRole, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasWonPrize, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- isPoliticianOf, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- dealsWith, inv_dealsWith, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_playsFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_diedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- diedIn, inv_diedIn, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasCurrency, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- owns, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- exports, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- hasAcademicAdvisor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- worksAt, inv_worksAt, hasWebsite
+1	0.015873015873015872	1.0	1.0	hasWebsite <-- isAffiliatedTo, inv_isAffiliatedTo, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_exports, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- wroteMusicFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_hasOfficialLanguage, inv_hasOfficialLanguage, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- inv_wroteMusicFor, hasWebsite
+0.0	0.0	0.0	0.0	hasWebsite <-- imports, inv_imports, hasWebsite
+1.0	0.015873015873015872	1.0	1.0	hasWebsite <-- isPoliticianOf, inv_isPoliticianOf, hasWebsite
+16.0	0.25396825396825395	0.2909090909090909	1.0	hasWebsite <-- inv_isLocatedIn, isLocatedIn, hasWebsite
+7.0	0.1111111111111111	0.5384615384615384	1.0	hasWebsite <-- hasOfficialLanguage, inv_hasOfficialLanguage, hasWebsite
+2.0	0.031746031746031744	0.024096385542168676	1.0	hasWebsite <-- inv_isLocatedIn, hasWebsite
+3.0	0.047619047619047616	0.0010452961672473868	0.75	hasWebsite <-- hasMusicalRole, inv_hasMusicalRole, hasWebsite
+52.0	0.8253968253968254	0.003082212079900421	0.6842105263157895	hasWebsite <-- isLocatedIn, inv_isLocatedIn, hasWebsite

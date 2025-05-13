@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "result&of" typically represents the outcome or effect that results from a specific biological or medical process, experiment, treatment, or condition.

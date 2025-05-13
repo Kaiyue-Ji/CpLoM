@@ -1,0 +1,1 @@
+In a knowledge graph, the relation **isMarriedTo** represents a connection between two entities, indicating that the individuals or entities involved are legally or socially recognized as being married to each other.

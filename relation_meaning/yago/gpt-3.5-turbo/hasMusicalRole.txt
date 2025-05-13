@@ -1,0 +1,1 @@
+The relation **hasMusicalRole** in a knowledge graph typically denotes the association between a person or entity and a specific role they perform in a musical context, such as being a composer, performer, conductor, or any other participant in a musical production.

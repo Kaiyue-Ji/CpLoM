@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "practices" typically indicates an association between a healthcare provider, practitioner, or institution and the specific medical, clinical, or healthcare activities they engage in or specialize in, such as treatments, procedures, or therapies.

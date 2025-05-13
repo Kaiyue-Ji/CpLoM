@@ -1,0 +1,1 @@
+In a knowledge graph, the relation "hasWonPrize" represents a connection between an entity, typically a person or organization, and a specific prize or award they have received, indicating that the entity has been recognized for achieving a certain level of excellence or accomplishment.

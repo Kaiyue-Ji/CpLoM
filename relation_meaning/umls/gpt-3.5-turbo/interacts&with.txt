@@ -1,0 +1,1 @@
+In a biomedical knowledge graph, the relation "interacts_with" signifies a relationship between two entities (such as proteins, genes, or drugs) where they engage in a molecular or biochemical interaction, potentially influencing each other's function or activity.

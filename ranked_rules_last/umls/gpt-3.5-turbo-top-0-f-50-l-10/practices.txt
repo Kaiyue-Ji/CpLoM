@@ -1,0 +1,72 @@
+2	1.0	0.16666666666666666	1.0	practices <-- performs, issue&in
+2	1.0	0.044444444444444446	1.0	practices <-- inv_associated&with, issue&in
+2	1.0	0.007575757575757576	1.0	practices <-- isa, inv_isa, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, affects, issue&in
+2	1.0	0.5	1.0	practices <-- manages, issue&in, issue&in
+2	1.0	0.06896551724137931	1.0	practices <-- exhibits, issue&in
+2	1.0	0.1	1.0	practices <-- uses, issue&in
+2	1.0	0.06666666666666667	1.0	practices <-- exhibits, associated&with, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- treats, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_causes, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- treats, inv_associated&with, issue&in
+2	1.0	0.09090909090909091	1.0	practices <-- inv_occurs&in, inv_measures, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- performs, inv_affects, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- performs, associated&with, issue&in
+2	1.0	0.09090909090909091	1.0	practices <-- inv_occurs&in, issue&in
+2	1.0	0.1	1.0	practices <-- inv_occurs&in, manifestation&of, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_location&of, issue&in
+2	1.0	0.023255813953488372	1.0	practices <-- inv_affects, issue&in
+2	1.0	0.00816326530612245	1.0	practices <-- issue&in, issue&in
+2	1.0	0.023255813953488372	1.0	practices <-- inv_affects, issue&in, issue&in
+2	1.0	0.041666666666666664	1.0	practices <-- interacts&with, inv_produces, issue&in
+2	1.0	0.13333333333333333	1.0	practices <-- interacts&with, inv_associated&with, issue&in
+2	1.0	0.03333333333333333	1.0	practices <-- produces, issue&in, issue&in
+2	1.0	0.5	1.0	practices <-- manages, issue&in
+2	1.0	0.007936507936507936	1.0	practices <-- isa, isa, issue&in
+2	1.0	0.1	1.0	practices <-- inv_occurs&in, inv_associated&with, issue&in
+2	1.0	0.09090909090909091	1.0	practices <-- inv_occurs&in, inv_process&of, issue&in
+1	0.5	0.043478260869565216	1.0	practices <-- isa, inv_associated&with, issue&in
+2	1.0	0.1	1.0	practices <-- uses, causes, issue&in
+2	1.0	0.05263157894736842	1.0	practices <-- inv_property&of, issue&in
+2	1.0	0.06666666666666667	1.0	practices <-- exhibits, inv_evaluation&of, issue&in
+2	1.0	0.03333333333333333	1.0	practices <-- produces, affects, issue&in
+2	1.0	1.0	1.0	practices <-- practices, issue&in
+2	1.0	0.03333333333333333	1.0	practices <-- produces, issue&in
+2	1.0	0.022727272727272728	1.0	practices <-- interacts&with, inv_interacts&with, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_indicates, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, inv_assesses&effect&of, issue&in
+2	1.0	0.022988505747126436	1.0	practices <-- interacts&with, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- diagnoses, issue&in
+2	1.0	0.06666666666666667	1.0	practices <-- exhibits, inv_exhibits, issue&in
+2	1.0	0.2	1.0	practices <-- produces, inv_ingredient&of, issue&in
+2	1.0	0.16666666666666666	1.0	practices <-- performs, inv_performs, issue&in
+2	1.0	0.08333333333333333	0.5	practices <-- diagnoses, inv_associated&with, method&of
+1	0.5	0.3333333333333333	0.3333333333333333	practices <-- practices, issue&in, isa
+1	0.5	0.011111111111111112	0.3333333333333333	practices <-- produces, issue&in, isa
+1	0.5	0.05555555555555555	0.3333333333333333	practices <-- diagnoses, issue&in, isa
+1	0.5	0.002551020408163265	0.3333333333333333	practices <-- issue&in, isa
+1	0.5	0.03333333333333333	0.3333333333333333	practices <-- uses, issue&in, isa
+1	0.5	0.007751937984496124	0.3333333333333333	practices <-- inv_affects, issue&in, isa
+1	0.5	0.3333333333333333	0.3333333333333333	practices <-- practices, isa
+1	0.5	0.05555555555555555	0.3333333333333333	practices <-- performs, issue&in, isa
+1	0.5	0.05555555555555555	0.3333333333333333	practices <-- treats, issue&in, isa
+1	0.5	0.030303030303030304	0.3333333333333333	practices <-- inv_occurs&in, issue&in, isa
+1	0.5	0.16666666666666666	0.3333333333333333	practices <-- manages, issue&in, isa
+1	0.5	0.014492753623188406	0.3333333333333333	practices <-- inv_associated&with, issue&in, isa
+1	0.5	0.022222222222222223	0.3333333333333333	practices <-- exhibits, issue&in, isa
+1	0.5	0.007575757575757576	0.3333333333333333	practices <-- interacts&with, issue&in, isa
+2	1.0	0.015151515151515152	0.09090909090909091	practices <-- performs, associated&with
+2	1.0	0.008849557522123894	0.09090909090909091	practices <-- inv_associated&with, inv_process&of, associated&with
+1	0.5	0.00030395136778115504	0.034482758620689655	practices <-- isa, inv_isa, isa
+2	1.0	0.0002426595486532395	0.029411764705882353	practices <-- isa, isa, inv_isa
+2	1.0	0.00023989444644356483	0.029411764705882353	practices <-- isa, inv_isa
+2	1.0	0.000474158368895211	0.029411764705882353	practices <-- inv_affects, isa, inv_isa
+2	1.0	0.014705882352941176	0.029411764705882353	practices <-- manages, isa, inv_isa
+2	1.0	0.003134796238244514	0.029411764705882353	practices <-- treats, isa, inv_isa
+2	1.0	0.029411764705882353	0.029411764705882353	practices <-- practices, isa, inv_isa
+2	1.0	0.00022224691632403602	0.024390243902439025	practices <-- isa, inv_isa, inv_isa
+2	1.0	0.002336448598130841	0.023255813953488372	practices <-- uses, isa, inv_isa
+2	1.0	0.0007757951900698216	0.023255813953488372	practices <-- produces, isa, inv_isa
+1	0.5	0.00045372050816696913	0.008620689655172414	practices <-- inv_property&of, issue&in, inv_issue&in
+1	0.5	6.712310377231843e-05	0.008620689655172414	practices <-- issue&in, inv_issue&in
+1	0.5	0.00020048115477145148	0.008620689655172414	practices <-- inv_affects, issue&in, inv_issue&in

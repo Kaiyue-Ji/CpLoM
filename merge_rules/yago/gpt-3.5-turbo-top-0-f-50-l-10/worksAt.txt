@@ -1,0 +1,258 @@
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasCapital
+0.0	0.0	0.0	0.0	worksAt <-- exports, inv_exports
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasMusicalRole
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasChild
+0.0	0.0	0.0	0.0	worksAt <-- graduatedFrom, inv_graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasCapital, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, isLocatedIn
+0.0	0.0	0.0	0.0	worksAt <-- hasCapital, worksAt
+1548	0.5021083360363282	0.012538169330082697	0.031918183880080005	worksAt <-- graduatedFrom, inv_worksAt, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- graduatedFrom, worksAt
+2300	0.7460265974699968	0.024072174659326397	0.057874738934601544	worksAt <-- graduatedFrom, inv_graduatedFrom, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isPoliticianOf, worksAt
+2705	0.8773921505027571	0.04993907617324521	0.04993907617324521	worksAt <-- worksAt, inv_graduatedFrom, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- isLocatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- owns, worksAt
+533	0.17288355497891664	6.62654025101036e-05	0.00020830947675238882	worksAt <-- isCitizenOf, inv_isLocatedIn
+84	0.027246188777165097	0.08155339805825243	0.12982998454404945	worksAt <-- hasAcademicAdvisor, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- inv_owns, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isConnectedTo, inv_isConnectedTo, worksAt
+1	0.0003243593902043464	0.03225806451612903	0.14285714285714285	worksAt <-- inv_created, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasCapital, inv_isLocatedIn
+0.0	0.0	0.0	0.0	worksAt <-- isInterestedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- graduatedFrom, worksAt
+2664	0.8640934155043789	0.0005787548731964149	0.0005787548731964149	worksAt <-- worksAt, isLocatedIn, inv_isLocatedIn
+853	0.2766785598443075	0.004035825640977115	0.012548546545839707	worksAt <-- isCitizenOf, inv_livesIn, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_isLocatedIn, inv_worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isKnownFor, worksAt
+452	0.1466104443723646	0.006153594815732509	0.013823052692742897	worksAt <-- livesIn, inv_isCitizenOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasOfficialLanguage, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_imports, worksAt
+2004	0.6500162179695103	0.04200729467991448	0.04200729467991448	worksAt <-- worksAt, inv_worksAt, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- hasWebsite, worksAt
+1627	0.5277327278624716	0.018112190940564852	0.0365232226637035	worksAt <-- hasWonPrize, inv_hasWonPrize, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isLeaderOf, worksAt
+300	0.09730781706130393	0.11673151750972763	0.48859934853420195	worksAt <-- influences, inv_influences, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isAffiliatedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- actedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isLocatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- imports, worksAt
+180	0.058384690236782354	0.11076923076923077	0.1749271137026239	worksAt <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- isAffiliatedTo, worksAt
+249	0.08076548816088226	0.00010955302366345311	0.00025509420044871994	worksAt <-- livesIn, inv_isLocatedIn
+2226	0.7220240025948751	0.04525494022932423	0.04525494022932423	worksAt <-- worksAt, inv_graduatedFrom, worksAt
+132	0.042815439506973724	0.11129848229342328	0.1643835616438356	worksAt <-- hasAcademicAdvisor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, isCitizenOf
+0.0	0.0	0.0	0.0	worksAt <-- inv_diedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- livesIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasCurrency
+0.0	0.0	0.0	0.0	worksAt <-- diedIn, inv_diedIn
+4	0.0012974375608173856	0.2857142857142857	0.5714285714285714	worksAt <-- hasChild, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasCurrency, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_isConnectedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isConnectedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasGender, worksAt
+300	0.09730781706130393	0.11673151750972763	0.48859934853420195	worksAt <-- influences, inv_influences, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isKnownFor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	worksAt <-- wroteMusicFor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasNeighbor, worksAt
+4	0.0012974375608173856	0.23529411764705882	0.6666666666666666	worksAt <-- inv_hasChild, worksAt
+2603	0.8443074927019137	0.00010360653018068573	0.005073233479832776	worksAt <-- hasGender, inv_hasGender, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- edited, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_influences, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- participatedIn, inv_participatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasWonPrize, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasOfficialLanguage, worksAt
+132	0.042815439506973724	0.11129848229342328	0.1643835616438356	worksAt <-- hasAcademicAdvisor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- livesIn, inv_isLocatedIn, inv_worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_graduatedFrom, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_directed, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- participatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- dealsWith, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- exports, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isKnownFor, inv_isKnownFor, worksAt
+907	0.2941939669153422	0.0036876814363661498	0.02005838382944845	worksAt <-- hasWonPrize, inv_hasWonPrize, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- diedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasWebsite, worksAt
+935	0.3032760298410639	0.005529632323805806	0.016962374369580206	worksAt <-- isCitizenOf, inv_livesIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- wroteMusicFor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_hasWebsite, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- directed, inv_directed
+678	0.21991566655854686	0.013798156175590695	0.03185341789992953	worksAt <-- livesIn, inv_livesIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_worksAt, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, influences
+0.0	0.0	0.0	0.0	worksAt <-- imports, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isInterestedIn, inv_isInterestedIn, worksAt
+1	0.0003243593902043464	0.0005184033177812338	1.0	worksAt <-- hasMusicalRole, inv_hasMusicalRole, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- created, inv_created
+0.0	0.0	0.0	0.0	worksAt <-- hasWonPrize, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_edited, worksAt
+590	0.1913720402205644	0.00012319601362756718	0.00038422464768553494	worksAt <-- isCitizenOf, inv_isLocatedIn, inv_isLocatedIn
+2	0.0006487187804086928	1.3739575955467285e-06	0.0002092487968194183	worksAt <-- isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	worksAt <-- inv_playsFor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isCitizenOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_isPoliticianOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isLocatedIn, inv_isLocatedIn
+390	0.1265001621796951	0.003924172905095388	0.00891713919882934	worksAt <-- livesIn, inv_isCitizenOf, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- hasNeighbor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, isConnectedTo
+0.0	0.0	0.0	0.0	worksAt <-- isInterestedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_participatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_wroteMusicFor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasWebsite, inv_hasWebsite, worksAt
+1	0.0003243593902043464	0.045454545454545456	0.05263157894736842	worksAt <-- created, worksAt
+4	0.0012974375608173856	0.125	0.2	worksAt <-- isMarriedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_isInterestedIn, worksAt
+494	0.16023353876094712	0.0741074107410741	0.2630457933972311	worksAt <-- graduatedFrom
+43	0.013947453778786896	0.019670631290027447	0.054637865311308764	worksAt <-- isCitizenOf, inv_isPoliticianOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- exports, worksAt
+44	0.014271813168991242	0.03754266211604096	0.09865470852017937	worksAt <-- influences, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasGender, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_livesIn, worksAt
+151	0.04897826792085631	0.00012161697418579046	0.00020167025710954433	worksAt <-- hasAcademicAdvisor, isCitizenOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	worksAt <-- isPoliticianOf, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasWebsite
+0.0	0.0	0.0	0.0	worksAt <-- diedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, isKnownFor
+0.0	0.0	0.0	0.0	worksAt <-- livesIn, inv_livesIn
+962	0.31203373337658125	0.02588108689803605	0.21425389755011137	worksAt <-- diedIn, inv_diedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, edited
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasOfficialLanguage
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, hasNeighbor
+0.0	0.0	0.0	0.0	worksAt <-- participatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- livesIn, inv_isLocatedIn, inv_worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasGender, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasMusicalRole, worksAt
+1	0.0003243593902043464	0.045454545454545456	0.05263157894736842	worksAt <-- created, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasWonPrize, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- playsFor, worksAt
+4	0.0012974375608173856	0.125	0.2	worksAt <-- isMarriedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_isKnownFor, worksAt
+4	0.0012974375608173856	0.2857142857142857	0.5714285714285714	worksAt <-- hasChild, worksAt
+10	0.003243593902043464	0.011641443538998836	0.5263157894736842	worksAt <-- isPoliticianOf, inv_isPoliticianOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_dealsWith, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- actedIn, inv_actedIn
+7	0.0022705157314304248	0.005303030303030303	0.7777777777777778	worksAt <-- isAffiliatedTo, inv_isAffiliatedTo, worksAt
+650	0.21083360363282516	1.1814796642647767e-06	5.764685536403989e-05	worksAt <-- hasGender, inv_hasGender, isAffiliatedTo
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, isAffiliatedTo
+0.0	0.0	0.0	0.0	worksAt <-- directed, worksAt
+970	0.314628608498216	0.011796898753420493	0.030229369234604838	worksAt <-- graduatedFrom, inv_worksAt, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- inv_isLocatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasOfficialLanguage, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- livesIn, inv_isLocatedIn, worksAt
+83	0.026921829386960753	0.1006060606060606	0.14742451154529307	worksAt <-- inv_hasAcademicAdvisor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_isCitizenOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- actedIn, worksAt
+1586	0.5144339928640934	0.00585801876338923	0.017915640602760772	worksAt <-- isCitizenOf, inv_isCitizenOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasMusicalRole, worksAt
+818	0.2653259811871554	0.3684684684684685	0.48982035928143713	worksAt <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, worksAt
+544	0.17645150827116446	0.004072008682959692	0.0127424341797058	worksAt <-- isCitizenOf, inv_isPoliticianOf, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- hasCurrency, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isKnownFor, worksAt
+2603	0.8443074927019137	0.00010360653018068573	0.005073233479832776	worksAt <-- hasGender, inv_hasGender, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isLeaderOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasNeighbor, worksAt
+193	0.06260136230943886	0.005146666666666667	0.012233772819472617	worksAt <-- livesIn, inv_isPoliticianOf, graduatedFrom
+1087	0.35257865715212455	0.00948367621141531	0.025755852525826937	worksAt <-- graduatedFrom, inv_graduatedFrom, graduatedFrom
+4	0.0012974375608173856	1.0	1.0	worksAt <-- isLeaderOf, inv_isLeaderOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- directed, worksAt
+44	0.014271813168991242	0.03754266211604096	0.09865470852017937	worksAt <-- influences, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- hasCurrency, inv_hasCurrency
+0.0	0.0	0.0	0.0	worksAt <-- inv_isLeaderOf, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasWebsite, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasMusicalRole, worksAt
+2	0.0006487187804086928	0.09523809523809523	0.16666666666666666	worksAt <-- inv_isMarriedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_actedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- actedIn, inv_actedIn, worksAt
+1	0.0003243593902043464	1.0	1.0	worksAt <-- wroteMusicFor, inv_wroteMusicFor, worksAt
+2287	0.7418099253973403	5.1281649965897814e-05	0.0025201101928374655	worksAt <-- hasGender, inv_hasGender, graduatedFrom
+38	0.012325656827765165	0.0026798307475317347	0.8837209302325582	worksAt <-- playsFor, inv_playsFor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, diedIn
+352	0.11417450535192994	0.005052534879715221	0.013110846245530394	worksAt <-- livesIn, inv_livesIn, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- dealsWith, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- livesIn, worksAt
+3062	0.9931884528057088	0.043418459226068094	0.043418459226068094	worksAt <-- worksAt, inv_worksAt, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- owns, inv_owns, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, playsFor
+0.0	0.0	0.0	0.0	worksAt <-- hasCapital, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_exports, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_hasCurrency, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- owns, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- inv_isAffiliatedTo, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isConnectedTo, worksAt
+30	0.009730781706130393	0.04285714285714286	0.10344827586206896	worksAt <-- inv_influences, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- playsFor, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- edited, worksAt
+81	0.02627311060655206	0.008538899430740038	0.012812401138880101	worksAt <-- hasAcademicAdvisor, diedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	worksAt <-- worksAt, inv_worksAt, isInterestedIn
+0.0	0.0	0.0	0.0	worksAt <-- isLocatedIn, inv_isLocatedIn, worksAt
+0.0	0.0	0.0	0.0	worksAt <-- isCitizenOf, worksAt
+1154	0.37431073629581574	0.0031710875951120186	0.009897848032867031	worksAt <-- isCitizenOf, inv_isCitizenOf, graduatedFrom
+0.0	0.0	0.0	0.0	worksAt <-- isPoliticianOf, worksAt
+818.0	0.2653259811871554	0.3684684684684685	0.48982035928143713	worksAt <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, worksAt
+818.0	0.2653259811871554	0.3684684684684685	0.48982035928143713	worksAt <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, worksAt
+494.0	0.16023353876094712	0.0741074107410741	0.2630457933972311	worksAt <-- graduatedFrom
+494.0	0.16023353876094712	0.0741074107410741	0.2630457933972311	worksAt <-- graduatedFrom
+180.0	0.058384690236782354	0.11076923076923077	0.1749271137026239	worksAt <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, graduatedFrom
+180.0	0.058384690236782354	0.11076923076923077	0.1749271137026239	worksAt <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, graduatedFrom
+132.0	0.042815439506973724	0.11129848229342328	0.1643835616438356	worksAt <-- hasAcademicAdvisor, worksAt
+132.0	0.042815439506973724	0.11129848229342328	0.1643835616438356	worksAt <-- hasAcademicAdvisor, worksAt
+84.0	0.027246188777165097	0.08155339805825243	0.12982998454404945	worksAt <-- hasAcademicAdvisor, graduatedFrom
+84.0	0.027246188777165097	0.08155339805825243	0.12982998454404945	worksAt <-- hasAcademicAdvisor, graduatedFrom
+2705.0	0.8773921505027571	0.04993907617324521	0.04993907617324521	worksAt <-- worksAt, inv_graduatedFrom, graduatedFrom
+2705.0	0.8773921505027571	0.04993907617324521	0.04993907617324521	worksAt <-- worksAt, inv_graduatedFrom, graduatedFrom
+2226.0	0.7220240025948751	0.04525494022932423	0.04525494022932423	worksAt <-- worksAt, inv_graduatedFrom, worksAt
+2226.0	0.7220240025948751	0.04525494022932423	0.04525494022932423	worksAt <-- worksAt, inv_graduatedFrom, worksAt
+3062.0	0.9931884528057088	0.043418459226068094	0.043418459226068094	worksAt <-- worksAt, inv_worksAt, worksAt
+3062.0	0.9931884528057088	0.043418459226068094	0.043418459226068094	worksAt <-- worksAt, inv_worksAt, worksAt
+2004.0	0.6500162179695103	0.04200729467991448	0.04200729467991448	worksAt <-- worksAt, inv_worksAt, graduatedFrom
+2004.0	0.6500162179695103	0.04200729467991448	0.04200729467991448	worksAt <-- worksAt, inv_worksAt, graduatedFrom
+1627.0	0.5277327278624716	0.018112190940564852	0.0365232226637035	worksAt <-- hasWonPrize, inv_hasWonPrize, worksAt
+1627.0	0.5277327278624716	0.018112190940564852	0.0365232226637035	worksAt <-- hasWonPrize, inv_hasWonPrize, worksAt
+1548.0	0.5021083360363282	0.012538169330082697	0.031918183880080005	worksAt <-- graduatedFrom, inv_worksAt, worksAt
+1548.0	0.5021083360363282	0.012538169330082697	0.031918183880080005	worksAt <-- graduatedFrom, inv_worksAt, worksAt
+678.0	0.21991566655854686	0.013798156175590695	0.03185341789992953	worksAt <-- livesIn, inv_livesIn, worksAt
+678.0	0.21991566655854686	0.013798156175590695	0.03185341789992953	worksAt <-- livesIn, inv_livesIn, worksAt
+970.0	0.314628608498216	0.011796898753420493	0.030229369234604838	worksAt <-- graduatedFrom, inv_worksAt, graduatedFrom
+970.0	0.314628608498216	0.011796898753420493	0.030229369234604838	worksAt <-- graduatedFrom, inv_worksAt, graduatedFrom
+1087.0	0.35257865715212455	0.00948367621141531	0.025755852525826937	worksAt <-- graduatedFrom, inv_graduatedFrom, graduatedFrom
+1087.0	0.35257865715212455	0.00948367621141531	0.025755852525826937	worksAt <-- graduatedFrom, inv_graduatedFrom, graduatedFrom
+907.0	0.2941939669153422	0.0036876814363661498	0.02005838382944845	worksAt <-- hasWonPrize, inv_hasWonPrize, graduatedFrom
+907.0	0.2941939669153422	0.0036876814363661498	0.02005838382944845	worksAt <-- hasWonPrize, inv_hasWonPrize, graduatedFrom
+1586.0	0.5144339928640934	0.00585801876338923	0.017915640602760772	worksAt <-- isCitizenOf, inv_isCitizenOf, worksAt
+1586.0	0.5144339928640934	0.00585801876338923	0.017915640602760772	worksAt <-- isCitizenOf, inv_isCitizenOf, worksAt
+935.0	0.3032760298410639	0.005529632323805806	0.016962374369580206	worksAt <-- isCitizenOf, inv_livesIn, worksAt
+935.0	0.3032760298410639	0.005529632323805806	0.016962374369580206	worksAt <-- isCitizenOf, inv_livesIn, worksAt
+452.0	0.1466104443723646	0.006153594815732509	0.013823052692742897	worksAt <-- livesIn, inv_isCitizenOf, worksAt
+452.0	0.1466104443723646	0.006153594815732509	0.013823052692742897	worksAt <-- livesIn, inv_isCitizenOf, worksAt
+352.0	0.11417450535192994	0.005052534879715221	0.013110846245530394	worksAt <-- livesIn, inv_livesIn, graduatedFrom
+352.0	0.11417450535192994	0.005052534879715221	0.013110846245530394	worksAt <-- livesIn, inv_livesIn, graduatedFrom
+81.0	0.02627311060655206	0.008538899430740038	0.012812401138880101	worksAt <-- hasAcademicAdvisor, diedIn, inv_isLocatedIn
+81.0	0.02627311060655206	0.008538899430740038	0.012812401138880101	worksAt <-- hasAcademicAdvisor, diedIn, inv_isLocatedIn
+544.0	0.17645150827116446	0.004072008682959692	0.0127424341797058	worksAt <-- isCitizenOf, inv_isPoliticianOf, graduatedFrom
+544.0	0.17645150827116446	0.004072008682959692	0.0127424341797058	worksAt <-- isCitizenOf, inv_isPoliticianOf, graduatedFrom
+853.0	0.2766785598443075	0.004035825640977115	0.012548546545839707	worksAt <-- isCitizenOf, inv_livesIn, graduatedFrom
+853.0	0.2766785598443075	0.004035825640977115	0.012548546545839707	worksAt <-- isCitizenOf, inv_livesIn, graduatedFrom
+193.0	0.06260136230943886	0.005146666666666667	0.012233772819472617	worksAt <-- livesIn, inv_isPoliticianOf, graduatedFrom
+193.0	0.06260136230943886	0.005146666666666667	0.012233772819472617	worksAt <-- livesIn, inv_isPoliticianOf, graduatedFrom
+1154.0	0.37431073629581574	0.0031710875951120186	0.009897848032867031	worksAt <-- isCitizenOf, inv_isCitizenOf, graduatedFrom
+1154.0	0.37431073629581574	0.0031710875951120186	0.009897848032867031	worksAt <-- isCitizenOf, inv_isCitizenOf, graduatedFrom
+390.0	0.1265001621796951	0.003924172905095388	0.00891713919882934	worksAt <-- livesIn, inv_isCitizenOf, graduatedFrom
+390.0	0.1265001621796951	0.003924172905095388	0.00891713919882934	worksAt <-- livesIn, inv_isCitizenOf, graduatedFrom
+2603.0	0.8443074927019137	0.00010360653018068573	0.005073233479832776	worksAt <-- hasGender, inv_hasGender, worksAt
+2603.0	0.8443074927019137	0.00010360653018068573	0.005073233479832776	worksAt <-- hasGender, inv_hasGender, worksAt
+2287.0	0.7418099253973403	5.1281649965897814e-05	0.0025201101928374655	worksAt <-- hasGender, inv_hasGender, graduatedFrom
+2287.0	0.7418099253973403	5.1281649965897814e-05	0.0025201101928374655	worksAt <-- hasGender, inv_hasGender, graduatedFrom
+2664.0	0.8640934155043789	0.0005787548731964149	0.0005787548731964149	worksAt <-- worksAt, isLocatedIn, inv_isLocatedIn
+2664.0	0.8640934155043789	0.0005787548731964149	0.0005787548731964149	worksAt <-- worksAt, isLocatedIn, inv_isLocatedIn
+590.0	0.1913720402205644	0.00012319601362756718	0.00038422464768553494	worksAt <-- isCitizenOf, inv_isLocatedIn, inv_isLocatedIn
+590.0	0.1913720402205644	0.00012319601362756718	0.00038422464768553494	worksAt <-- isCitizenOf, inv_isLocatedIn, inv_isLocatedIn
+249.0	0.08076548816088226	0.00010955302366345311	0.00025509420044871994	worksAt <-- livesIn, inv_isLocatedIn
+249.0	0.08076548816088226	0.00010955302366345311	0.00025509420044871994	worksAt <-- livesIn, inv_isLocatedIn
+533.0	0.17288355497891664	6.62654025101036e-05	0.00020830947675238882	worksAt <-- isCitizenOf, inv_isLocatedIn
+533.0	0.17288355497891664	6.62654025101036e-05	0.00020830947675238882	worksAt <-- isCitizenOf, inv_isLocatedIn
+151.0	0.04897826792085631	0.00012161697418579046	0.00020167025710954433	worksAt <-- hasAcademicAdvisor, isCitizenOf, inv_isLocatedIn
+151.0	0.04897826792085631	0.00012161697418579046	0.00020167025710954433	worksAt <-- hasAcademicAdvisor, isCitizenOf, inv_isLocatedIn
+650.0	0.21083360363282516	1.1814796642647767e-06	5.764685536403989e-05	worksAt <-- hasGender, inv_hasGender, isAffiliatedTo
+650.0	0.21083360363282516	1.1814796642647767e-06	5.764685536403989e-05	worksAt <-- hasGender, inv_hasGender, isAffiliatedTo

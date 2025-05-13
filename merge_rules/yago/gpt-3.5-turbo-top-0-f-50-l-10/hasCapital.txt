@@ -1,0 +1,149 @@
+399	0.17378048780487804	0.02425531914893617	0.032439024390243903	hasCapital <-- participatedIn, happenedIn, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- worksAt, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isAffiliatedTo, hasCapital
+3	0.0013066202090592336	0.0003370407819346141	0.0003370407819346141	hasCapital <-- hasCapital, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasChild, inv_isLocatedIn
+375	0.16332752613240417	0.005367340804671734	0.01837874926485003	hasCapital <-- inv_isLocatedIn, isLocatedIn
+44	0.01916376306620209	0.002763471925637483	0.0036642238507661557	hasCapital <-- participatedIn, happenedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isKnownFor
+0.0	0.0	0.0	0.0	hasCapital <-- isLeaderOf, hasCapital
+2	0.0008710801393728223	0.0035087719298245615	0.005025125628140704	hasCapital <-- hasNeighbor, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_isPoliticianOf, isLocatedIn
+30	0.013066202090592335	0.031813361611876985	0.08902077151335312	hasCapital <-- inv_isLocatedIn, inv_worksAt, diedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasChild
+0.0	0.0	0.0	0.0	hasCapital <-- owns, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLocatedIn, inv_directed
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_isLocatedIn, inv_diedIn
+0.0	0.0	0.0	0.0	hasCapital <-- actedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasCurrency, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- worksAt, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- edited, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLeaderOf
+958	0.4172473867595819	0.017809008607067835	0.037761135199054004	hasCapital <-- inv_isLocatedIn
+976	0.4250871080139373	1.5512055823565876e-05	0.0018082278070606108	hasCapital <-- isLocatedIn, inv_isLocatedIn
+966	0.42073170731707316	4.1080214008352977e-05	0.0031885186921132022	hasCapital <-- isLocatedIn, inv_isLocatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasOfficialLanguage
+0.0	0.0	0.0	0.0	hasCapital <-- isInterestedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_influences
+0.0	0.0	0.0	0.0	hasCapital <-- exports, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, hasNeighbor
+0.0	0.0	0.0	0.0	hasCapital <-- inv_worksAt, inv_isLocatedIn
+50	0.02177700348432056	0.03178639542275906	0.09541984732824428	hasCapital <-- inv_isLocatedIn, inv_graduatedFrom, diedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasCapital, inv_hasCapital
+1761	0.76698606271777	0.00259554968613157	0.028107642214135222	hasCapital <-- isLocatedIn, inv_isLocatedIn, hasCapital
+5	0.0021777003484320556	0.0008291873963515755	0.0008291873963515755	hasCapital <-- hasCapital, isLocatedIn
+1033	0.4499128919860627	2.5639069951548612e-05	0.0006907259509684873	hasCapital <-- isLocatedIn, inv_isLocatedIn, inv_isLocatedIn
+946	0.41202090592334495	0.017888884686660868	0.017888884686660868	hasCapital <-- hasCapital, inv_hasCapital, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_hasChild
+0.0	0.0	0.0	0.0	hasCapital <-- imports, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- actedIn, happenedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasCapital, isLocatedIn, inv_isLocatedIn, inv_isLeaderOf
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, hasChild
+0.0	0.0	0.0	0.0	hasCapital <-- isAffiliatedTo, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- hasWebsite, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_diedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isConnectedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isKnownFor, inv_hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- actedIn, directed, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- hasCurrency, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLocatedIn, inv_hasNeighbor
+0.0	0.0	0.0	0.0	hasCapital <-- isPoliticianOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- influences, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLocatedIn, inv_dealsWith
+0.0	0.0	0.0	0.0	hasCapital <-- inv_hasOfficialLanguage, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- influences
+0.0	0.0	0.0	0.0	hasCapital <-- isPoliticianOf, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_isLocatedIn, diedIn
+0.0	0.0	0.0	0.0	hasCapital <-- livesIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLocatedIn, inv_influences
+0.0	0.0	0.0	0.0	hasCapital <-- isCitizenOf
+1033	0.4499128919860627	2.5639069951548612e-05	0.0006907259509684873	hasCapital <-- isLocatedIn, inv_isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- graduatedFrom, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- actedIn, happenedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- livesIn, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isKnownFor, hasCapital
+72	0.0313588850174216	0.0005677606573406722	0.013495782567947517	hasCapital <-- isLocatedIn, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- graduatedFrom, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- imports
+0.0	0.0	0.0	0.0	hasCapital <-- playsFor, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- worksAt, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isConnectedTo, inv_isLocatedIn
+2099	0.914198606271777	0.002606449690181421	0.002606449690181421	hasCapital <-- hasCapital, isLocatedIn, inv_isLocatedIn
+133	0.057926829268292686	4.907026603832129e-05	7.46154778307878e-05	hasCapital <-- participatedIn, inv_participatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLocatedIn, influences
+0.0	0.0	0.0	0.0	hasCapital <-- isLeaderOf, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_participatedIn, inv_happenedIn
+801	0.3488675958188153	0.009948209694847051	0.22905347440663426	hasCapital <-- isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, hasOfficialLanguage
+0.0	0.0	0.0	0.0	hasCapital <-- isInterestedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isPoliticianOf
+0.0	0.0	0.0	0.0	hasCapital <-- owns, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- actedIn, inv_isLocatedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- hasWebsite, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- actedIn, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_actedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLeaderOf
+0.0	0.0	0.0	0.0	hasCapital <-- inv_hasCapital, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isAffiliatedTo
+0.0	0.0	0.0	0.0	hasCapital <-- isCitizenOf, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isAffiliatedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- influences, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_isLocatedIn, inv_hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_isLocatedIn, hasCurrency
+0.0	0.0	0.0	0.0	hasCapital <-- influences, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isCitizenOf, isLocatedIn
+1012	0.44076655052264807	1.8500789272555e-05	0.001598231206569804	hasCapital <-- isLocatedIn, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isKnownFor
+0.0	0.0	0.0	0.0	hasCapital <-- isInterestedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isAffiliatedTo
+6	0.002613240418118467	7.3060339316569236e-06	1.009592814391409e-05	hasCapital <-- dealsWith, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isCitizenOf
+1302	0.5670731707317073	8.428901888876775e-05	0.000905359981419955	hasCapital <-- inv_isLocatedIn, isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isInterestedIn
+0.0	0.0	0.0	0.0	hasCapital <-- diedIn, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- diedIn
+186	0.08101045296167247	0.0031277325620501784	0.00975251677852349	hasCapital <-- inv_isLocatedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLeaderOf, inv_isLocatedIn
+270	0.11759581881533102	0.0003040307724183283	0.00040506359498441254	hasCapital <-- participatedIn, happenedIn, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isInterestedIn, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- hasWebsite
+0.0	0.0	0.0	0.0	hasCapital <-- hasCurrency
+0.0	0.0	0.0	0.0	hasCapital <-- isCitizenOf, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isPoliticianOf
+0.0	0.0	0.0	0.0	hasCapital <-- inv_hasWebsite
+0.0	0.0	0.0	0.0	hasCapital <-- hasWebsite, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- directed, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- playsFor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- inv_isLocatedIn, dealsWith
+0.0	0.0	0.0	0.0	hasCapital <-- isKnownFor, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isPoliticianOf, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- inv_directed, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isLocatedIn, inv_dealsWith
+0.0	0.0	0.0	0.0	hasCapital <-- isConnectedTo, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- isMarriedTo, inv_isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- wroteMusicFor, isLocatedIn
+0.0	0.0	0.0	0.0	hasCapital <-- worksAt, inv_isLocatedIn, inv_diedIn
+0.0	0.0	0.0	0.0	hasCapital <-- isMarriedTo, hasCapital
+1761	0.76698606271777	0.00259554968613157	0.028107642214135222	hasCapital <-- isLocatedIn, inv_isLocatedIn, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- exports
+109	0.047473867595818814	0.04242896068509148	0.1383248730964467	hasCapital <-- inv_isLocatedIn, hasCapital
+0.0	0.0	0.0	0.0	hasCapital <-- graduatedFrom, isLocatedIn, inv_isLocatedIn
+159	0.06925087108013937	0.002119011128140201	0.06995160580730313	hasCapital <-- isLocatedIn, hasCapital
+801.0	0.3488675958188153	0.009948209694847051	0.22905347440663426	hasCapital <-- isLocatedIn
+50.0	0.02177700348432056	0.03178639542275906	0.09541984732824428	hasCapital <-- inv_isLocatedIn, inv_graduatedFrom, diedIn
+30.0	0.013066202090592335	0.031813361611876985	0.08902077151335312	hasCapital <-- inv_isLocatedIn, inv_worksAt, diedIn
+958.0	0.4172473867595819	0.017809008607067835	0.037761135199054004	hasCapital <-- inv_isLocatedIn
+1761.0	0.76698606271777	0.00259554968613157	0.028107642214135222	hasCapital <-- isLocatedIn, inv_isLocatedIn, hasCapital
+375.0	0.16332752613240417	0.005367340804671734	0.01837874926485003	hasCapital <-- inv_isLocatedIn, isLocatedIn
+946.0	0.41202090592334495	0.017888884686660868	0.017888884686660868	hasCapital <-- hasCapital, inv_hasCapital, inv_isLocatedIn
+72.0	0.0313588850174216	0.0005677606573406722	0.013495782567947517	hasCapital <-- isLocatedIn, isLocatedIn
+966.0	0.42073170731707316	4.1080214008352977e-05	0.0031885186921132022	hasCapital <-- isLocatedIn, inv_isLocatedIn, isLocatedIn
+2099.0	0.914198606271777	0.002606449690181421	0.002606449690181421	hasCapital <-- hasCapital, isLocatedIn, inv_isLocatedIn
+976.0	0.4250871080139373	1.5512055823565876e-05	0.0018082278070606108	hasCapital <-- isLocatedIn, inv_isLocatedIn
+1012.0	0.44076655052264807	1.8500789272555e-05	0.001598231206569804	hasCapital <-- isLocatedIn, isLocatedIn, inv_isLocatedIn
+1302.0	0.5670731707317073	8.428901888876775e-05	0.000905359981419955	hasCapital <-- inv_isLocatedIn, isLocatedIn, inv_isLocatedIn
+1033.0	0.4499128919860627	2.5639069951548612e-05	0.0006907259509684873	hasCapital <-- isLocatedIn, inv_isLocatedIn, inv_isLocatedIn
+270.0	0.11759581881533102	0.0003040307724183283	0.00040506359498441254	hasCapital <-- participatedIn, happenedIn, inv_isLocatedIn
+13.0	0.005662020905923345	3.110620855995004e-05	9.802443070426783e-05	hasCapital <-- inv_isLocatedIn, inv_participatedIn, inv_isLocatedIn
+133.0	0.057926829268292686	4.907026603832129e-05	7.46154778307878e-05	hasCapital <-- participatedIn, inv_participatedIn, inv_isLocatedIn

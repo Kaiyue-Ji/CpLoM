@@ -1,0 +1,93 @@
+In a biomedical knowledge graph, the relation "adjacentTo" typically indicates that two entities, such as genes, proteins, or biological processes, are located next to each other or in close proximity within a given biological context, such as a chromosome or molecular structure.
+
+In a biomedical knowledge graph, the relation "affects" denotes a causal or influential relationship where one entity (such as a gene, protein, drug, or condition) influences or alters the state, function, or behavior of another entity (e.g., a biological process, disease, or phenotype).
+
+In a biomedical knowledge graph, the relation "analyzes" typically denotes a connection where one entity (such as a tool, method, or process) examines, investigates, or processes data or biological samples to extract information, identify patterns, or derive insights.
+
+In a biomedical knowledge graph, the relation "assesses&effect&of" refers to the evaluation or measurement of the impact or outcome of a specific intervention, treatment, or condition on a biological entity, such as a disease, biomarker, or physiological process.
+
+In a biomedical knowledge graph, the relation "associatedWith" typically represents a connection between two entities, indicating that they have a recognized relationship or correlation, often used to link biological entities (such as genes, diseases, or proteins) that are related through scientific studies or clinical observations.
+
+In a biomedical knowledge graph, the relation "carries_out" typically indicates that a particular entity (such as a gene, protein, or enzyme) performs or facilitates a specific biological process, function, or activity.
+
+In a biomedical knowledge graph, the relation "causes" signifies a direct link between an entity, such as a biological factor, condition, or event, and its resultant effect, typically indicating that one entity triggers or contributes to the onset or progression of another.
+
+In a biomedical knowledge graph, the relation "co&occurs&with" denotes a relationship between two entities (e.g., diseases, genes, or treatments) that frequently appear together or are observed in the same context, often implying a potential association or correlation in biological or medical data.
+
+
+In a biomedical knowledge graph, the relation "complicates with" refers to a situation where one condition, disease, or factor increases the severity or difficulty of another condition, often leading to worse outcomes or additional challenges in treatment or management.
+
+In a biomedical knowledge graph, the relation "conceptual&part&of" refers to the connection where a specific concept or entity is considered a part or component of a broader conceptual framework or system, typically reflecting a hierarchical or associative relationship within biomedical knowledge.
+
+In a biomedical knowledge graph, the relation "conceptually&related&to" represents a connection between two entities or concepts that are linked by shared, fundamental ideas or principles, often highlighting similarities in their roles, functions, or underlying mechanisms within a biological or medical context.
+
+In a biomedical knowledge graph, the relation "connected&to" typically indicates a direct or functional association between two entities, such as molecules, genes, diseases, or biological processes, where one entity is linked to or interacts with the other in a biological context.
+
+In a biomedical knowledge graph, the relation "consists_of" denotes that one entity is composed of or made up of multiple constituent parts, which can be other entities or components within the biological or medical domain.
+
+In a biomedical knowledge graph, the relation "contains" typically signifies that one entity or concept includes or holds within it another entity, such as a biological process containing certain molecular components or a tissue type containing specific cell types.
+
+In a biomedical knowledge graph, the relation "degree_of" typically indicates the extent or level of a particular characteristic, condition, or property associated with an entity, such as the severity of a disease or the concentration of a biomolecule in a sample.
+
+In a biomedical knowledge graph, the relation "derivative_of" typically signifies that one biological entity, process, or concept is a result or consequence of another, indicating a direct evolutionary, biochemical, or functional link between the two.
+
+In a biomedical knowledge graph, the relation "developmental&form&of" typically signifies that one biological entity or process (such as a gene, protein, or structure) is a specific manifestation or stage in the development of another organism, tissue, or anatomical structure.
+
+In a biomedical knowledge graph, the relation "diagnoses" refers to the connection between a patient or individual and a specific medical condition or disease that has been identified based on clinical evaluation, symptoms, or diagnostic tests.
+
+In a biomedical knowledge graph, the relation "disrupts" indicates that one entity (such as a gene, protein, or drug) interferes with or negatively impacts the normal function or activity of another entity (such as a biological process, molecular function, or signaling pathway).
+
+In a biomedical knowledge graph, the relation "evaluation&of" typically refers to the process of assessing or examining a specific biological or medical entity, such as a treatment, intervention, or condition, in relation to another entity (e.g., a disease or patient population) to determine its effectiveness or impact.
+
+In a biomedical knowledge graph, the relation "exhibits" typically refers to a biological entity or subject demonstrating or manifesting a particular characteristic, symptom, phenotype, or molecular behavior, often in relation to a disease or condition.
+
+In a biomedical knowledge graph, the relation "indicates" typically signifies a connection where one entity (such as a biomarker, gene, or condition) is a sign, symptom, or predictor of another entity (such as a disease, outcome, or clinical manifestation).
+
+In a biomedical knowledge graph, the relation "ingredient&of" typically represents a connection where a specific ingredient is a component or part of a larger compound, formulation, or entity, such as a drug or biological substance.
+
+In a biomedical knowledge graph, the relation "interacts_with" signifies a relationship between two entities (such as proteins, genes, or drugs) where they engage in a molecular or biochemical interaction, potentially influencing each other's function or activity.
+
+In a biomedical knowledge graph, the relation "interconnects" typically refers to a link that represents a functional, molecular, or biological connection between two entities, such as genes, proteins, pathways, or diseases, indicating their mutual interaction or involvement in a shared biological process.
+
+In a biomedical knowledge graph, the relation "isa" denotes a hierarchical connection where one entity is a specific type or subclass of another, indicating that the first entity is a more specific instance of the second.
+
+In a biomedical knowledge graph, the relation "issue&in" typically represents a connection where a specific issue, condition, or problem is related to or occurs within a particular context, such as a disease manifesting in a specific organ or system of the body.
+
+In a biomedical knowledge graph, the relation "location&of" typically indicates the anatomical or biological location where a specific entity, such as a gene, protein, or disease, is found or expressed within an organism.
+
+In a biomedical knowledge graph, the relation "manages" typically denotes a connection where one entity, such as a biological process, treatment, or gene, actively regulates, controls, or oversees another entity's function, activity, or state.
+
+In a biomedical knowledge graph, the relation "manifestation&of" refers to the occurrence or expression of a disease, condition, or phenotype as a result of or associated with a specific underlying cause, such as a genetic mutation, infection, or environmental factor.
+
+In a biomedical knowledge graph, the relation "measurement&of" typically denotes the association between a specific measurement (such as a lab result, observation, or test) and the entity or phenomenon being measured (like a biomarker, physiological parameter, or disease characteristic).
+
+In a biomedical knowledge graph, the relation "measures" typically represents the connection between a specific entity (such as a biological variable, treatment, or intervention) and the quantitative or qualitative assessment (e.g., measurement or evaluation) of that entity's effect, value, or status.
+
+In a biomedical knowledge graph, the relation "method&of" typically refers to the connection between a specific research or experimental method and the biological process, condition, or phenomenon it is used to study or investigate.
+
+In a biomedical knowledge graph, the relation "occurs_in" typically denotes the specific location, environment, or context where a biological event, process, or entity takes place, such as a disease occurring in a particular organ or a molecular interaction happening within a cell type.
+
+In a biomedical knowledge graph, the relation "part&of" typically denotes a relationship where one entity (e.g., a biological structure or component) is a physical or functional part of another entity (e.g., a larger system or organism).
+
+In a biomedical knowledge graph, the relation "performs" typically signifies the action or activity carried out by an entity, such as a gene, protein, or organism, in relation to a specific biological function, process, or experiment.
+
+In a biomedical knowledge graph, the relation "practices" typically indicates an association between a healthcare provider, practitioner, or institution and the specific medical, clinical, or healthcare activities they engage in or specialize in, such as treatments, procedures, or therapies.
+
+In a biomedical knowledge graph, the relation "precedes" indicates that one entity or event occurs or exists before another entity or event in a temporal, causal, or sequential context.
+
+In a biomedical knowledge graph, the relation "prevents" indicates that one entity (such as a drug, treatment, or intervention) inhibits or reduces the occurrence, progression, or impact of another entity (such as a disease, condition, or pathological process).
+
+In a biomedical knowledge graph, the relation "process&of" typically indicates that one biological process is a part or subset of another, signifying a hierarchical or functional relationship where the first process is a component or step within the larger process.
+
+In a biomedical knowledge graph, the relation "produces" typically indicates that a certain entity (such as a gene, protein, or enzyme) leads to the creation or synthesis of another entity (such as a molecule, product, or biological outcome).
+
+In a biomedical knowledge graph, the relation property "of" typically indicates a relationship between an entity and a specific characteristic, attribute, or association that it possesses, such as a gene being "of" a particular disease or protein "of" a specific function.
+
+In a biomedical knowledge graph, the relation "result&of" typically represents the outcome or effect that results from a specific biological or medical process, experiment, treatment, or condition.
+
+In a biomedical knowledge graph, the relation "surrounds" typically refers to a spatial or anatomical relationship where one entity (e.g., tissue, organ, or structure) is physically located around or encircles another entity, often implying a protective or encompassing interaction.
+
+In a biomedical knowledge graph, the relation "treats" refers to the connection between a medical treatment, such as a drug or therapy, and a specific disease or condition it is used to manage or alleviate.
+
+In a biomedical knowledge graph, the relation "uses" typically refers to the association where one entity (such as a drug, medical device, or treatment) is employed or applied to achieve a specific outcome or effect on another entity (such as a disease, condition, or biological process).
+
