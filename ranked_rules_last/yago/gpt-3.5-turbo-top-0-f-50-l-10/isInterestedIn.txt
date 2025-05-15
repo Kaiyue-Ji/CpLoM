@@ -1,0 +1,37 @@
+4	0.01834862385321101	0.05970149253731343	1.0	isInterestedIn <-- livesIn, inv_livesIn, isInterestedIn
+2	0.009174311926605505	0.5	1.0	isInterestedIn <-- isMarriedTo, inv_isMarriedTo, isInterestedIn
+1	0.0045871559633027525	0.06666666666666667	1.0	isInterestedIn <-- isPoliticianOf, inv_isPoliticianOf, isInterestedIn
+4	0.01834862385321101	1.0	1.0	isInterestedIn <-- isKnownFor, inv_isKnownFor, isInterestedIn
+1	0.0045871559633027525	0.125	1.0	isInterestedIn <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, isInterestedIn
+1	0.0045871559633027525	0.5	1.0	isInterestedIn <-- isAffiliatedTo, inv_isAffiliatedTo, isInterestedIn
+1	0.0045871559633027525	0.023255813953488372	1.0	isInterestedIn <-- worksAt, inv_worksAt, isInterestedIn
+3	0.013761467889908258	0.0013297872340425532	1.0	isInterestedIn <-- playsFor, inv_playsFor, isInterestedIn
+1	0.0045871559633027525	1.0	1.0	isInterestedIn <-- created, inv_created, isInterestedIn
+218	1.0	1.0	1.0	isInterestedIn <-- isInterestedIn
+14	0.06422018348623854	0.0050706265845708075	0.875	isInterestedIn <-- isCitizenOf, inv_isCitizenOf, isInterestedIn
+92	0.42201834862385323	0.00974782792964611	0.8141592920353983	isInterestedIn <-- wasBornIn, inv_wasBornIn, isInterestedIn
+22	0.10091743119266056	0.01649175412293853	0.7586206896551724	isInterestedIn <-- graduatedFrom, inv_graduatedFrom, isInterestedIn
+35	0.16055045871559634	0.029711375212224108	0.6481481481481481	isInterestedIn <-- hasWonPrize, inv_hasWonPrize, isInterestedIn
+9	0.04128440366972477	0.1323529411764706	0.6428571428571429	isInterestedIn <-- inv_influences, isKnownFor, isInterestedIn
+9	0.04128440366972477	0.1323529411764706	0.6428571428571429	isInterestedIn <-- inv_influences, inv_isKnownFor, isInterestedIn
+59	0.2706422018348624	0.013892159171179657	0.44029850746268656	isInterestedIn <-- diedIn, inv_diedIn, isInterestedIn
+69	0.3165137614678899	0.10043668122270742	0.3520408163265306	isInterestedIn <-- inv_influences, isInterestedIn
+141	0.6467889908256881	0.06464924346629987	0.32045454545454544	isInterestedIn <-- influences, inv_influences, isInterestedIn
+67	0.3073394495412844	0.07502799552071669	0.3116279069767442	isInterestedIn <-- influences, isInterestedIn
+2	0.009174311926605505	0.25	0.25	isInterestedIn <-- isInterestedIn, inv_influences, isInterestedIn
+92	0.42201834862385323	0.04896221394358701	0.24338624338624337	isInterestedIn <-- inv_influences, inv_influences, isInterestedIn
+36	0.1651376146788991	0.08823529411764706	0.24324324324324326	isInterestedIn <-- inv_influences, inv_isInterestedIn, isInterestedIn
+216	0.9908256880733946	0.20093023255813955	0.20093023255813955	isInterestedIn <-- isInterestedIn, inv_isInterestedIn, isInterestedIn
+79	0.3623853211009174	0.023504909253198453	0.16596638655462184	isInterestedIn <-- influences, influences, isInterestedIn
+9	0.04128440366972477	0.0371900826446281	0.16071428571428573	isInterestedIn <-- inv_influences, isKnownFor
+193	0.8853211009174312	0.028445099484156227	0.13524877365101612	isInterestedIn <-- inv_influences, influences, isInterestedIn
+1	0.0045871559633027525	0.05555555555555555	0.125	isInterestedIn <-- isKnownFor
+196	0.8990825688073395	0.00017357974572338472	0.07142857142857142	isInterestedIn <-- hasGender, inv_hasGender, isInterestedIn
+5	0.022935779816513763	0.0007652280379553107	0.008051529790660225	isInterestedIn <-- inv_influences
+2	0.009174311926605505	0.0007259528130671506	0.0007259528130671506	isInterestedIn <-- isInterestedIn, inv_isInterestedIn
+2	0.009174311926605505	8.224360555966774e-05	0.00041399296211964395	isInterestedIn <-- inv_influences, inv_influences, isInterestedIn, inv_isInterestedIn
+1	0.0045871559633027525	2.871995175048106e-05	0.00034965034965034965	isInterestedIn <-- influences, inv_influences
+19	0.0871559633027523	1.6267660204024712e-07	6.692615227460857e-05	isInterestedIn <-- hasGender, inv_hasGender, influences
+14	0.06422018348623854	6.730271866913974e-09	2.768729416227246e-06	isInterestedIn <-- hasGender, inv_hasGender
+10	0.045871559633027525	1.3849380261699827e-07	2.5595079192454776e-06	isInterestedIn <-- influences, hasGender, inv_hasGender
+12	0.05504587155963303	1.5439791260198079e-07	2.3558652209507096e-06	isInterestedIn <-- inv_influences, hasGender, inv_hasGender

@@ -1,0 +1,62 @@
+1	2.9462110253108987e-06	0.5	1.0	isAffiliatedTo <-- participatedIn, inv_participatedIn, isAffiliatedTo
+11	3.240832127841989e-05	0.07857142857142857	1.0	isAffiliatedTo <-- worksAt, inv_worksAt, isAffiliatedTo
+1	2.9462110253108987e-06	1.0	1.0	isAffiliatedTo <-- edited, inv_edited, isAffiliatedTo
+2	5.892422050621797e-06	1.0	1.0	isAffiliatedTo <-- isKnownFor, inv_isKnownFor, isAffiliatedTo
+50	0.00014731055126554496	1.0	1.0	isAffiliatedTo <-- owns, inv_owns, isAffiliatedTo
+19	5.597800948090708e-05	0.6551724137931034	1.0	isAffiliatedTo <-- directed, inv_directed, isAffiliatedTo
+25	7.365527563277248e-05	0.8928571428571429	1.0	isAffiliatedTo <-- wroteMusicFor, inv_wroteMusicFor, isAffiliatedTo
+10	2.946211025310899e-05	0.2777777777777778	1.0	isAffiliatedTo <-- hasAcademicAdvisor, inv_hasAcademicAdvisor, isAffiliatedTo
+1	2.9462110253108987e-06	0.023255813953488372	1.0	isAffiliatedTo <-- isInterestedIn, inv_isInterestedIn, isAffiliatedTo
+288	0.0008485087752895389	0.8347826086956521	0.9696969696969697	isAffiliatedTo <-- isMarriedTo, inv_isMarriedTo, isAffiliatedTo
+92	0.0002710514143286027	0.609271523178808	0.8598130841121495	isAffiliatedTo <-- created, inv_created, isAffiliatedTo
+229794	0.6770216163502927	0.7881290535002007	0.8589562922620895	isAffiliatedTo <-- playsFor
+125	0.0003682763781638624	0.06677350427350427	0.8278145695364238	isAffiliatedTo <-- actedIn, inv_actedIn, isAffiliatedTo
+1036	0.0030522746222220913	0.7719821162444114	0.7719821162444114	isAffiliatedTo <-- isAffiliatedTo, inv_isLeaderOf, isAffiliatedTo
+477	0.0014053426590732987	0.636	0.7035398230088495	isAffiliatedTo <-- isLeaderOf, inv_isLeaderOf, isAffiliatedTo
+3278	0.009657679740969127	0.665718927701056	0.665718927701056	isAffiliatedTo <-- isAffiliatedTo, inv_owns, owns
+35	0.00010311738588588146	0.078125	0.6481481481481481	isAffiliatedTo <-- influences, inv_influences, isAffiliatedTo
+25	7.365527563277248e-05	0.004560379423568041	0.5555555555555556	isAffiliatedTo <-- isLocatedIn, inv_isLocatedIn, isAffiliatedTo
+1315	0.003874267498283832	0.4804530507855316	0.5112752721617418	isAffiliatedTo <-- hasChild, inv_hasChild, isAffiliatedTo
+227	0.0006687899027455741	0.3893653516295026	0.3893653516295026	isAffiliatedTo <-- isAffiliatedTo, inv_created, isAffiliatedTo
+3	8.838633075932696e-06	0.375	0.375	isAffiliatedTo <-- isLeaderOf, isAffiliatedTo
+776	0.0022862597556412576	0.31673469387755104	0.3508137432188065	isAffiliatedTo <-- hasChild, isAffiliatedTo
+505	0.001487836567782004	0.09112233850595453	0.343070652173913	isAffiliatedTo <-- livesIn, inv_livesIn, isAffiliatedTo
+2	5.892422050621797e-06	0.0125	0.3333333333333333	isAffiliatedTo <-- influences, isAffiliatedTo
+17	5.008558743028528e-05	0.0006573350862268966	0.21518987341772153	isAffiliatedTo <-- hasMusicalRole, inv_hasMusicalRole, isAffiliatedTo
+1570	0.004625551309738111	0.04878503511279597	0.16719914802981894	isAffiliatedTo <-- graduatedFrom, inv_graduatedFrom, isAffiliatedTo
+453	0.0013346335944658372	0.14636510500807753	0.14636510500807753	isAffiliatedTo <-- isAffiliatedTo, inv_owns, isAffiliatedTo
+7743	0.02281251196898229	0.04794991361212774	0.143473910465461	isAffiliatedTo <-- diedIn, inv_diedIn, isAffiliatedTo
+1791	0.00527666394633182	0.11580240527608948	0.13879417234965902	isAffiliatedTo <-- isPoliticianOf, inv_isPoliticianOf, isAffiliatedTo
+53	0.00015614918434147764	0.11674008810572688	0.11674008810572688	isAffiliatedTo <-- isAffiliatedTo, isAffiliatedTo
+14	4.124695435435258e-05	0.0025293586269196024	0.11023622047244094	isAffiliatedTo <-- actedIn, inv_actedIn, playsFor
+861	0.002536687692792684	0.009626350036895418	0.08272482705611069	isAffiliatedTo <-- isCitizenOf, inv_isCitizenOf, isAffiliatedTo
+73	0.00021507340484769563	0.049026192075218265	0.07366296670030273	isAffiliatedTo <-- isLeaderOf, inv_isLeaderOf, isLeaderOf
+368	0.0010842056573144108	0.07142857142857142	0.07142857142857142	isAffiliatedTo <-- isAffiliatedTo, inv_worksAt, worksAt
+3884	0.011443083622307532	0.031798272544926114	0.05911450009893003	isAffiliatedTo <-- hasWonPrize, inv_hasWonPrize, isAffiliatedTo
+19469	0.05735978245177789	0.036188270457553275	0.05388238810596584	isAffiliatedTo <-- wasBornIn, inv_diedIn, isAffiliatedTo
+15467	0.045569045928483674	0.033157402802311824	0.052579513468677334	isAffiliatedTo <-- wasBornIn, inv_diedIn, playsFor
+163868	0.4827897082956464	0.03193965559248034	0.04410994376835469	isAffiliatedTo <-- wasBornIn, inv_wasBornIn, isAffiliatedTo
+124575	0.3670242384781052	0.030585142949176244	0.04064666619029394	isAffiliatedTo <-- wasBornIn, inv_wasBornIn, playsFor
+1	2.9462110253108987e-06	0.02	0.02	isAffiliatedTo <-- isAffiliatedTo, inv_influences, influences
+20	5.892422050621798e-05	0.015372790161414296	0.015372790161414296	isAffiliatedTo <-- isAffiliatedTo, playsFor
+278473	0.820440222851402	0.006798414568308133	0.007264411531223211	isAffiliatedTo <-- playsFor, inv_isAffiliatedTo, playsFor
+288721	0.8506329934387881	0.007123822246051557	0.007123822246051557	isAffiliatedTo <-- isAffiliatedTo, inv_playsFor, playsFor
+278675	0.8210353574785147	0.006605052377407632	0.007067193995445194	isAffiliatedTo <-- playsFor, inv_playsFor, playsFor
+306392	0.9026954884670569	0.00659691808226718	0.007046333520320556	isAffiliatedTo <-- playsFor, inv_playsFor, isAffiliatedTo
+288534	0.8500820519770549	0.007018570286481063	0.007018570286481063	isAffiliatedTo <-- isAffiliatedTo, inv_isAffiliatedTo, playsFor
+311570	0.9179509691561167	0.006968882865508366	0.006968882865508366	isAffiliatedTo <-- isAffiliatedTo, inv_playsFor, isAffiliatedTo
+339363	0.9998350121825826	0.006819468760122183	0.006819468760122183	isAffiliatedTo <-- isAffiliatedTo, inv_isAffiliatedTo, isAffiliatedTo
+305981	0.9014845957356542	0.006329994453877158	0.006758851193436527	isAffiliatedTo <-- playsFor, inv_isAffiliatedTo, isAffiliatedTo
+13	3.8300743329041687e-05	0.0010241058767921853	0.006243996157540826	isAffiliatedTo <-- livesIn, inv_livesIn, playsFor
+86375	0.25447897731122887	0.005910834033566147	0.005910834033566147	isAffiliatedTo <-- isAffiliatedTo, isLocatedIn, inv_isLocatedIn
+12	3.5354532303730784e-05	1.90721997830728e-07	0.001156849513159163	isAffiliatedTo <-- isLocatedIn, inv_isLocatedIn
+234770	0.6916819624122398	0.0005406503001777885	0.0007845447471831872	isAffiliatedTo <-- hasGender, inv_hasGender, playsFor
+277177	0.816621933362599	0.0005038138290798739	0.0007286068930112499	isAffiliatedTo <-- hasGender, inv_hasGender, isAffiliatedTo
+29	8.544011973401607e-05	2.0434580101087752e-05	0.00029851668090625545	isAffiliatedTo <-- hasWonPrize, inv_hasWonPrize
+3	8.838633075932696e-06	2.6173899387530754e-05	0.00012757271644837557	isAffiliatedTo <-- graduatedFrom, inv_graduatedFrom, graduatedFrom
+276	0.0008131542429858081	1.0985556023768444e-05	1.602672700613249e-05	isAffiliatedTo <-- hasGender, inv_hasGender, worksAt
+1	2.9462110253108987e-06	1.458348828289634e-06	1.4277351836781313e-05	isAffiliatedTo <-- diedIn, inv_diedIn
+2	5.892422050621797e-06	6.631255760903442e-07	1.2126628682023424e-06	isAffiliatedTo <-- wasBornIn, inv_wasBornIn
+28	8.249390870870516e-05	9.788288410799364e-07	9.788288410799364e-07	isAffiliatedTo <-- isAffiliatedTo, inv_isAffiliatedTo
+13	3.8300743329041687e-05	4.861766878278187e-07	5.194958396775098e-07	isAffiliatedTo <-- playsFor, inv_playsFor
+138	0.00040657712149290404	6.63412512595806e-08	9.606106463216608e-08	isAffiliatedTo <-- hasGender, inv_hasGender
