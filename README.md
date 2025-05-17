@@ -36,7 +36,7 @@ Sort and rank the merged rules.
 python sorted_rule.py --dataset family -p gpt-3.5-turbo-top-0-f-50-l-10
 python rank_rule.py --dataset family -p gpt-3.5-turbo-top-0-f-50-l-10
 ```
-### Knowledge Graph Completion
+### 5. Knowledge Graph Completion
 Apply filtered rules to infer new facts and complete the KG.
 ```python
 python kg_completion.py --dataset family --input_folder sorted_rules -p gpt-3.5-turbo-top-0-f-50-l-10
