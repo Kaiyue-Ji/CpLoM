@@ -286,7 +286,7 @@ if __name__ == "__main__":
     parser.add_argument('--input_folder', default='ranked_rules')
     # parser.add_argument('--sorted_rules', default='sorted_rules')
     parser.add_argument("--dataset", default="family")
-    parser.add_argument('--output_path', default='pred_results', type=str, help='path to save pred results')
+    parser.add_argument('--output_path', default='pred_results1', type=str, help='path to save pred results')
     parser.add_argument("-p", default='gpt-3.5-turbo-top-0-f-50-l-10', help="rule path")
     parser.add_argument("--eval_mode", choices=['all', "test", 'fact'], default="all",
                         help="evaluate on all or only test set")

@@ -160,7 +160,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--dataset", type=str, default="family", help="dataset")
     parser.add_argument(
-        "--rule_path", type=str, default="gen_rules", help="path to rule file"
+        "--rule_path", type=str, default="gen_rules1", help="path to rule file"
     )
     parser.add_argument("--model_name", type=str, default="gpt-3.5-turbo", help="model name")
     parser.add_argument(
